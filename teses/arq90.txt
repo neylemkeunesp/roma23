@@ -1,0 +1,395 @@
+Terapia comunitária:
+prática relatada pelos profissionais da rede SUS de Santa Catarina, Brasil
+Cristina dos Santos Padilha1
+Walter Ferreira de Oliveira2
+PADILHA, C.S.; OLIVEIRA, W.F . Community therapy: practice reported by professionals
+within SUS in Santa Catarina, Brazil. Interface - Comunic., Saude, Educ. , v.16, n.43,
+p.1069-83, out./dez. 2012.
+The aim of this exploratory and
+descriptive study was to describe thecommunity therapy practices reported by27 healthcare professionals within theBrazilian National Health System (SUS), inSanta Catarina, Brazil. The data weregathered through individual semi-directed interviews, and content analysiswas used for categorical themes. Theresults were grouped into five categories:community therapy practices;implementation strategies; difficulties;facilitative elements; and benefits. It wasconcluded that community therapy cancontribute towards construction ofexpanded clinical action and improvedvalue for territory resources. However,community therapists’ actions need to beextended to a multidisciplinary team,have dialogue with other entities, receivesupport from service management and beallied to other public policies, in order toexpand their field of action fromhealthcare to other sectors.
+Keywords : Community therapy. SUS.
+Healthcare professionals. Healthcarepractices. Psychosocial intervention.O objetivo deste estudo, de natureza
+exploratória e descritiva, foi descrever aspráticas de T erapia Comunitária relatadaspor 27 profissionais de saúde da rede doSistema Único de Saúde (SUS) de SantaCatarina, sul do Brasil. Os dados foramcoletados por meio de entrevistasindividuais semidirigidas, empregando-sea Análise de Conteúdo como temáticacategorial. Os resultados foramagrupados em cinco categorias: práticasde terapia comunitária; estratégias deimplantação; dificuldades; elementosfacilitadores; e benefícios. Conclui-se quea T erapia Comunitária pode contribuirpara a construção de uma clínicaampliada e para a valorização dosrecursos do território. No entanto, énecessário que a atuação do terapeutacomunitário seja estendida a uma equipemultidisciplinar, dialogue com outrosdispositivos, receba o apoio das gestõesdos serviços e se alie a outras políticaspúblicas, ampliando seu campo de açãoda saúde para outros setores.
+Palavras-chave : T erapia comunitária. SUS.
+Profissionais de saúde. Práticas de saúde.Intervenção psicossocial.1 Departamento de
+Psicologia, Universidade
+do Oeste de Santa
+Catarina. Rua
+Clevelândia, 32 D, apto.
+703, Centro. Chapecó,SC, Brasil. 89.802-410.
+padilha.psico@gmail.com
+2 Departamento de
+Saúde Coletiva,
+Universidade Federal de
+Santa Catarina
+v.16, n.43, p.1069-83, out./dez. 2012 1069 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO
+artigosTERAPIA COMUNITÁRIA: PRÁTICA RELATADA ...
+1070 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO v.16, n.43, p.1069-83, out./dez. 2012
+ Introdução
+A T erapia Comunitária (TC), desenvolvida pelo Departamento de Saúde Comunitária da Faculdade de
+Medicina da Universidade Federal do Ceará e sistematizada desde 1987, é definida como umametodologia de intervenção em comunidades, por meio de encontros interpessoais e intercomunitários.Seu objetivo é a promoção da saúde através: da construção de vínculos solidários, valorização dasexperiências de vida dos participantes, do resgate da identidade, da restauração da autoestima eampliação da percepção dos problemas e possibilidades de resolução a partir das competências locais(Andrade et al., 2009).
+Esse instrumento se propõe a auxiliar a construção de redes solidárias e tem como alicerce cinco
+eixos teóricos: Pensamento Sistêmico, Teoria da Comunicação, Antropologia Cultural, Pedagogia
+de Paulo Freire e conceito de Resiliência . Esses enfoques teóricos legitimam algumas premissas e
+posturas adotadas pelos terapeutas comunitários, tal como o reconhecimento da importância deperceber o sujeito em seu contexto, como parte indissociável de uma rede de relações. As trocasintersubjetivas são mediadas pela linguagem, daí a necessidade de se contextualizar culturalmente asdiversas palavras e significados, valorizando conhecimentos, crenças e manifestações popularesimprescindíveis para a transformação do indivíduo em sujeito agente de sua própria história. Asexperiências de vida e o conhecimento delas advindo devem ser partilhados de forma horizontal ecircular. Acredita-se que indivíduos e grupos sociais dispõem de mecanismos próprios para superar asadversidades contextuais (Camargo, 2005).
+A aprovação da Política Nacional de Práticas Integrativas e Complementares (PNPIC) em 2006 dá
+subsídios para estender a TC – prática que já acontece há mais de vinte anos em Fortaleza – a outrasregiões do país. Em 2008, é firmado um convênio entre o Ministério da Saúde (MS) e a FundaçãoCearense de Pesquisa e Cultura para implantar a TC na Rede de Assistência à Saúde do Sistema Únicode Saúde (SUS). O projeto visa desenvolver, nos profissionais de saúde e nas lideranças comunitárias, ascompetências necessárias para lidar com os sofrimentos e demandas psicossociais e promover redes deapoio social, ampliando a resolutividade da Atenção Básica (Brasil, 2006c).
+A inserção da TC no SUS responde às demandas expressas na Política Nacional de Atenção Básica,
+entre elas: a implementação das diretrizes da Política Nacional de Humanização (PNH) através doacolhimento, da realização da escuta qualificada das necessidades dos usuários e do estabelecimento dovínculo (Brasil, 2008; 2006a). Responde, também, aos interesses da Política Nacional de Promoção daSaúde, que tem como uma de suas diretrizes fortalecer a participação social, entendendo-a comofundamental na consecução de resultados de promoção da saúde, em especial, a equidade e oempoderamento individual e comunitário, privilegiando as práticas de saúde sensíveis à realidade doBrasil (Brasil, 2006b).
+Em Santa Catarina, em 2009, foram selecionados profissionais de saúde para a realização de um
+curso de formação em TC, financiado pelo MS e pela Secretaria de Saúde do Estado. A relevância de talproposta ancora-se na visão de que são necessários novos
+ sujeitos com tecnologias apropriadas para
+encontrar respostas satisfatórias construídas coletivamente. A necessidade de se implantar um modelode atenção à saúde mental com base comunitária, priorizando-se a promoção da saúde e a prevençãodo adoecimento, coincide com a proposta da TC de criar redes de apoio solidárias a indivíduos e famíliasque vivenciam situação de sofrimento emocional ou psíquico. O presente trabalho resgata essaexperiência de capacitação e objetiva descrever as práticas de TC relatadas pelos profissionais de saúdeda rede SUS de Santa Catarina.
+Práticas de TC no contexto da saúde coletiva
+As pesquisas sobre a TC no contexto da saúde coletiva têm se voltado para as repercussões desse
+instrumento na vida do usuário. Alguns estudos abordam a realidade da Atenção Básica, nos gruposespecíficos de TC ou nos grupos temáticos que ocorrem nas unidades de saúde, como grupos comgestantes ou idosos, e que incorporam essa metodologia (Andrade et al., 2010; Filha et al., 2009;Guimarães, Vala, 2009; Rocha et al., 2009; Souza et al., 2007; Victor et al., 2007; Guimarães, 2006;PADILHA, C.S.; OLIVEIRA, W.F .
+artigos
+v.16, n.43, p.1069-83, out./dez. 2012 1071 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO
+Holanda, 2006). Outros estudos se voltam para o contexto dos Centros de Atenção Psicossocial (CAPS),
+indicando a TC como um instrumento capaz de fomentar a construção da rede e explorar os recursos doterritório (Filha, Carvalho, 2010; Mota, 2007; Machado, 2006). Alguns autores discorrem ainda sobre anecessidade de capacitação dos profissionais da Estratégia Saúde da Família (ESF) para a promoção deum atendimento integral, o que requer lidar, também, com as demandas de saúde mental, apontando aTC como um instrumento que pode responder parcialmente a essa demanda profissional (Silva, 2010;Soares, 2008; Fukui, Machetti, 2004).
+A TC praticada no âmbito do SUS traz inovações às práticas grupais: importa mais a experiência de
+vida das pessoas do que o saber técnico, todos detêm conhecimento, sem hierarquizações das relaçõesinterpessoais, sendo desejável que as pessoas compartilhem sentimentos. Nesse espaço, a identidadedo terapeuta comunitário prevalece sobre a identidade do profissional de saúde, essa é a essência daproposta que pretende fortalecer vínculos e humanizar as relações entre a comunidade e osprofissionais.
+T al forma de atuar é congruente com a proposta da clínica ampliada e com o enfoque transdisciplinar
+em saúde. De acordo com Campos (2005), a clínica ampliada, uma das diretrizes da PNH (Brasil, 2008),requer que o profissional construa vínculos duradouros com os usuários e se aproxime das redesfamiliares e sociais dos mesmos. Através da elucidação dos aspectos orgânicos, subjetivos e sociais decada sujeito, é possível respeitar a singularidade de cada caso. O enfoque transdisciplinar (Lopes, 2009),por sua vez, faz dialogar diversas formas de saber e vários níveis de realidade, trazendo importantescontribuições para a prática clínica, já que, filosoficamente, todo membro da equipe é considerado umparceiro de igual para igual, e suas habilidades profissionais, qualidades pessoais, valores, tradiçõesculturais, emoções, conhecimento, treino e experiências de vida são atributos valiosos para ofuncionamento do grupo, incluindo o doente.
+O acolhimento, uma das diretrizes da PNH, é percebido, por T esser, Poli Neto e Campos (2010),
+como uma proposta para a melhoria das relações dos serviços de saúde com os usuários, concretizadono encontro do usuário que procura o serviço espontaneamente com profissionais de saúde ecaracterizado pela escuta, processamento da demanda e busca de resolução. Essas formas de atenção àdemanda espontânea propõem-se a servir de elo entre as necessidades dos usuários e as váriaspossibilidades de cuidado. A ideia é retirar do médico o papel de único protagonista do cuidado, ampliara clínica realizada pelos outros profissionais e incluir outras abordagens e explicações, além dasbiomédicas, para os adoecimentos e demandas. Daí a necessidade de se ampliar a oferta de serviços ede cuidados, sendo desejável a oferta e invenção de rituais de encontro, espaços terapêuticosindividuais e coletivos, o que requer estímulo institucional e um processo de educação permanente ecapacitação clínica para os profissionais. O acolhimento pode chegar a auxiliar a desmedicalizaçãoquando, além da habilidade clínica, houver: trabalho conjunto em equipe, construção de projetosterapêuticos e avaliações de riscos/vulnerabilidades individuais e coletivas, e consideração de elementosda vida familiar e social, para uma abordagem ampliada dos problemas.
+Gomes e Merhy (2011), através de revisão de artigos sobre Educação Popular em Saúde e
+discorrendo sobre as redes de apoio social no território, afirmam que a TC pode integrar ações deprevenção e promoção à saúde que tomam como foco o sujeito, e não as doenças. No entanto, osautores defendem que tais práticas não podem ser desenvolvidas de forma desarticulada de outrosmodos de luta social, para evitar que seu resultado seja mera resignação ou culpabilização dos sujeitos.
+Por isso, o terapeuta comunitário deve: reforçar vínculos entre as pessoas, mobilizar recursos e
+competências locais, respeitar as distintas culturas, promover redes de proteção e inclusão, e favorecer aconscientização social. Articular atividades dentro da comunidade e entre esta e a rede mais amplaauxilia não só a divulgação da TC, mas a resolução de problemas e a realização de encaminhamentosnecessários. A criação de uma equipe de trabalho comunitário pode auxiliar nas articulações necessárias,sendo o trabalho orientado para o incremento da autonomia de indivíduos, grupos e redes (Luisi, 2006).
+Somente essas articulações intersetoriais do terapeuta comunitário são capazes de proporcionar o
+empoderamento psicológico e comunitário. Segundo Carvalho (2004), o empoderamento psicológico éum sentimento de maior controle sobre a própria vida que os indivíduos experimentam através dopertencimento a distintos grupos, e que pode ocorrer sem que as pessoas participem de ações políticasTERAPIA COMUNITÁRIA: PRÁTICA RELATADA ...
+1072 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO v.16, n.43, p.1069-83, out./dez. 2012
+coletivas. Já o empoderamento comunitário (Carvalho, Gastaldo, 2008) demanda novos modos de fazer
+saúde, nos quais os usuários sejam percebidos na sua singularidade de sujeitos portadores de direito,implicando o enfrentamento das causas da iniquidade social, a legitimação de grupos marginalizados e aremoção de barreiras que limitam a produção de uma vida saudável para distintos grupos sociais.
+O empoderamento comunitário é um enfoque congruente ao de promoção da saúde tal como
+enunciado por Buss (2003), para quem, inicialmente, a promoção caracteriza um nível de atenção damedicina preventiva e evolui para um enfoque político e técnico em torno do processo saúde-doença-cuidado. Tal enfoque está associado a valores como: vida, saúde, solidariedade, equidade (distribuiçãode renda e acesso a bens e serviços), democracia, cidadania, desenvolvimento, participação e parceria,sendo complementar ao enfoque da prevenção. A promoção da saúde identifica e enfrenta osmacrodeterminantes do processo de saúde-doença e busca transformá-los na direção da saúde, tendocomo objetivo contínuo um nível ótimo de saúde. Para tanto, fazem-se necessários: o protagonismo deindivíduos não técnicos e de movimentos sociais, ações combinadas de políticas públicas, modificaçõesde estilos de vida e intervenção ambiental. Saúde é sinônimo de bem-estar e qualidade de vida, estadodinâmico socialmente produzido.
+O pensamento de Paulo Freire é um dos eixos teóricos da TC e a base da Educação Popular,
+caracterizada por Vasconcelos (2004) como um saber importante para a construção da participaçãopopular, servindo não apenas para a criação de uma nova consciência sanitária, como, também, parauma democratização mais radical das políticas públicas. Não é apenas um estilo de comunicação eensino, mas, também, um instrumento de gestão participativa de ação social. É, ainda, o jeito brasileirode fazer promoção da saúde. O autor ressalta a importância de que a Educação Popular deixe de seruma prática social que acontece de forma pontual no SUS, por meio da luta heroica de algunsprofissionais e de movimentos sociais, para ser generalizada amplamente nos diversos serviços desaúde. Uma das estratégias apontadas para isto é o apoio a iniciativas de formação profissional quebusquem reorientar as atitudes dos trabalhadores de saúde na relação com a população, de forma aproblematizar vivências, compartilhar iniciativas de enfrentamento e busca de soluções, e valorizar acuriosidade na busca de entendimento das raízes das questões sociais mais importantes.
+Na visão de Albuquerque e Stotz (2004), apesar de a educação popular se destacar dentre as formas
+alternativas de educação em saúde, podendo constituir-se um instrumento auxiliar na incorporação denovas práticas por profissionais e serviços de saúde, no dia a dia pouca ou nenhuma importância é dadaàs ações educativas. T rabalhos em grupos são, muitas vezes, marginalizados, profissionais envolvidosdesacreditados e desestimulados, a infraestrutura escassa e de difícil acesso. São grandes as dificuldadesdas equipes de saúde para efetivarem uma prática cotidiana de promoção através de ações educativas.Quando isso acontece, dá-se, muitas vezes, de acordo com o interesse individual dos profissionais,dificilmente estimulando a autonomia e a conscientização das comunidades. Os relatos de experiênciasde educação popular em saúde nos serviços frequentemente referem-se à “falta de apoio” dascoordenações ou das secretarias municipais e estaduais, refletindo o sentimento dos profissionais deestarem solitários no desenvolvimento deste trabalho.
+A educação para a saúde tem enfrentado grandes desafios criados pelas suas próprias e contraditórias
+proposições, em que assumem lugar de destaque: a promoção da livre escolha e, simultaneamente, doditar de escolhas saudáveis; a necessidade de compatibilizar a livre escolha com as opções ditadas pelamedicina; a promoção da autonomia; o advogar de determinadas racionalidades, e a aceitação deescolhas individuais, mesmo se não forem compatíveis com uma vida saudável. A maioria das ações deeducação para a saúde continua centrada na prevenção de doenças e na responsabilização individual,não considerando as causas sociais da falta de saúde com a ênfase desejada. As práticas de educaçãopara a saúde têm privilegiado a informação, assumindo ser possível modificar o comportamentoindividual pela comunicação de mensagens e através de múltiplas estratégias de argumentação, onde seacentuam os efeitos nocivos sobre a saúde, se contrapõem estilos de vida mais saudáveis, se apela àresponsabilidade social do portador de determinado risco (Mendes, 2009).PADILHA, C.S.; OLIVEIRA, W.F .
+artigos
+v.16, n.43, p.1069-83, out./dez. 2012 1073 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO
+Método
+Este estudo caracterizou-se como exploratório e descritivo. Participaram 27 profissionais de saúde,
+capacitados em um curso de T erapia Comunitária, oferecido pela Secretaria de Estado da Saúde de SantaCatarina, em parceria com o MS. Realizado entre 2009 e 2010, o curso disponibilizou 35 vagas epriorizou capacitar trabalhadores da saúde e da assistência social da região do Vale do Itajaí, devido àsenchentes e desastres ambientais ocorridos em 2008. O critério de inclusão dos sujeitos nesse estudo foiatuação profissional em serviços vinculados às Secretarias de Saúde dos municípios contemplados com ocurso. Dos 28 profissionais que foram contatados, apenas um recusou-se em participar do estudo.
+Para a coleta de dados, foram realizadas entrevistas individuais semidirigidas, gravadas e,
+posteriormente, transcritas. As questões do roteiro, pelo fato de suscitarem um discurso direto esimples, permitiram uma análise por categorias, desmembrando o texto em unidades temáticas.T omando como referência o trabalho de Bardin (1977), a análise de conteúdo temática categorial seguiutrês etapas: Pré-análise; Exploração do material textual; T ratamento dos resultados, inferência einterpretação. A sistematização dos resultados foi pautada por procedimentos propostos por Oliveira(2008) e está expressa no Quadro 1.
+Resultados e discussão
+Caracterização dos participantes
+Participaram deste estudo 27 profissionais de saúde da rede SUS de Santa Catarina, dos quais 17
+(62,97%) são da região do Vale do Itajaí, das cidades de Apiúna, Blumenau, Gaspar, Indaial, Itajaí,Rodeio e Timbó. Dez (37,03%) profissionais são da região do Litoral, das cidades de Florianópolis ePalhoça.
+Dentre os participantes, 20 (74,07%) são do sexo feminino e sete (25,93%) do sexo masculino, a
+maioria na faixa etária de trinta e 39 anos (12 - 44,44%), seguidos por participantes com idade entrevinte e 29 anos (7 - 25,93%), entre quarenta e 49 anos (5 - 18,52%), sendo somente três (11,11%)participantes pertencentes à faixa etária de cinquenta a 59 anos.
+Em relação à renda familiar, 15 (55,56%) profissionais enquadram-se na categoria que compreende
+entre cinco e dez salários-mínimos, seis (22,22%) têm renda familiar até cinco salários-mínimos, e seis(22,22%) têm renda familiar superior a dez salários-mínimos.
+A maioria dos sujeitos tem especialização 
+latu sensu  (17 - 62,96%), seguidos por profissionais com
+curso Superior completo (9 - 33,33%), e por um (3,71%) profissional com curso técnico.
+Em relação aos cargos ocupados, a maioria atua em equipes técnicas (21 - 77,78%) e o restante na
+gestão (4 - 14, 81%) e em coordenações de serviços (2 - 7,41%). A maioria dos profissionais temexperiência no cargo entre um e cinco anos (15 - 55,56%), seguidos por profissionais com experiênciaentre seis e dez anos (6 - 22,22%), com experiência menor que um ano (4 - 14,81%) e superior a dezanos (2 - 7,41%).
+Dentre os serviços a que estão vinculados, encontram-se serviços da Atenção Primária, onde atuam
+dez (37,04%) sujeitos, serviços da Atenção Secundária (basicamente os CAPS), onde atuam 13(48,15%) entrevistados, e instituições de gestão dos serviços de saúde, onde atuam quatro (14,81%)profissionais.
+TC praticada na rede SUS de Santa Catarina
+A partir da Análise de Conteúdo temática categorial (Bardin, 1977), foram obtidos 29 temas,
+compostos de trezentas e dez unidades de registro, que se agruparam em cinco categorias: Práticas deTC, Estratégias de Implantação, Dificuldades, Elementos Facilitadores e Benefícios. A seguir, serãodetalhados os conteúdos de cada categoria, bem como alguns aspectos relevantes emergentes noprocesso de categorização do conteúdo.TERAPIA COMUNITÁRIA: PRÁTICA RELATADA ...
+1074 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO v.16, n.43, p.1069-83, out./dez. 2012
+Quadro 1. Demonstrativo do processo de construção das categorias temáticas – operacionalização proposta por Oliveira
+(2008)
+Cód.
+01
+0203040506070809
+10
+1112
+13
+1415161718
+19
+20
+21
+22232425
+26
+27282930T emas/unidades de significação
+Grupos na atenção básica
+Grupos no capsAplicação de preceitos da tc a outras práticasGrupos na comunidadeGrupos com profissionais de saúdeRealização de grupos com profissionais do serviçoAuxílio dos ACS para divulgaçãoElaboração de projeto para a gestão localCapacitação de ACS para atuarem como
+coterapeutas
+Divulgação através de cartazesResistência dos usuários a trabalhos grupaisSobrecarga de trabalho
+Decorrentes do formato metodológico
+Decorrentes da estrutura e do processo de trabalhoFalta de apoio da gestão localFalta de apoio dos demais profissionais do serviçoProblemas pessoaisReceptividade dos usuários e demais profissionais
+do serviço
+Vinculação prévia dos usuários ao serviçoPresença de profissional que auxilie a condução
+do grupo
+Apoio da gestão localEfeito terapêuticoFomento das práticas grupaisAtenção às demandas de saúde mentalFomento às redes sociais
+Acolhimento
+AutonomiaAtenção humanizadaCongruência com a realidade do SUSEmpoderamentoTotal UR
+17
+1407050505050302
+01
+2218
+17
+0908030305
+04
+01
+01
+38282521
+12
+09090706T otal entrev.
+13
+1307050505050302
+01
+1011
+12
+0904030305
+04
+01
+01
+22181817
+11
+07080705Categoria
+Práticas de TC
+Estratégias de
+implantação
+Dificuldades
+Elementos
+facilitadores
+BenefíciosTotal UR
+48
+16
+80
+11
+155
+%
+15,48
+5,16
+25,81
+3,55
+50,00PADILHA, C.S.; OLIVEIRA, W.F .
+artigos
+v.16, n.43, p.1069-83, out./dez. 2012 1075 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO
+Práticas de TC
+Essa categoria contém 48 (15,48%) unidades de registro, agrupadas em cinco temas que expressam
+os diferentes usos que os profissionais relataram ter dado à TC a partir de sua realidade concreta detrabalho, englobando práticas decorridas (27 grupos) e práticas perpetuadas até o momento da coleta dedados (vinte grupos).
+A TC é predominantemente aplicada no contexto da Atenção Básica, sendo também utilizada nos
+CAPS, em grupos específicos ou aplicando seu formato metodológico a outros grupos temáticosoferecidos nos serviços.
+Outro uso que os profissionais relatam fazer dessa metodologia é aplicar algum de seus preceitos a
+outras práticas por eles desenvolvidas. Nesse caso, a TC não é realizada tal como proposto pelaformação, com todas as suas etapas e regras, mas alguns aprendizados que os profissionais consideramrelevantes passam a ser norteadores de outras práticas desenvolvidas no âmbito da saúde coletiva, comoo preceito da horizontalidade:
+“Na verdade, a seqüência eu não utilizo, mas tiro bastante coisas da TC para passar para eles
+(usuários). T udo o que eu aprendi no grupo, da simplicidade, de estar junto com eles, denão achar que é profissional e que está acima, então eu procuro sempre olhar por esse lado.Eu já vinha tentando fazer isso, mas a TC me ensinou a mostrar para eles esse lado, que paramim é muito importante, mais importante do que qualquer outra teoria”. (Sujeito 01)
+Os profissionais de saúde utilizam a TC também nas comunidades, desvinculando esses grupos da
+estrutura física dos serviços de saúde. Esse uso está mais atrelado à proposta de Adalberto Barreto, devalorização do contexto comunitário e, embora considerado desejável pelos profissionais, exige outronível de articulação com o território e demanda o deslocamento dos serviços onde atuam, o que, naprática, dificilmente ocorre.
+T al resultado evidencia que os profissionais de saúde encontram obstáculos para fazerem articulações
+com as comunidades e para que a TC possa integrar aquilo que Gomes e Merhy (2011) consideramcomo ações de prevenção e promoção à saúde articuladas com outros modos de luta social.
+Foi também relatada a realização de grupos de TC com profissionais de saúde, como um espaço
+destinado ao cuidado dos cuidadores. O cuidado do cuidador é um dos módulos da capacitação em TC,bastante valorizado pelos profissionais entrevistados, que se sentiram cuidados. É possível que, a partirdessa capacitação, os profissionais de saúde tenham se sensibilizado para a necessidade de cuidar dosdemais profissionais da rede, como uma forma de valorização profissional.
+Estratégias de implantação
+Essa categoria contém 16 (5,16%) unidades de registro, agrupadas em cinco temas relativos aos
+procedimentos adotados pelos sujeitos com a finalidade de efetivar a prática da TC em seu cotidiano detrabalho.
+Dentre as estratégias utilizadas, foram relatadas: realização de grupos com profissionais dos
+serviços
+, para que conhecessem a proposta e pudessem divulgá-la para os usuários ou, até mesmo,
+para que pudessem fazer encaminhamentos para esse espaço coletivo; auxílio dos Agentes
+Comunitários de Saúde  (ACS’s), para divulgarem o grupo nas áreas de abrangência dos serviços;
+elaboração de um projeto para a gestão local, para formalizar a nova proposta e obter autorização
+para aplicá-la; capacitação de ACS’s para atuarem como coterapeutas,  e divulgação através de
+panfletos e cartazes.
+T ais estratégias de implantação restringiram-se ao setor saúde, pois, como já relatado, os sujeitos
+encontram dificuldades para fazerem articulações com instituições comunitárias e movimentos sociais.Os profissionais que têm mais condições para realizar essa articulação, por conta das práticas diárias devisitas domiciliares, são os ACS’s, daí a importância de capacitar essa categoria para a condução detrabalhos grupais.TERAPIA COMUNITÁRIA: PRÁTICA RELATADA ...
+1076 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO v.16, n.43, p.1069-83, out./dez. 2012
+Dificuldades
+Essa categoria contém oitenta (25,81%) unidades de registro, agrupadas em sete temas que
+classificam as dificuldades percebidas pelos profissionais de saúde para inserir a TC na rede SUS de SantaCatarina.
+Um dos temas presentes nessa categoria é a resistência dos usuários a trabalhos grupais,
+característica atribuída à predominância de um modelo biomédico que se reflete na expectativa poratendimento individual. E, num grupo que se propõe a acolher sofrimentos e dificuldades, tal expectativafaz-se ainda mais notável já que os usuários têm receio de expor suas fragilidades e vulnerabilidades nocontexto coletivo, diante de pessoas conhecidas. Além disso, a proposta da TC é nova, ainda poucodifundida, e esse desconhecimento a nível social traz prejuízos para a adesão dos usuários.
+Conforme os profissionais relatam, parece ainda não haver uma cultura de grupo  entre os usuários e
+seus familiares, o que corrobora a dificuldade de adesão aos encontros de TC, apontada por Filha eCarvalho (2010).  Para tal impasse, pode-se buscar respaldo na reflexão que realiza Mendes (2009) arespeito da preponderância de modelos de educação em saúde caracterizados por relações grupaishierarquizadas e centrados na prevenção de doenças e na responsabilização individual, sem consideraras causas sociais de saúde com a ênfase desejada.
+É preciso apontar, também, a necessidade de se avaliarem os usuários previamente ao
+encaminhamento aos grupos de TC, de forma que os critérios do encaminhamento não se restrinjam àoferta de tal atividade grupal e visem, prioritariamente, os benefícios advindos de tais encontros. Alémdisso, tal avaliação prévia garante certa vinculação entre usuário e profissional de saúde, potencializandoa adesão ao grupo.
+A sobrecarga de trabalho é outro fator apontado como dificuldade, já que a TC precisa ser
+agregada às várias demandas profissionais, o que nem sempre é possível. Como existem poucosterapeutas comunitários capacitados, muitas vezes, não existe auxílio para planejar e executar asdinâmicas dos grupos, sobretudo quando desvinculados dos serviços de saúde, em instituições dacomunidade.
+Foram relatadas dificuldades decorrentes do formato metodológico  da TC, pois algumas
+padronizações em relação à sua condução não responderam às demandas de contextos grupaisespecíficos. Em determinados contextos, os usuários não conseguem seguir as regras do grupo, têmdificuldades com sua proposta mais lúdica ou têm dificuldades para entender o papel do profissional desaúde quando ocupa o lugar de terapeuta comunitário, conforme evidencia a seguinte passagem:
+“Por mais que o terapeuta e o co-terapeuta ficassem mais livres, como mediadores mesmo,
+que é o que a proposta traz, algumas pessoas colocaram que queriam ir para lá para ouvirmais, queriam saber mais da gente já que estavam acompanhadas de duas profissionais.Aquilo ficou tão marcado, porque a gente discutia tanto essa questão de sair do lugar, e agente tentou tanto sair desse lugar para depois ouvir do usuário ‘eu estou aqui com duasprofissionais e vocês não trazem nada a mais do que eu já sei? Eu não quero ouvir os meusvizinhos, eu queria saber mais sobre a depressão, sobre os transtornos de ansiedade’. Elesqueriam o saber técnico e não o saber popular, por mais que a gente explicasse a proposta”.(Sujeito 10)
+Os profissionais revelam sentimentos de frustração decorrentes da falta de corresponsabilização dos
+usuários pelos processos de saúde-doença, o que caracteriza uma postura de pouco envolvimento nabusca de resoluções dos problemas. Nesse emaranhando de expectativas, os profissionais parecemacreditar que a corresponsabilização dos usuários é o elemento que irá efetivar os objetivos das práticasde saúde; e, por outro lado, os usuários esperam dos profissionais soluções para seus problemas,estando o setor saúde praticamente desarticulado das demais esferas e instituições sociais. Aqui valeresgatar as premissas da promoção da saúde propostas por Buss (2003), cujo objetivo seria oenfrentamento dos macrodeterminantes do processo saúde-doença e a busca contínua de um nívelótimo de saúde, entendida como um estado dinâmico e socialmente produzido. Para tanto, se fazemPADILHA, C.S.; OLIVEIRA, W.F .
+artigos
+v.16, n.43, p.1069-83, out./dez. 2012 1077 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO
+necessários: a ação intersetorial, o protagonismo de indivíduos não técnicos e de movimentos sociais,
+ações combinadas de políticas públicas, modificações de estilos de vida e intervenção ambiental.
+T ambém geraram dificuldades fatores classificados como decorrentes da estrutura e do processo
+de trabalho  dos profissionais. A falta de espaços apropriados para trabalhos grupais nos serviços,
+contraditoriamente às demandas da saúde coletiva, constitui um fator que dificulta e, em alguns casos,inviabiliza a realização da TC.  Outras situações decorrentes do processo de trabalho, tais como férias emudança de serviço dos profissionais, interrompem provisória ou definitivamente os grupos,prejudicando a vinculação entre os usuários e destes com os profissionais que são referência naquelecontexto grupal. Esse tema inclui, ainda, a resolução do Conselho Federal de Assistência Social (CFESS569, de 25 de março de 2010) que dispõe sobre a vedação da realização de terapias associadas ao títuloe/ou ao exercício profissional do assistente social.
+A falta de apoio da gestão local também dificulta a prática da TC pelos profissionais de saúde. A
+difusão dessa prática integrativa de cuidado requer investimentos em novas capacitações e incentivospara que os profissionais capacitados possam fazer um trabalho que não se limite aos serviços ondeatuam, envolvendo e integrando as comunidades de forma mais ampla. Finalmente, a falta de apoio
+dos demais profissionais do serviço , atribuída ao desconhecimento dessa tecnologia de cuidado, e
+problemas pessoais  são também apontados como obstáculos para a efetivação dessa nova proposta.
+As dificuldades relatadas corroboram a desvalorização das ações educativas no cotidiano dos serviços,
+elucidada por Albuquerque e Stotz (2004), segundo os quais se evidencia: na marginalização dotrabalho grupal, na falta de estímulo aos profissionais envolvidos, na ausência de infraestruturaadequada, e na falta de apoio das secretarias municipais e estaduais de saúde. As práticas de promoçãoatravés de ações educativas são, assim, delegadas ao interesse individual daqueles que persistem e quesozinhos, dificilmente, conseguem estimular a autonomia e a conscientização das comunidades.
+Elementos facilitadores
+Essa categoria contém apenas 11 (3,55%) unidades de registro, agrupadas em quatro temas que
+expressam os fatores que auxiliaram a inserção da TC no contexto da saúde coletiva.
+Dentre os temas apresentados, encontram-se: receptividade dos usuários e demais profissionais do
+serviço; vinculação prévia dos usuários ao serviço; presença de um profissional que auxilie a conduçãodo grupo, e apoio da gestão local.
+Benefícios
+Essa categoria contém 155 (50,00%) unidades de registro, agrupadas em dez temas relativos aos
+benefícios proporcionados pela TC na percepção dos profissionais de saúde.
+O benefício mais frequente na análise das entrevistas é o  efeito terapêutico dos grupos ,
+proporcionado pela configuração de um espaço para a expressão da fala e dos sentimentos e para atroca de experiências, com ênfase nas estratégias de enfrentamento relatadas. Os profissionaispercebem que esse espaço coletivo proporciona qualidade de vida para seus integrantes.
+De acordo com Guimarães e Valla (2009), essa metodologia favorece a troca de estratégias de
+enfrentamento dos problemas e fortalece as redes de apoio familiar e social. Além disso, a legitimaçãodo conhecimento produzido a partir das experiências de vida possibilita o empoderamento dosparticipantes.
+A TC também contribui para o fomento das práticas grupais , otimizando vínculos entre os
+usuários e desses com os terapeutas comunitários, o que reflete positivamente nas dinâmicas e reforça aimportância do trabalho com grupos para os demais profissionais dos serviços. Os profissionaiscapacitados a consideram uma metodologia de fácil aplicação, uma ferramenta de trabalho queproporciona segurança para a condução de grupos e que pode ser ajustada de acordo com a experiênciade quem está conduzindo e de acordo com as peculiaridades dos diversos coletivos. As inovações quefazem parte desse novo formato grupal, com destaque para o apelo ao lúdico, são também percebidascomo um incentivo à participação dos usuários, essencialmente porque a TC é um espaço inclusivo queTERAPIA COMUNITÁRIA: PRÁTICA RELATADA ...
+1078 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO v.16, n.43, p.1069-83, out./dez. 2012
+não restringe a participação de ninguém, como expressa um dos entrevistados: “ah, não é só para
+gestante, não é só para hipertenso, e sim ter essa riqueza de possibilidade foi muito legal”  (Sujeito 04).
+T endo como um de seus eixos teóricos o pensamento de Paulo Freire e pautada pelo preceito de
+horizontalidade das relações grupais, a TC pode contribuir para aquilo que Vasconcelos (2004) consideraa redefinição da prática médica, através da valorização dos saberes e práticas dos sujeitos, usualmentedesconsiderados devido à sua origem popular.
+Essa metodologia de trabalho com grupos possibilita aos profissionais problematizarem vivências,
+compartilharem iniciativas de enfrentamento e buscarem entendimento das raízes das questões sociais.Essa atuação diferenciada se aproxima do enfoque transdisciplinar elucidado por Lopes (2009), em que,além das habilidades profissionais, são valorizadas qualidades pessoais, valores, tradições culturais,emoções, conhecimentos, treino e experiência de vida, como atributos valiosos para o funcionamentodo grupo.
+Outro benefício da TC é a atenção às demandas de saúde mental  sem que lhes seja imposto um
+viés medicalizante. Esse espaço de escuta e de ajuda mútua é por si só resolutivo para algumasdemandas, prevenindo que se cronifiquem, além de facilitar o encaminhamento de demandas quenecessitam de atenção especializada. Os profissionais relatam sentir mais segurança para abordarquestões relativas à saúde mental e passam a conhecer melhor e a valorizar o contexto de vida dosusuários.
+O estudo de Filha et al. (2009) aponta a aprendizagem de estratégias de promoção de saúde mental
+e de prevenção de transtornos decorrente da participação em grupos de TC. Para os autores, tal práticatem facilitado o trabalho dos profissionais da equipe de saúde da família no sentido de melhorar seurelacionamento com a comunidade e entender suas necessidades. Também Soares (2008) afirma que aTC confere, aos profissionais, compreensão e paciência para lidarem com as demandas de saúdemental.
+Consideravelmente frequente é, também, o fomento às redes sociais que a TC promove. A
+leitura que os profissionais fazem da realidade em que estão inseridos e do atual modo de vida é que aspessoas estão muito solitárias, sem vínculos comunitários e, muitas vezes, sem vínculos familiares. Ogrupo de TC é uma oportunidade de resgatar vínculos interpessoais e de se sentir mais integrado àcomunidade, conforme aponta um dos sujeitos desse estudo:
+“[...] a globalização desmancha isso, o comunitário. Ela desmancha a convivência das
+pessoas e tudo aquilo que existiu durante muito tempo, que é o apoio mútuo, de um bairro,de uma comunidade, com a aceleração vivida nos últimos 30, 40 anos, esses vínculoscomunitários se explodem. Então a necessidade de alguma coisa que possa trazernovamente. E isso é bastante congruente com a Reforma, porque se você tira lá do hospitalvocê vai mandar para onde, só para a família? Porque às vezes a família é uma pessoa só, éuma mãe com 5 filhos. Quer dizer, todo o tema da territorialização, novamente, porque atendência atual, do capitalismo mais corporativista é desterritorializar total. A pessoa moralá, trabalha não sei onde, mora num prédio e não conhece o vizinho. Isso foi muito bompara as pessoas nos grupos. Elas gostavam bastante do grupo”. (Sujeito 05)
+O fortalecimento das redes de apoio familiar e social, a melhoria dos vínculos familiares e
+comunitários e das redes de apoio e solidariedade são resultados comuns a outros estudos já realizadossobre a TC (Andrade et al., 2010; Silva, 2010; Filha et al., 2009; Guimarães, Valla, 2009; Guimarães,2006; Holanda, 2006). A proximidade com redes familiares e sociais dos pacientes e a construção devínculos duradouros com os usuários contribuem para a eficácia das intervenções clínicas, possibilitandoa construção de uma clínica ampliada, que alcança aspectos subjetivos e sociais de cada sujeito erespeita a singularidade de cada caso (Campos, 2005).
+Além disso, o conceito de território aplica-se à questão manicomial. T erritorializar é uma proposta
+central para transformar, efetivamente, a realidade manicomial, propiciando condições para que osindivíduos possam estabelecer relações de troca. A partir do paradigma da desinstitucionalização, aPADILHA, C.S.; OLIVEIRA, W.F .
+artigos
+v.16, n.43, p.1069-83, out./dez. 2012 1079 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO
+participação da comunidade passa a ser fundamental para a ação de saúde mental, oferecendo uma
+infinidade de recursos e de possibilidades para os sujeitos (Mota, 2007).
+O empoderamento  dos integrantes da TC parece estar relacionado com a horizontalidade das
+relações, configurando um grupo que se constrói, se gerencia, se corresponsabiliza pelas mudanças queprecisam ser operadas e que valoriza as contribuições de cada pessoa. As pessoas são valorizadas porsua experiência de vida, o que faz com que a identidade predominante no grupo não seja a de doente,como manifesta um dos profissionais entrevistados:
+“Então as pessoas já não vêm por conta disso, às vezes mesmo tendo a acessibilidade não
+acessa o serviço porque não se reconhece como doente [...] E na TC, mesmo acontecendo noposto mas eles vinham lá para conversar com os amigos, conversar sobre algum outro tema,de um outro sofrimento. Esse ponto foi muito interessante. Então é mais ou menos isso queeu atribuo, um outro tipo de laço distinto do que um conteúdo programático educacional daunidade de saúde”. (Sujeito 20)
+É possível entender o empoderamento descrito pelos profissionais participantes desse estudo como
+um empoderamento psicológico, tal como explicitado por Carvalho (2004), como um sentimento demaior controle sobre a própria vida que os indivíduos experimentam através do pertencimento adistintos grupos, e que pode ocorrer sem que participem de ações políticas coletivas. Derivam doempoderamento psicológico (Carvalho, Gastaldo, 2008) estratégias de promoção que buscam fortalecera autoestima e a capacidade de adaptação ao meio, e que procuram desenvolver mecanismos deautoajuda e de solidariedade.
+Essas estratégias de promoção se assemelham aos benefícios advindos dos encontros de TC, cuja
+proposta, segundo Camargo (2005), parte do entendimento de que indivíduos e grupos sociais dispõemde mecanismos próprios para superarem as adversidades contextuais.
+O princípio da horizontalidade também promove 
+acolhimento, pois todos têm a capacidade de
+ajudar, de ensinar e de aprender, gerando um sentimento de igualdade que estimula a participação.Como o terapeuta comunitário não tem a função de transmitir conhecimento, ele se coloca numarelação de igualdade com os demais integrantes do grupo, preocupando-se apenas em conduziralgumas etapas metodológicas para que o grupo siga um formato. Esse lugar ocupado pelos profissionaisde saúde promove uma 
+atenção humanizada , que se contrapõe a um olhar técnico.
+Para T esser, Poli Neto e Campos (2010), o acolhimento busca ampliar a clínica e incluir outras
+abordagens e explicações além das biomédicas para os adoecimentos e demandas. Para garantir aresolubilidade dos problemas de forma multidisciplinar e intersetorial, no entanto, a habilidade clínicanão é prescindível, deve estar atrelada ao trabalho em equipe, à construção de projetos terapêuticos ede avaliações de riscos/vulnerabilidades individuais e coletivas, que considerem elementos da vidafamiliar e social, o que permite concluir que a TC deve somar-se a outros dispositivos para que,realmente, possa acolher as demandas de saúde da população.
+Para finalizar, outro benefício da TC é a congruência com a realidade do SUS , já que pode ser
+aplicada em diversos contextos, com um objetivo focado e brevemente atingido e requerendo poucosrecursos para a sua implantação. Além disso, permite trabalhar algumas demandas sem necessidade deencaminhamento a profissionais especializados.
+Considerações finais
+T endo como um de seus eixos teóricos o pensamento de Paulo Freire e pautada pelo preceito de
+horizontalidade das relações grupais, a TC pode contribuir para a redefinição da prática médica, atravésda valorização dos saberes e práticas dos sujeitos usualmente desconsiderados devido à sua origempopular. Essa metodologia de trabalho com grupos possibilita aos profissionais problematizaremvivências, compartilharem iniciativas de enfrentamento e buscarem entendimento das raízes dasTERAPIA COMUNITÁRIA: PRÁTICA RELATADA ...
+1080 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO v.16, n.43, p.1069-83, out./dez. 2012
+questões sociais, aproximando-se essa atuação diferenciada do enfoque transdisciplinar, caracterizado
+pela valorização das qualidades pessoais, valores, tradições culturais, emoções, conhecimentos, treino eexperiência de vida, como atributos valiosos para o funcionamento do grupo.
+O fortalecimento das redes de apoio familiar e social e a melhoria dos vínculos familiares e
+comunitários são benefícios decorrentes dos encontros de TC que podem contribuir para a construçãode uma clínica ampliada e para a valorização dos recursos do território. Além disso, o princípio dahorizontalidade promove acolhimento, atenção humanizada e empoderamento dos integrantes da TC,configurando um grupo que se constrói, se gerencia, se corresponsabiliza para com as mudanças queprecisam ser operadas.
+No entanto, as dificuldades enfrentadas para inserir essa tecnologia de cuidado no cotidiano dos
+serviços de saúde evidenciam a desvalorização das ações educativas, ficando tais práticas, muitas vezes,delegadas ao interesse individual daqueles que persistem com esses grupos, e que sozinhos dificilmenteconseguem estimular a autonomia e a conscientização das comunidades. Daí a necessidade de que aatuação do terapeuta comunitário seja estendida a uma equipe multidisciplinar, dialogue com outrosdispositivos, receba o apoio das gestões dos serviços e se alie a outras políticas públicas, ampliando seucampo de ação da saúde para outros setores.
+A existência de pouco material bibliográfico e poucas pesquisas publicadas sobre a TC coloca-se
+como fragilidade neste estudo. Para amenizar tal dificuldade, foi realizada uma revisão minuciosa embases de dados da área da saúde.
+Colaboradores
+Os autores Cristina dos Santos Padilha e Walter Ferreira de Oliveira participaram,
+igualmente, da elaboração do artigo, de sua discussão e redação, e da revisão do texto.
+Referências
+ALBUQUERQUE, P .C.;  STOTZ, E.N. A educação popular na atenção básica à saúde no
+município:  em busca da integralidade. Interface – Comunic., Saude, Educ. , v.8, n.15,
+p.259-74, 2004.
+ANDRADE, F .B. et al. Promoção da saúde mental do idoso na atenção básica: as
+contribuições da terapia comunitária. Texto Contexto Enferm. , v.9, n.1, p.129-36,
+2010.
+ANDRADE, L.O.M. et al. O SUS e a Terapia Comunitária . Fortaleza: UFC, 2009.
+BARDIN, L. Análise de conteúdo . Lisboa: Edições 70, 1977.
+BRASIL. Ministério da Saúde. Humaniza SUS : documento base para gestores e
+trabalhadores do SUS. 4.ed. Brasília: MS, 2008.
+______. Ministério da Saúde. Política Nacional de Promoção da Saúde . Brasília: MS,
+2006a.
+______. Ministério da Saúde. Política Nacional de Atenção Básica . Brasília: MS, 2006b.
+______. Ministério da Saúde. Portaria n.o 971, de 03 de maio de 2006 . Aprova a
+Política Nacional de Práticas Integrativas e Complementares (PNPIC) no Sistema Únicode Saúde.  Brasília: MS, 2006c.
+BUSS, P .M. Uma introdução ao conceito de promoção da saúde. In: CZERESNIA, D.;
+FREITAS, C.M. (Orgs.). Promoção da saúde : conceitos, reflexões, tendências. Rio de
+Janeiro: Editora Fiocruz, 2003. p.11-32.PADILHA, C.S.; OLIVEIRA, W.F .
+artigos
+v.16, n.43, p.1069-83, out./dez. 2012 1081 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO
+CAMARGO, A.C. Tempo de falar e tempo de escutar : a produção de sentido em um
+grupo terapêutico. 2005. Dissertação (Mestrado) - Programa de Pós-Graduação emPsicologia, Universidade São Marcos, São Paulo. 2005. Disponível em: <http://www.abratecom.org.br/publicacoes/academicos/pdf/Dissertacao_Amilton.pdf>.Acesso em: 13 maio 2009.
+CAMPOS, G.W.S. El filo de la navaja de la función filtro: reflexiones sobre la función
+clínica en el Sistema Único de Salud en Brasil. Rev. Bras. Epidemiol ., v.8, n.4, p.477-83,
+2005.
+CARVALHO, S.R. Os múltiplos sentidos da categoria “empowerment” no projeto de
+Promoção à Saúde. Cad. Saude Publica , v.20, n.4, p.1088-95, 2004.
+CARVALHO, S.R.; GASTALDO, D. Promoção à saúde e empoderamento: uma reflexão a
+partir das perspectivas crítico-social e pós-estruturalista. Cienc. Saude Colet. , v.13,
+supl.2, p.2019-40, 2008. Disponível em: <http://www.scielo.br/pdf/csc/v13s2/v13s2a07.pdf>. Acesso em: 14 maio 2011.
+FILHA, M.O.F .; CARVALHO, M.A.P . A T erapia Comunitária em um Centro de Atenção
+Psicossocial: (des)atando pontos relevantes. Rev. Gaucha Enferm. , v.31, n.2, p.232-9,
+2010.
+FILHA, M.O.F . et al. A T erapia Comunitária como estratégia de promoção à saúde
+mental: o caminho para o empoderamento. Rev. Eletr. Enferm. , v.11, n.4, p.964-70,
+2009.
+FUKUI, L.; MARCHETTI, L.B. T erapia Comunitária: uma forma de atuação no espaço
+público. In:
+ CONGRESSO BRASILEIRO DE TERAPIA COMUNITÁRIA, 2., 2004, Brasília.
+Anais...  Brasília, 2004. Disponível em: <http://www.usp.br/nemge/
+textos_tecendo_estudando/terapiacomun_espacopublico_fukui.pdf>. Acesso em:1 maio 2010.
+GOMES, L.B.; MERHY , E.E. Compreendendo a Educação Popular em Saúde: um estudo
+na literatura brasileira. Cad. Saude Publica , v.27, n.1, p.7-18, 2011.
+GUIMARÃES, F .J. Repercussões da Terapia Comunitária no cotidiano de seus
+participantes . 2006. Dissertação (Mestrado) - Programa de Pós-Graduação em
+Enfermagem, Universidade Federal da Paraíba, João Pessoa. 2006. Disponível em:<http://abratecom.org.br/publicacoes/academicos/pdf/DISSERTACAOFINAL.pdf>.Acesso em: 1 maio 2009.
+GUIMARÃES, M.B.L.; VALLA, V .V . T erapia Comunitária como expressão de educação
+popular: um olhar a partir dos encontros com agentes comunitários de saúde. In:REUNIÃO ANUAL DA ANPED, 32., 2009, Caxambú. Anais...  Caxambu, 2009.
+Disponível em: <http://www.anped.org.br/reunioes/32ra/arquivos/trabalhos/
+GT06-5115—Res.pdf>. Acesso em: 1 maio 2010.
+HOLANDA, V .R. A contribuição da Terapia Comunitária para o enfrentamento das
+inquietações das gestantes . 2006. Dissertação (Mestrado) - Programa de Pós-
+Graduação em Enfermagem, Universidade Federal da Paraíba, João Pessoa. 2006.Disponível em: <http://www.abratecom.org.br/publicacoes/academicos/pdf/Viviane_Rolim_de_Holanda_-_Dissertacao.pdf>. Acesso em: 10 abr. 2009.
+LOPES, M.J. A transdisciplinaridade em saúde. In: LOPES, M.; MENDES, F .; MOREIRA, A.
+(Orgs.). Exercícios de diálogo e convergência . Coimbra: Formasau, 2009. p.55-67.
+LUISI, L.V .V . Terapia  Comunitária : bases teóricas e resultados práticos de sua aplicação.
+2006. Dissertação (Mestrado) - Programa de Estudos Pós-Graduados em PsicologiaClínica, Pontifícia Universidade Católica de São Paulo, São Paulo. 2006. Disponível em:<http://www.sapientia.pucsp.br/tde_busca/arquivo.php?codArquivo=3161>. Acessoem: 14 mar. 2010.TERAPIA COMUNITÁRIA: PRÁTICA RELATADA ...
+1082 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO v.16, n.43, p.1069-83, out./dez. 2012
+MACHADO, D.M. A desconstrução do manicômio interno como determinante para a
+inclusão social . 2006. Dissertação (Mestrado) - Programa de Pós-Graduação em
+Ciências da Saúde, Universidade de Brasília, Brasília. 2006. Disponível em: <http://bdtd.bce.unb.br/tedesimplificado/tde_arquivos/6/TDE-2006-11-22T131240Z-457/Publico/Dissert_final.pdf>. Acesso em: 14 mar. 2010.
+MENDES, F . As vulnerabilidades da Educação para a Saúde. In: LOPES, M.; MENDES, F .;
+MOREIRA, A. (Orgs.). Exercícios de diálogo e convergência . Coimbra: Formasau, 2009.
+p.55-67.
+MOTA, T .D. As necessidades de saúde da perspectiva dos usuários de um serviço
+comunitário de saúde mental . 2007. Dissertação (Mestrado) - Programa de Pós-
+Graduação em Enfermagem, Universidade de São Paulo, São Paulo. 2007. Disponívelem: <http://www.teses.usp.br/teses/disponiveis/7/7134/tde-20042007-101132/>.Acesso em: 13 maio 2009.
+OLIVEIRA, D.C. Análise de conteúdo temático-categorial: uma proposta de
+sistematização. Rev. Enferm. UERJ , v.16, n.4, p.569-76, 2008.
+OMS – Organização Mundial da Saúde. Estrategia de la OMS sobre medicina
+tradicional 2002-2005.  Ginebra: OMS, 2002.
+ROCHA, I.A. et al. A T erapia Comunitária como um novo instrumento de cuidado para
+a saúde mental do idoso. Rev. Bras. Enferm. REBEn , v.62, n.5, p.687-94, 2009.
+SILVA, A.L.C. Terapia comunitária como abordagem complementar no tratamento da
+depressão : uma estratégia de Saúde Mental no PSF de Petrópolis/RJ. 2010. Dissertação
+(Mestrado) - Programa de Pós-Graduação em Saúde da Família, Universidade Estáciode Sá, Rio de Janeiro. 2010.  Disponível em: <http://portal.estacio.br/media/1958495/ana%20lucia%20dissertação.pdf>. Acesso em: 14 maio 2011.
+SOARES, C.S.D.A. Terapia  Comunitária na Estratégia de Saúde da Família : implicações
+no modo de andar a vida dos usuários. 2008. Dissertação (Mestrado) - Programa dePós-Graduação em Enfermagem Psiquiátrica, Universidade de São Paulo, RibeirãoPreto. 2008. Disponível em: <http://www.teses.usp.br/teses/disponiveis/22/22131/tde-12012009-160828/>. Acesso em: 6 maio 2009.
+TESSER, C.D.; POLI NETO, P .; CAMPOS, G.W.S. Acolhimento e (des)medicalização
+social: um desafio para as equipes de saúde da família. Cienc. Saude Colet. , v.15,
+supl.3, p.3615-24, 2010.
+VASCONCELOS, E.M. Educação popular: de uma prática alternativa a uma estratégia de
+gestão participativa das políticas de saúde. Physis , v.14, n.1, p.67-83, 2004.
+VICTOR, J. F . et al. Grupo Feliz Idade: cuidado de enfermagem para a promoção da
+saúde na terceira idade. Rev. Esc. Enferm. USP , v.41, n.4, p.724-30, 2007.PADILHA, C.S.; OLIVEIRA, W.F .
+artigos
+v.16, n.43, p.1069-83, out./dez. 2012 1083 COMUNICAÇÃO  SAÚDE  EDUCAÇÃO
+PADILHA, C.S.; OLIVEIRA, W.F . T erapia comunitaria: práctica relatada por los
+profesionales del SUS de Santa Catarina, Brasil. Interface - Comunic., Saude, Educ. ,
+v.16, n.43, p.1069-83, out./dez. 2012.
+El objetivo de este estudio, de naturaleza exploratoria y descriptiva, es describir las
+prácticas de la T erapia comunitaria relatadas por 27 profesionales de la red del SistemaÚnico de Salud (SUS) de Santa Catarina, Brasil. La recolección de datos utilizó laentrevista individual semi-dirigida y empleó el análisis de contenido categorialtemático. Los resultados fueron agrupados en cinco categorías: Prácticas de terapiacomunitaria; estrategias de implantación; dificultades; elementos facilitadores; ybeneficios. Se concluye que la T erapia comunitaria puede contribuir con la construcciónde una clínica ampliada y la valorización de los recursos del territorio. Sin embargo, esnecesario que la actuación del terapeuta comunitario sea extendida a un equipo multi-disciplinario, dialogue con otros dispositivos, reciba el apoyo de las gestiones de losservicios y haga alianzas con otras políticas públicas, ampliando su campo de acciónpara otros sectores.
+Palabras clave : T erapia comunitaria. SUS. Profesionales de salud. Prácticas de salud.
+Intervención psico-social.
+Recebido em 19/01/12. Aprovado em 25/07/12.be[m] Samsara   Urbe[m] Samsara    Urbe[m]
+Urbe[m] Samsara  Urbe[m] Sam
+sara urbe[m]   Samsara  Urbe[m]  Samsara
+www.poeteias.blogspot.com.br/2012/02/urbem-samsara.htlm

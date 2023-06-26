@@ -1,0 +1,544 @@
+Ψ
+Revista
+de Psicologia
+ISSN 2179-1740TERAPIA COMUNITÁRIA INTEGRATIVA EM SAÚDE
+MENTAL: POR UMA ATENÇÃO DIALÓGICA, POR UM
+CUIDADO EXTRAMUROS 
+INTEGRATIVE COMMUNITY THERAPY IN MENTAL HEALTH: BY A DIALOGICAL
+ATTENTION AND CARE OUTSIDE THE WALLS  
+Bruno Nogueira Garcia1
+Aline Virna Monteiro Tavares2
+Milena Furtado Assunção3
+Resumo
+A partir das contribuições da Reforma Sanitária e Psiquiátrica e com o advento do Sistema Único de Saúde (SUS),
+uma  série  de  novas  tecnologias  de  saber-fazer  saúde  emergiram,  em  um  viés  universal,  integral  e  com  foco  na
+promoção do cuidado. Dentre elas, temos a Terapia Comunitária Integrativa (TCI) como ferramenta oportunizadora de
+relações  interpessoais,  da  valorização  de  experiências  de  vida  e  de  fomento  ao  empoderamento.  Partindo  dessas
+questões,  este  estudo  teve  o  objetivo  de  analisar  a  TCI  enquanto  dispositivo  de  promoção  do  cuidado  em  Saúde
+Mental.  Trata-se  de  um  relato  de  experiência,  de  caráter  crítico-interpretativo,  que  versa  sobre  a  implantação  e
+condução  de  26  rodas  de  TCI  em  três  cenários  distintos  de  um  município  do  Ceará  dentro  do  contexto
+formativo-pedagógico de programa de Residência em Saúde de instituição pública de ensino do Ceará. O material de
+base deste estudo foram as participações observantes, as fichas de apreciação das rodas e os diários de campo dos
+terapeutas comunitários. Os resultados obtidos demonstraram que a TCI contribuiu como uma importante tecnologia
+de cuidado dentro do contexto da Saúde Mental, sobretudo na perspectiva de uma atenção extramuros direcionada à
+comunidade na produção de redes de vida. 
+Palavras-chave: Terapia comunitária integrativa; saúde mental; promoção de saúde.  
+Abstract
+From the contributions of the Health Reform and Psychiatric and with the advent of the Unified Health System (SUS),
+ruptures occurred in a number of structural paradigms of health and illness and a host of new technologies to make
+health  emerged  in  a  universal  proposition  integral  and  focusing  on  promotion  of  care.  Among  them,  we  have  the
+Community Integrative Therapy (TCI) as facilitator of interpersonal relationships, valuing life experiences and fomenting
+empowerment. Based on these questions, this study aimed to analyze the TCI as a device to promote care in Mental
+Health. This is an experience report, critical-interpretative character about the implantation and conduction of 26 TCI
+wheels in three different scenarios in a municipality of Ceará within the context of Health Residency program of a public
+educational institution in Ceará. The base material of this study were observant participation, evaluation sheets and
+field  diaries  of  community  therapists.  The  results  obtained  demonstrated  that  TCI  contributed  as  an  important  care
+technology  within  the  context  of  Mental  Health,  especially  in  the  perspective  of  community  oriented  attention  in  the
+production of life networks. 
+Keywords: Integrative therapy community; mental health; health promotion.  
+1  Psicólogo (UECE), Terapeuta Comunitário (UFC), Especialista em Residência em Saúde Mental Coletiva (ESP-CE) e Mestrando
+em Psicologia (UFC). Universidade Federal do Ceará. E-mail: bruno_nogueira_garcia@hotmail.com. 
+2 Endereço: Avenida da Universidade, 2762. Bairro: Benfica. Cep: 60020180 - Fortaleza, CE – Brasil. 
+3 Enfermeira (UNIFOR), Terapeuta Comunitária (UFC) e Especialista em Residência em Saúde Mental Coletiva (ESP-CE). Escola de
+Saúde Pública do Ceará. E-mail: alinevirna@hotmail.com. 
+4 Assistente Social (UECE), Terapeuta Comunitária (UFC) e Especialista em Residência em Saúde Mental Coletiva (ESP-CE). Escola
+de Saúde Pública do Ceará. E-mail: milenafassuncao@yahoo.com.br.  
+Revista de Psicologia, Fortaleza, v.9 n2, p. 183-188. 2018  183
+. ............................... .............................................................................................................................................ISSN 2179-1740 Revista de Psicologia
+INTRODUÇÃO 
+As  práticas  em  saúde  são  resultantes  de  um
+transcurso  social  no  qual  múltiplos  fatores  se
+entrelaçam a fim de permitirem uma dada configuração
+ao  processo  saúde-doença-cuidado  (Franco  &  Merhy,
+2012).  Assim,  para  a  compreensão  dessa  questão,
+faz-se necessário atentar para a influência mutável das
+dimensões  histórica,  econômica,  política  e  cultural  que
+norteiam as tecnologias de cuidado (Kalichman & Ayres,
+2016). 
+A  partir  de  movimentos  sociopolíticos
+internacionais  de  viés  crítico-reformista,  tais  como
+Informe  Lalonde  (1974)  e  Declaração  de  Alma-Ata
+(1978),  oportunizou-se  a  emergência  de  um  conceito
+positivo e integral de saúde, para além do adoecimento,
+o qual se nomeou por biopsicossocial (Pereira, Barros &
+Augusto, 2011). Reflexo dos debates internacionais, no
+Brasil, temos o movimento da Reforma Sanitária que, a
+partir  dos  anos  de  1970,  em  um  enfoque
+democrático-emancipatório, propôs a reestruturação do
+sistema  de  saúde,  culminando  com  o  advento  do
+Sistema  Único  de  Saúde  (SUS),  o  qual  redirecionou  a
+lógica do cuidado e assistência (Menicucci, 2014). 
+No  campo  da  Saúde  Mental,  aliado  a  tais
+rupturas, emerge a Reforma Psiquiátrica enquanto ação
+contestadora  da  lógica  do  cuidado  tutelar  e
+estigmatizante  direcionado  à  loucura,  buscando
+consolidar  um  novo  estatuto  social  para  o  sujeito  em
+sofrimento  psíquico  (Amarante,  2003;  Lima,  2016),
+garantindo  cidadania  e  favorecendo  a  emergência  de
+uma rede substitutiva ao modelo asilar, que seja aberta
+e  comunitária,  visando  a  integração  do  sujeito  ao  seu
+contexto social (Pereira & Costa-Rosa, 2012). 
+Nesse  sentido,  dentre  práticas  de  cuidado
+alinhadas às perspectivas reformistas, temos a Terapia
+Comunitária  Integrativa  (TCI)  enquanto  proposta  de
+intervenção grupal. Nessa abordagem, através de rodas
+de  encontro,  oportuniza-se  o  protagonismo  do  saber
+comunitário,  valorizando  experiências,  ampliando  a
+percepção das demandas coletivas e construindo redes
+colaborativas  de  saúde  (Andrade,  Barreto,  Barreto  &
+Oliveira, 2008). 
+Dada  à  importância  do  tema,  este  relato  de
+experiência  teve  por  objetivo  analisar  a  TCI  enquanto
+dispositivo de promoção do cuidado em Saúde Mental,
+através da descrição e contextualização do processo de
+implantação  de  rodas  de  TCI  em  um  município  do
+Ceará. A relevância do estudo parte da publicização de
+uma  exitosa  experiência  extramuros  em  Saúde  Mental
+oportunizada  no  contexto  formativo-pedagógico  de
+programa  de  Residência  em  Saúde  de  instituição
+pública de ensino.  PERCURSO METODOLÓGICO  
+Trata-se  de  um  relato  de  experiência  de
+abordagem  crítico-interpretativa,  que  versa  sobre  o
+processo  de  implantação  e  condução  de  26  rodas  de
+TCI, com total de 205 participantes, em um município do
+Ceará,  no  período  de  agosto  de  2013  a  setembro  de
+2014.  Os  autores,  nomeados  como  terapeutas
+comunitários,  participaram  ativamente  do  processo,
+compreendendo a dimensão sócio-histórico-cultural dos
+eventos e sujeitos analisados. As rodas foram facilitadas
+por  um  trio  de  terapeutas  comunitários  dentro  da
+proposta  pedagógica  de  um  programa  de  Residência
+em Saúde. 
+Dada  à  natureza  do  relato,  utilizou-se  como
+fontes  de  obtenção  de  informações  a  participação
+observante,  as  fichas  de  apreciação  das  rodas  e  os
+diários  de  campo  dos  terapeutas  comunitários.  Na
+participação  observante,  o  facilitador  torna-se
+observador e utiliza a experimentação como um meio a
+serviço  da  observação  (Villela,  2002).  As  fichas  de
+apreciação  das  rodas  são  formulários  nos  quais  se
+registram os dados da intervenção, como data, local e o
+número  de  participantes,  o  tema  escolhido  e  as
+estratégias de enfrentamento dos problemas. Os diários
+de campo são ferramentas de síntese de experiências,
+no  qual  o  pesquisador  registra  suas  percepções  dos
+eventos,  apresentando  uma  cosmovisão  singular
+(Falkembach, 1987). 
+Os  dados  extraídos  foram  analisados
+criticamente a luz das teorizações em Saúde Coletiva e
+Saúde  Mental.  Os  resultados  foram  apresentados  em
+formato  de  descrição  de  implementação  das  rodas  e,
+após,  fez-se  levantamento  e  análise  dos  temas
+propostos e estratégias de superação expostos nesses
+momentos coletivos. 
+As  rodas  de  TCI  foram  realizadas  em  três
+cenários distintos, a saber: cenário a .  nove  rodas  em
+escola municipal em região rural; cenário b .  oito  rodas
+em associação de moradores em região rural; cenário c.
+nove rodas em serviço de referência em Assistência
+Social  em  região  urbana.  Vale-se  ressaltar  que  as
+rodas,  em  todos  os  cenários,  eram  abertas  à
+comunidade  e  sem  restrição  de  público-alvo,  sendo
+realizadas não-simultaneamente, em ciclos de 4 meses
+e respeitando a ordem dos cenários. 
+Destaca-se  que  a  confecção  deste  trabalho
+respeitou  a  dimensão  do  sigilo  na  obtenção  e  análise
+dos  dados,  resguardando  usuários  e  instituições,
+primando  pelos  princípios  éticos  das  pesquisas  em
+Ciências Humanas e Sociais (Brasil, 2016).  
+PERSPECTIVAS TEÓRICAS EM TCI  
+Revista de Psicologia, Fortaleza, v.9 n2, p. 183-188. 2018  184
+. ............................... .............................................................................................................................................ISSN 2179-1740 Revista de Psicologia
+Reconhecer  o  cuidado  em  sua  dimensão
+comunitária,  territorial  e  sócio-histórica  é  basilar  no
+entendimento  da  revolução  tecnoassistencial  que  vem
+se  realizando  no  campo  da  saúde  em  nosso  país
+(Franco  &  Merhy,  2012).  Esse  novo  paradigma  de
+saúde  trouxe  em  seu  bojo  tecnologias  de  cuidado
+relacionais  e  integralizadoras,  operando  centradas  nas
+necessidades dos usuários. 
+Dentre essas tecnologias, temos a TCI enquanto
+intervenção de caráter comunitário que tem por objetivo
+o fortalecimento coletivo e criação de redes de produção
+de  vida  e  cuidado  (Filha,  Lazarte  &  Dias,  2013).  Em
+2008,  o  Ministério  da  Saúde  implementou  a  Política
+Nacional  de  Práticas  Integrativas  e  Complementares
+(PNPIC),  com  a  inserção  da  TCI  como  prática
+reconhecida (Azevedo et al., 2013). 
+A  TCI  tem  construído  sua  identidade
+teórico-epistemológica  alicerçada  em  cinco  eixos
+temáticos,  os  quais  refletem  invariavelmente  a
+profundidade  e  escopo  de  sua  prática,  a  saber:
+Pensamento  Sistêmico,  Teoria  da  Comunicação,
+Antropologia  Cultural,  Pedagogia  Freireana  e
+Resiliência (Barreto, 2005; Filha, Lazarte & Dias, 2013). 
+O Pensamento Sistêmico  configura-se  enquanto
+um arcabouço que tenciona a compreensão integral dos
+sujeitos e contextos que compõem uma rede complexa
+e  ressoante  de  vivências,  onde  a  noção  de
+corresponsabilidade  e  interação  prevalecem  (Morin,
+1996). A Teoria da Comunicação  aponta para o fato de
+que  todo  ato,  verbal  ou  não,  individual  ou  grupal,  tem
+valor de comunicação e nos orienta a refletir para além
+das palavras para entender as experiências de cada um
+(Wolf & Figueiredo, 1987). 
+Na Antropologia Cultural  faz-se  referência  à
+cultura  como  um  conjunto  de  realizações  de  um  povo,
+resgatando  a  percepção  de  que  cada  membro  de  um
+coletivo social retira sua habilidade para pensar, agir e
+fazer suas escolhas do cotidiano vivencial desse grande
+conjunto de realizações (Mello, 2007). A Pedagogia
+Freireana  atenta ao fato de que ensinar não é apenas
+uma  transferência  de  conhecimentos  acumulados  por
+um  educador,  mas  um  exercício  dialógico,  de
+reciprocidade,  onde  o  saber  emerge  de  práticas  e
+experiências cotidianas, não se restringindo a educação
+formal (Freire, 2012). 
+Por fim, a Resiliência  apresenta  a  crença  na
+capacidade  do  indivíduo  em  adaptar-se,  resistir  a
+intempéries e superar dificuldades (Yunes & Szymanski,
+2001).  Nas  rodas,  busca-se  o  compartilhamento  de
+experiências, nos quais os sofrimentos e conquistas de
+cada integrante são utilizados como matéria-prima para
+que os indivíduos descubram as implicações sociais do
+sofrimento humano e oportunizem mudanças.  RESULTADOS E DISCUSSÃO  
+O  município  cearense,  cenário  deste  relato  de
+experiência, caracteriza-se por seu intenso processo de
+crescimento populacional e industrial na última década,
+bem como por ser uma cidade de alto fluxo migratório.
+No  que  se  refere  aos  serviços  da  Rede  de  Atenção
+Psicossocial,  conta  com  um  Centro  de  Atenção
+Psicossocial  (CAPS  Geral),  um  Centro  de  Atenção
+Psicossocial Álcool e Drogas (CAPS AD), 17 Unidades
+Básicas de Saúde ( UBS) e uma equipe do Núcleo  de
+Apoio à Saúde da Família  (NASF ). A maioria das ações
+em  Saúde  Mental  do  município  centra-se,
+tradicionalmente, dentro dos muros dos CAPS, ou seja,
+nos  grupos  e  atendimentos  ambulatoriais  constituídos
+nos serviços. 
+Em  virtude  da  chegada  do  programa  de
+Residência  em  Saúde  na  cidade  em  2013,  houve  um
+incremento  na  atuação  dos  serviços  e  viu-se  a
+possibilidade  de  tencionamento  desse  contexto  com  a
+promoção  de  uma  nova  forma  de  cuidado  na
+perspectiva  extramuros  por  meio  da  implantação  de
+rodas  de  TCI.  Nesse  sentido,  o  trio  de  terapeutas
+comunitários facilitou 26 rodas de TCI, com frequência
+quinzenal, em três cenários diferentes do município (não
+simultâneos ), sendo dois na mesma zona rural e um em
+região urbana, respectivamente, a saber: a. escola
+municipal, b. associação de moradores e c. serviço  de
+referência em Assistência Social. 
+A escolha da zona rural acima mencionada como
+cenário de prática da TCI se deu em virtude de ser uma
+das  localidades  mais  afastadas  do  centro  da  cidade
+(cerca de 15 km) e por ter maior dificuldade de acesso
+aos  serviços  de  Saúde  Mental.  A  princípio,  realizou-se
+uma  intensa  exposição  da  TCI  no  território  com
+panfletos explicativos, houve divulgação do material em
+espaços de saúde, ação social, comércios e outros. 
+Observou-se  importante  apoio  da  gestão  da
+escola  municipal  da  região,  a  qual  cedeu  espaço,
+estrutura física e oportunizou mobilização. Tal instituição
+tornou-se  o  primeiro  local  de  implantação  da  TCI  na
+região.  Constatou-se,  contudo,  certa  dificuldade  de
+adesão  inicial  dos  participantes  devido  a  falta  de
+transporte  público  e  ao  desconhecimento  dessa  nova
+ferramenta de cuidado. Nesse espaço foram realizadas
+9 rodas de TCI, com 72 participantes ao todo. 
+O  segundo  lugar  de  implantação  da  TCI  nessa
+região  rural  foi  na  associação  de  moradores  da
+localidade. A escolha desse espaço ocorreu mediante a
+solicitações  de  lideranças  comunitárias  e  serviços  de
+saúde  local,  os  quais  demonstraram  boa  acolhida  e
+solicitude  para  com  os  facilitadores.  O  modelo  de
+divulgação  e  mobilização  foi  análogo  ao  utilizado  no
+Revista de Psicologia, Fortaleza, v.9 n2, p. 183-188. 2018  185
+. ............................... .............................................................................................................................................ISSN 2179-1740 Revista de Psicologia
+cenário  anterior.  Foi  observada  maior  facilidade  na
+adesão  da  comunidade  quando  comparada  a
+experiência anterior, dada a localização privilegiada da
+associação. Foram realizadas 8 rodas nessa localidade,
+com total de 81 participantes. 
+O  ciclo  de  implantação  rodas  de  TCI  foi
+encerrado em zona urbana, onde o projeto foi articulado
+junto aos profissionais de um serviço de referência em 
+Assistência Social.  A  divulgação  e  mobilização  para  o
+início  das  atividades  seguiu  os  mesmos  parâmetros
+anteriores.  Cogitou-se  que  a  localização  deste
+dispositivo da assistência seria favorável, tendo em vista
+ser  na  região  central  da  cidade,  onde  a  densidade
+populacional  é  maior  e  o  deslocamento  é  facilitado.
+Porém,  a  população  não  aderiu  como  o  esperado,
+possivelmente, dada a influência da cultura do cuidado
+ambulatorial  e  centrado  nos  dispositivos  de  saúde.
+Realizaram-se 9 rodas com total de 52 participantes. 
+Em  uma  análise  comparativa  entre  os  três
+cenários, foi possível observar que os dois espaços da
+zona  rural  demonstraram  uma  proximidade  com  temas
+relativos  à  religiosidade  e  uma  maneira  calorosa  de
+acolher os participantes, bem como maior dialogicidade
+e  sentimento  de  pertença.  Já  as  rodas  realizadas  na
+zona  urbana  caracterizam-se  pela  dificuldade  dos
+participantes em externar suas demandas por meio do
+diálogo coletivo, embora depois fosse, frequentemente,
+colocado  o  quanto  promoveu  sentimento  de  alívio  e
+bem-estar  compartilhar  sua  história  e  aprender  com  a
+do outro. 
+Além  da  dificuldade  em  se  colocar,  os
+participantes  da  zona  urbana  apresentavam  relatos  de
+vivências  mais  individualizadas,  bem  como  baixa
+tendência  a  coesão  grupal.  Em  contrapartida,  na  zona
+rural,  é  possível  verificar  que  os  moradores  se
+apresentavam  de  forma  mais  organizada  enquanto
+coletivo  e,  consequentemente,  externalizavam  maior
+disponibilidade  em  promover  o  diálogo  e  apoiar  os
+outros. 
+A  fim  de  aprofundar  esse  relato  de  experiência,
+faz-se  relevante  a  análise  dos  temas  propostos  e
+estratégias  de  superação  apresentadas  nas  rodas  de
+TCI facilitadas nos 3 cenários. Tal análise, por meio das
+fichas  de  apreciação,  possibilita  o  entendimento  das
+principais  demandas  psicossociais  da  comunidade  e
+configura-se  enquanto  norteador  para  o  planejamento
+de ações de Saúde Mental nas regiões. 
+Durante a realização das rodas de TCI, conforme
+a  metodologia  proposta  por  Barreto  (2005),  são
+apresentados  temas  pelos  os  participantes,  os  quais
+são  restituídos,  passam  por  identificação  grupal  e,
+posteriormente,  são  selecionados  pelo  grupo,  a  fim  de
+serem  trabalhados  de  maneira  pormenorizada,tornando-se o tema da roda. 
+ Na  experiência  de  condução  das  26  rodas,
+foram  apresentados  um  total  de  53  temas,  os  quais
+foram  organizados  em  10  categorias  semânticas,
+seguidas do número de evocações, a saber: abandono
+(1  tema),  angústia  (7  temas),  ansiedade  (2  temas),
+frustração (2 temas), medo (5 temas), preocupação (12
+temas), raiva (5 temas), satisfação (6 temas), tristeza (9
+temas) e outros (4 temas). 
+Analisando tais informações, percebe-se que os
+dois  principais  temas  emergentes  nas  rodas  de  TCI
+foram: a preocupação  (12 temas) e a tristeza  (9  temas).
+Ambos  apresentaram  relevância,  com  respectivamente
+23% e 17% do total de evocações. Avaliando as fichas
+de  apreciação  das  rodas  e  diários  de  campo,
+correlacionando-os  com  os  dados  sobre  os  temas
+apresentados, é possível visualizar que do total do tema
+preocupação ,  67%  (8  temas)  vinculavam-se  à  questão
+da família . Assim como, do total do tema tristeza ,  56%
+(5  temas)  traziam  como  tônica  o  assunto  relações
+familiares. 
+ Desse  modo,  para  a  comunidade,  o  que  mais
+emergia  enquanto  demanda  de  Saúde  Mental  se
+apresentava na forma de preocupação e tristeza, tendo
+por  centro  disparador  a  dimensão  da  família.  Tal
+informação  coaduna  com  a  observação,  a  partir  da
+experiência  profissional  enquanto  residentes,  de
+incipientes ações municipais em saúde que enfoquem a
+dimensão das relações familiares e que trabalhem com
+a qualificação dos vínculos. Aliado a isso, há demandas
+sociais  da  cidade  como  a  violência,  o  intenso  fluxo
+migratório e o baixo grau de identificação e vinculação
+cultural dos novos moradores ao território que auxiliam
+na compreensão dessa questão. 
+Destaca-se que o tema satisfação  aparece  em
+quarto lugar (6 temas), com 11% do total proposto. Isso
+certifica que a roda de TCI também se coloca enquanto
+um  espaço  de  partilha  de  experiências  de  vida  que
+tratam  de  eventos  positivos,  ou  seja,  é  também  um
+espaço  legitimado  para  o  compartilhamento  de
+conquistas.  Temas  desse  caráter  são  acolhidos  e
+auxiliam  na  construção  de  redes  de  fortalecimento
+comunitário. 
+Segundo aponta Azevedo et al. (2013), durante a
+realização  das  rodas  de  TCI,  tem-se  um  momento  de
+socialização de estratégias  de  enfrentamento  de
+problemas ,  as  quais  emanam  da  discussão  sobre  o
+tema  escolhido  a  partir  do  lançamento  do  mote.  Tais
+estratégias emergem do coletivo grupal e são por eles
+socializadas.  Em  relação  a  elas,  também  foi  realizado
+levantamento e avaliação detalhada. 
+A experiência relatada nesse estudo apresentou
+a proposição de 39 estratégias durante a realização das
+Revista de Psicologia, Fortaleza, v.9 n2, p. 183-188. 2018  186
+. ............................... .............................................................................................................................................ISSN 2179-1740 Revista de Psicologia
+26  rodas  de  TCI,  as  quais  foram  organizados  em  6
+categorias  semânticas,  seguidas  do  número  de
+evocações,  a  saber:  comunidade  (6  estratégias),
+espiritualidade  (13  estratégias),  família  (4  estratégias),
+rede  de  amigos  (8  estratégias),  sistema  de  saúde  (3
+estratégias) e outros (5 estratégias). 
+Avaliando esses dados, é possível perceber que,
+para a comunidade, a espiritualidade  (13  estratégias)
+surge  como  principal  ferramenta  e  instrumental  de
+enfrentamento  das  dificuldades,  com  33%  do  total.
+Vale-se  ressaltar,  que  o  termo  espiritualidade  é
+entendido  de  maneira  diferente  de  religião;  essa  se
+configura  como  um  conjunto  específico  de  crenças  e
+valores, ao ponto que aquela é vista como um conceito
+ampliado de relação com algo transcendental (Ferreira,
+2004). 
+Em segundo lugar tem-se a categoria rede  de
+amigos ,  com  21%  (8  estratégias).  Esse  dado  faz
+referência  ao  suporte  social  oportunizado  por
+amigos/amizades,  o  qual  tomou  relevância,
+ultrapassando,  inclusive,  o  apoio  comunitário  (15%  do
+total) e o familiar (10% do total). Nesse sentido, para a
+comunidade,  o  apoio  de  amigos  é  uma  estratégia
+importante  no  enfrentamento  das  dificuldades  e
+intempéries. 
+Outro dado relevante que emerge na análise é a
+questão da estratégia Sistema de Saúde  ocupar  o
+último lugar, com 8% do total. A comunidade procura o
+sistema  de  saúde  oficial  como  última  estratégia  a  ser
+tomada,  ou  seja,  o  coletivo  possui  dinâmica  resolutiva
+própria, para além do SUS. Sendo assim, o grupo tem
+sua  homeostase  e  saberes  próprios,  que  devem  ser
+reconhecidos e valorizados (Barreto, 2005). 
+Analisando  tal  realidade,  viu-se  a  necessidade
+de  atividades  de  promoção  de  saúde  que  foquem  nas
+relações  familiares,  sobretudo  no  que  tange  ao
+fortalecimento  dos  vínculos  e  da  dialogicidade.  Assim
+como, é necessário a valorização e reconhecimento da
+espiritualidade  enquanto  principal  forma  de  cuidado  da
+comunidade. 
+Faz-se  relevante,  ainda,  tencionar  a  elaboração
+estratégias  de  aproximação  entre  o  sistema  de  saúde
+local  e  as  pessoas  e  coletivos,  não  em  um  viés
+assistencialista  e  tutelar,  mas  sim  como  parceiro  e
+corresponsável  no  processo  de  promoção  de  saúde,
+pois  o  distanciamento  apresentado  nos  dados  mostra
+uma  dificuldade  de  comunicação  e  reconhecimento
+entre  comunidade  e  sistema  de  saúde  (Kalichman  &
+Ayres, 2016). 
+A  análise  dos  temas  e  estratégias  de
+enfrentamento  apresentados  nas  rodas  vêm  colocar  a
+TCI  enquanto  uma  ferramenta,  para  além  de
+terapêutica, auxiliar na avaliação da condição de saúdeda comunidade, pois oferece subsídios epidemiológicos
+que, somados a outros instrumentais, criam um quadro
+de  situação  de  saúde  que  pode  fomentar  e  tencionar
+ações e projetos na área.  
+CONSIDERAÇÕES FINAIS  
+O  relato  que  aqui  se  desenvolveu  buscou
+analisar  a  TCI  enquanto  dispositivo  de  cuidado  no
+contexto  da  Saúde  Mental,  por  meio  da  avaliação  da
+implementação  e  condução  de  26  rodas  de  TCI  em  3
+cenários  distintos  de  um  município  cearense  no
+contexto de um programa de Residência em Saúde de
+uma instituição pública de ensino. 
+Examinando  os  resultados  obtidos  na
+experiência, verificou-se que as rodas de TCI facilitadas
+em  zona  rural  caracterizavam-se  por  maior  adesão  da
+comunidade,  maior  coesão  grupal,  compartilhamento
+em comum de temas e disponibilidade em promover o
+diálogo. Em contrapartida, na zona urbana, percebeu-se
+uma  baixa  adesão  da  comunidade,  menor  coesão
+grupal, dificuldades em externar demandas por meio do
+diálogo coletivo e temas de viés individual. 
+No  que  se  refere  aos  temas  e  estratégias  de
+enfrentamento  apresentados  nas  rodas  de  TCI,
+verificou-se  que  as  demandas  mais  recorrentes  foram
+relativas a preocupação  e a tristeza ,  tendo  por  base
+dificuldades  e  conflitos  de  dimensão  familiar,  assim
+como as principais estratégias de enfrentamento foram
+a espiritualidade  e a rede de amigos ,  ficando  a  procura
+por serviços de saúde em último lugar. 
+Os  resultados  obtidos  com  a  implantação  das
+rodas  demonstraram  que  a  TCI  se  configura  enquanto
+uma prática potente em Saúde Mental, pois trabalha em
+uma  perspectiva  de  fortalecimento  comunitário  e
+reconhecimento  do  saber  do  coletivo  como  uma
+ferramenta legítima, empoderando-o e tencionando um
+modo  de  cuidado  para  além  do  adoecimento,  numa
+perspectiva  extramuros,  produzindo  redes  de  vida  e
+cuidado. 
+ Observou-se  a  TCI  nos  moldes  de  uma
+tecnologia  leve  de  cuidado,  sobretudo  por  seu  caráter
+relacional, por colocar-se no entre  em  meio  a
+profissionais  e  usuários  implicados  na  produção  do
+cuidado  (Filha,  Lazarte  &  Dias,  2013).  Faz,  portanto,
+oposição  ao  modelo  manicomial  e  medicalizante,  com
+vistas  a  construir  um  modo  de  atenção  focado  no  ser
+humano e suas potencialidades (Pereira & Costa-Rosa,
+2012). 
+Compreende-se  que  Saúde  Mental  não  se  faz
+entre  paredes  institucionais,  longe  das  pessoas  e  da
+vida, mas sim em coletivo, na comunidade, no entre  das
+relações  (Amarante,  2003).  A  aposta  no  projeto  de
+Revista de Psicologia, Fortaleza, v.9 n2, p. 183-188. 2018  187
+. ............................... .............................................................................................................................................ISSN 2179-1740 Revista de Psicologia
+implantação  de  rodas  de  TCI  em  um  contexto  onde  o
+cuidado se fazia de modo encapsulado efetivou-se  a
+partir do pressuposto de que a Saúde Mental se faz com
+redes afetivo-relacional-dialógicas. Nesse sentido, a TCI
+foi  uma  das  pontes  possíveis  na  busca  da  construção
+de redes de vida.  
+REFERÊNCIAS  
+Amarante, P. (2003). Loucos pela vida :  a  trajetória  da
+Reforma  Psiquiátrica  no  Brasil.  3ª  reimp.  Rio  de
+Janeiro: Editora Fiocruz. 
+Andrade, L. O. M. D., Barreto, I. C. H., Barreto, A. P., &
+Oliveira, M. V. A. (2008). O  SUS  e  a  Terapia
+Comunitária . Fortaleza: Ministério da Saúde. 
+Azevedo,  E.  B.,  Cordeiro,  R.  C.,  Costa,  L.  D.  F.  P.,
+Guerra, C. S., Filha, M. O. F., & Dias, M. D. (2013).
+Pesquisas  brasileiras  sobre  terapia  comunitária
+integrativa. Revista Brasileira de Pesquisa em Saúde , 
+15(3). 
+Barreto, A. (2005). Terapia Comunitária passo a passo .
+Fortaleza: Gráfica LCR. 
+Brasil. (2016). Resolução nº 510 do CNS, de 07 de abril
+de  2016.  Ética  na  Pesquisa  na  área  de  Ciências
+Humanas e Sociais.  Diário Oficial da União ,  24  de
+maio de 2016. 
+Falkembach,  E.  M.  F.  (1987).  Diário  de  campo:  um
+instrumento de reflexão.  Contexto e educação . V. 2, n.
+7, p. 19-24. 
+Ferreira, A. D. H. (2004). Novo  dicionário  Aurélio  da
+língua portuguesa . São Paulo: Editora Positivo. 
+Filha, M. O. F., Lazarte R. & Dias M. D. (2013).  Terapia
+comunitária integrativa :  uma  construção  coletiva  do
+conhecimento. João Pessoa: Editora da UFPB. 
+Franco,  T.  B.,  &  Merhy,  E.  E.  (2012).  Cartografias  do
+Trabalho e Cuidado em Saúde.  Tempus  Actas  de
+Saúde Coletiva , 6(2), 151-163. 
+Freire, P. (2012). Pedagogia do oprimido . Rio  de
+Janeiro: Paz e Terra. 
+Kalichman,  A.  O.,  &  Ayres,  J.  R.  D.  M.  (2016).
+Integralidade e tecnologias de atenção à saúde: uma
+narrativa sobre contribuições conceituais à construção
+do princípio da integralidade no SUS.  Cadernos  de
+Saúde Publica , 32(8). Lima,  A.  F.  (2016).  Os  movimentos
+progressivos-regressivos  da  reforma  psiquiátrica
+antimanicomial  no  Brasil:  uma  análise  da  saúde
+mental na perspectiva da psicologia social crítica. 
+Salud & Sociedad , 1(3). 
+Mello, L.G. (2007). Antropologia cultural :  iniciação,
+teoria e temas. Petrópolis: Vozes. 
+Menicucci, T. M. G. (2014). História da reforma sanitária
+brasileira  e  do  Sistema  Único  de  Saúde:  mudanças,
+continuidades e a agenda atual.  História,  Ciências,
+Saúde-Manguinhos , 21(1). 
+Morin, E. (1996). Ciência com consciência .  Rio  de
+Janeiro: Bertrand Brasil. 
+Pereira,  E.  C.  &  Costa-Rosa,  A.  (2012).
+Problematizando  a  Reforma  Psiquiátrica  na
+atualidade: a saúde mental como campo da práxis. 
+Saúde e Sociedade , 21 (4). 
+Pereira, T. T. S. O., Barros, M. N. S. & Augusto, M. C.
+N.  A.  (2011)  O  cuidado  em  saúde:  o  paradigma
+biopsicossocial e a subjetividade em foco.  Mental , 9
+(17).  
+Villela, J. M. (2002) Corpo e alma: notas etnográficas de
+um aprendiz de boxe. Mana , v. 8, n. 2, p. 220-222.   
+Wolf, M., & Figueiredo, M. J. V. (1987)  Teorias  da
+comunicação . Lisboa: Presença. 
+Yunes,  M.  A.  M.,  &  Szymanski,  H.  (2001).  Resiliência:
+noção, conceitos afins e considerações críticas. 
+Resiliência e educação , 2, 13-43. 
+RECEBIDO EM: 18/07/2017 
+PRIMEIRA DECISÃO EDITORIAL: 15/05/2018 
+VERSÃO FINAL:28/05/2018 
+APROVADO EM: 26/05/2018  
+Revista de Psicologia, Fortaleza, v.9 n2, p. 183-188. 2018  188
+. ..............................

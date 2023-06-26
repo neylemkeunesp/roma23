@@ -1,0 +1,705 @@
+1Escola anna nEry 24(3)2020
+PESQUISA | RESEARCHEsc Anna Nery 2020;24(3):e20190321
+EANwww.scielo.br/
+DOI: 10.1590/2177-9465-EAN-2019-0321Terapia Comunitária como cuidado complementar a usuários de 
+drogas e suas contribuições sobre a ansiedade e a depressãoa
+Community Therapy as complementary care for drug users and their contributions to anxiety and 
+depression
+Terapia Comunitaria como atención complementaria para usuarios de drogas y sus contribuciones a la 
+ansiedad y la depresión
+Alisséia Guimarães Lemes1,2 
+Vagner Ferreira do Nascimento3 
+Elias Marcelino da Rocha2 
+Maria Aparecida Sousa Oliveira Almeida1 
+Rosa Jacinto Volpato4 
+Margarita Antonia Villar Luis1 
+1. Escola de Enfermagem de Ribeirão Preto. 
+Universidade de São Paulo. Ribeirão Preto, 
+SP . Brasil.
+2. Curso de Enfermagem. Universidade 
+Federal de Mato Grosso. Campus Universitário 
+do Araguaia. Barra do Garças, MT, Brasil.
+3. Curso de Enfermagem. Universidade do 
+Estado de Mato Grosso. Campus Universitário 
+de Tangará da Serra. Tangará da Serra, MT, 
+Brasil.
+4. Escola de Enfermagem. Universidade de 
+São Paulo. São Paulo, SP . Brasil.
+Autor correspondente:  
+Alisséia Guimarães Lemes  
+E-mail: alisseia@hotmail.com.
+Recebido em 11/11/2019.  
+Aprovado em 07/01/2020.Resumo
+Objetivo: avaliar as contribuições da T erapia Comunitária sobre a ansiedade e a depressão entre usuários de drogas psicoativas. 
+Métodos: estudo quase-experimental, realizado com 21 homens residentes em três instituições de saúde mental voltadas à 
+recuperação da dependência química, submetidos a seis rodas de terapia comunitária como processo de intervenção em 2018. 
+A coleta de dados ocorreu em três etapas a partir do uso de um questionário semiestruturado e dois inventários de ansiedade e 
+depressão de Beck. Utilizou-se método estatístico não-paramétricos na comparação dos resultados. Resultados: a depressão 
+esteve presente entre 76% dos usuários e a ansiedade entre 48%. Dentre os participantes das rodas, houve uma redução 
+nos níveis de depressão durante e após o processo de intervenção ( p=0,016; p=0,004) quando comparado ao estado inicial e 
+para manter a média dos escores de ansiedade no T1 e T2 (9,90; 9,95) se comparado ao T0 (13,10). Conclusão e implicações 
+para a prática: o uso da terapia comunitária demonstrou resultados positivos sobre a ansiedade e a depressão, sendo então 
+considerada uma importante ferramenta de cuidado em saúde mental a ser utilizada por enfermeiros, com vistas a ampliar o 
+seu cuidado as pessoas em situação de dependência química, contribuindo ainda para adesão ao tratamento. 
+Palavras-chave:  Comunidade Terapêutica; Saúde Mental; Terapias Complementares; Usuários de Drogas.
+AbstRA ct
+Objective: to evaluate the contributions of Community Therapy on anxiety and depression among psychoactive drug users. 
+Methods: a quasi-experimental study was conducted with 21 men living in three mental health institutions focused on recovery 
+from chemical dependence, who underwent six rounds of community therapy as an intervention process in 2018. Data collection 
+took place in three stages from the use of a semi-structured questionnaire and two Beck anxiety and depression inventories. 
+The nonparametric statistical method was used to compare the results. Results: depression was present in 76% of users and 
+anxiety in 48%. Among the participants in the yarning circles, there was a reduction in depression levels during and after the 
+intervention process ( p=0.016; p=0.004) when compared to baseline and to maintain the average T1 and T2 anxiety score 
+(9.90; 9.95) compared to T0 (13.10). Conclusion and implications for practice: the use of community therapy has shown positive 
+results on anxiety and depression, and therefore is considered in this study as an important mental health care tool to be used by 
+nurses, aiming to expand their care to people in a situation of chemical dependence, also contributing to treatment adherence. 
+Keywords:  Therapeutic Community; Mental Health; Complementary Therapies; Drug Users.
+Resumen
+Objetivo: evaluar las contribuciones de la terapia comunitaria sobre la ansiedad y la depresión entre los consumidores de drogas 
+psicoactivas. Método: se realizó un estudio cuasiexperimental con 21 hombres residentes en tres instituciones de salud mental 
+focalizadas en la recuperación de la dependencia química, sometidos a seis rondas de terapia comunitaria como proceso de 
+intervención en 2018. La recolección de datos se realizó en tres etapas, a saber: uso de un cuestionario semiestructurado y dos 
+inventarios de ansiedad y depresión de Beck. Se utilizó un método estadístico no paramétrico para comparar los resultados. 
+Resultados: la depresión estuvo presente en un 76% de los consumidores y la ansiedad en el 48%. Entre los participantes en las 
+ruedas, hubo una reducción en los niveles de depresión durante y después del proceso de intervención ( p = 0.016; p = 0.004) 
+en comparación con el valor inicial y para mantener el puntaje promedio de ansiedad T1 y T2 (9.90; 9.95) en comparación con 
+T0 (13.10). Conclusión e implicaciones para la práctica: el uso de la terapia comunitaria ha mostrado resultados positivos sobre 
+la ansiedad y la depresión y, por lo tanto, se considera como una importante herramienta de atención a la salud mental a ser 
+utilizada por las enfermeras, con a fin de extender su atención a las personas que se encuentran en una situación de dependencia 
+química, además de fomentar la adhesión al tratamiento. 
+Palabras clave:  Comunidad Terapéutica; Salud mental; Terapias complementarias; Consumidores de drogas.2Escola anna nEry 24(3)2020
+Uso da Terapia Comunitária a usuários drogas
+Lemes AG, Nascimento VF , Rocha EM, Almeida MASO, Volpato RJ, Luis MAV
+INTRODUÇÃO
+Estudos apontam que boa parte dos usuários de drogas 
+psicoativas apresentam algum transtorno psiquiátrico, problemas 
+cognitivos e comportamentais, como transtornos antissociais e 
+de personalidade, perturbações do humor e ansiedade.1-3 Pelas 
+características incapacitantes e repercussões geradas, essas 
+comorbidades devem ser consideradas durante a assistência, 
+a fim de se alcançar o sucesso no cuidado terapêutico.4
+A depressão é uma dessas comorbidades, sendo considerada 
+uma pandemia global, pela presença nos diversos territórios e 
+contextos sociais do mundo.3,4 Ela pode desencadear prejuízos, 
+tanto de ordem pessoal/familiar como repercussões em outras 
+dimensões de convivência/relações.2,5
+Por outro lado, a ansiedade é mais reportada em estudos 
+com usuários de drogas psicoativas.3,6 Esse transtorno reflete-se 
+em uma resposta inadequada ao enfrentamento de estímulos 
+diários, sem controle, desorganizando a dinâmica de vida das 
+pessoas e seus relacionamentos interpessoais.7
+A somatória dessas comorbidades com ou em razão da 
+dependência química torna-se fator motivador para a não 
+cessação do consumo das substâncias psicoativas e/ou torna-se 
+obstáculo para adesão ao tratamento,4,8,9 impondo desafios na 
+efetivação da assistência à essa clientela.
+Frente a isso, pesquisadores e profissionais estão em 
+constante busca de estratégias e práticas terapêuticas mais 
+inclusivas e interativas, a fim de atender todas as demandas 
+apresentadas. Essa realidade, culminou com a Política Nacional 
+de Práticas Integrativas e Complementares (PNPIC), criada em 
+2006, assegurando a população brasileira acesso às práticas 
+não alopáticas, mas com eficácia cientificamente comprovada.10
+Acredita-se que as práticas integrativas contribuem para a 
+ampliação da corresponsabilidade dos indivíduos pela saúde, 
+para a coparticipação em seu cuidado terapêutico e para o 
+aumento do exercício da cidadania10 essas práticas também 
+têm sido apontadas como fator contribuinte para a redução de 
+sofrimento mental.11,12
+Destaca-se que as terapias complementares ou práticas 
+integrativas complementares estão mais ofertada nos serviços 
+de saúde da atenção básica do que em serviços de referência em 
+saúde mental.10 Neste cenário, a disseminação e a multiplicação 
+dessas práticas visam ampliar o acesso da comunidade a 
+terapêuticas mais próximas dos contextos de vida e valorização 
+dos recursos individuais/coletivos disponíveis; ao se concretizarem, 
+contribuem para a integralidade do cuidado em saúde.
+Além do uso dessas práticas na redução de doenças 
+psiquiátricas, elas podem contribuir com o manejo e o 
+enfrentamento da dependência química,11,13,14 auxiliando no 
+processo de reinserção social e no alcance de benefícios como 
+a cooperação.15
+Na dependência química, estudos já apontam êxito dessas 
+terapias complementares, como por exemplo na utilização da 
+auriculoterapia,16 da arteterapia,17 da musicoterapia18 e da Terapia 
+Comunitária Integrativa (TCI).19,20Dentre essas modalidades, a TCI apresenta-se como uma 
+abordagem auspiciosa. Foi criada em 1987, inserida no Sistema 
+Único de Saúde (SUS) em 2008, sendo apontada em 201710 
+como uma prática expressiva, eficaz para gerenciar sofrimentos, 
+incluindo o transtorno relacionado ao uso/abuso de álcool, crack 
+e outras substâncias psicoativas.19,20
+A TCI é realizada em rodas abertas, públicas e comunitárias, 
+a fim de proporcionar momentos de escuta compreensiva entre 
+seus participantes, e ao mesmo tempo fomentar vínculos, de 
+modo a fortalecer as redes de apoio, ressignificar demandas 
+pessoais, resgatando autoestima, autoconfiança, e autonomia, e 
+gerar espaço para o cuidado em saúde coletiva e o autocuidado 
+de si.11,12,19
+T odavia, até o presente momento, não há estudos que 
+mensurem a efetividade da intervenção da TCI com usuários de 
+drogas, utilizando instrumentos psicométricos validados. Dessa 
+forma, este estudo objetivou avaliar as contribuições da Terapia 
+Comunitária sobre a ansiedade e a depressão entre usuários 
+de drogas psicoativas. Tendo como hipótese que o uso da TCI 
+produz impacto positivo sobre os níveis de ansiedade e depressão 
+de pessoas usuárias de drogas psicoativas em recuperação no 
+serviço de Comunidade Terapêutica.
+MÉTODOS
+Estudo quase-experimental quantitativo, realizado com 
+21 homens residentes em três instituições de saúde mental 
+(comunidade terapêutica) voltadas a recuperação de dependência 
+química localizadas na região do Vale do Araguaia, Brasil.
+Essa região possui quatro Comunidades Terapêuticas (CT), 
+sendo três masculinas e uma feminina. As CT selecionadas são 
+instituições similares em relação à proposta de acompanhamento, 
+de natureza religiosa, protestante evangélica, com capacidade 
+para até 30 homens, com idade ≥18 anos, que se encontram 
+em situação de dependência química e clinicamente estáveis. 
+Escolheu-se somente as instituições masculinas, pois esta 
+amostra ampliaria o número de participantes com características 
+semelhantes.
+As instituições foram escolhidas pela similaridade na 
+modalidade de recuperação masculina e por serem consideradas 
+unidades de referência para acolhimento de pessoas usuárias 
+de drogas psicoativas para a região e vinculadas à Rede de 
+Atenção Psicossocial (RAPS) como uma das opções de apoio 
+à recuperação de usuários de drogas psicoativas.
+A entrada dos usuários nestas CT ocorre por meio de 
+demanda espontânea ou por encaminhamento dos serviços de 
+saúde local. Os internos em processo de recuperação podem 
+permanecer por até doze meses. A assistência médica aos 
+usuários quando necessário é realizada pela rede de saúde local, 
+priorizando caso haja disponível no município o atendimento no 
+Centro de Atenção Psicossocial Álcool e Drogas (CAPS AD).21
+Quanto à população do estudo, esta foi selecionada por 
+acessibilidade e conveniência,22 totalizando 29 homens residentes 
+nestas CT (com a finalidade de análise, os participantes das 
+CT foram agrupados em um único grupo), tendo como critérios 
+de inclusão: homens ≥18 anos e que tenham participado das 3Escola anna nEry 24(3)2020
+Uso da Terapia Comunitária a usuários drogas
+Lemes AG, Nascimento VF , Rocha EM, Almeida MASO, Volpato RJ, Luis MAV
+seis rodas de TCI. Foram excluídos da pesquisa os usuários 
+com menos de uma semana de acompanhamento em uma das 
+três CT e os que abandonaram ao tratamento. Após aplicação 
+desses critérios, atingiu-se uma amostra de 21 participantes.
+A coleta de dados ocorreu por entrevista, que foi norteada por 
+um roteiro estruturado, elaborado pelos próprios pesquisadores, 
+composto por questões objetivas sobre os aspectos sociodemográficos 
+(sexo, idade, estado civil, escolaridade, cor da pele, renda familiar, 
+profissão e religião), aplicado no T0 (Tempo 0) da coleta, e por 
+dois inventários validados no Brasil, o Inventário de Depressão 
+de Beck (BDI) e o Inventário de Ansiedade de Beck (BAI), ambos 
+aplicados no T0, no T1 (Tempo 1) e no T2 (Tempo 2) do estudo.
+O BDI é uma escala de autoavaliação para identificar sintomas 
+depressivos, apontado como uma ferramenta de rastreamento 
+para detectar os sintomas da doença, bem como a gravidade 
+dos sintomas (leve, moderado e grave), composto por 21 itens, 
+apresentados em uma escala de likert  de quatro pontos, variando 
+de 0 a 3. Os itens somados resultam em escore total que pode 
+variar de 0 a 63. Os pontos de corte para depressão são: 
+0 a 13 (ausência ou sintomas mínimos depressivos); 14 a 19 
+(depressão leve); 20 a 28 (depressão moderada); e 29 a 63 
+(depressão grave).23
+O BAI é um questionário autoaplicável, que avalia sintomas 
+característicos de ansiedade em busca de determinar a tendência 
+à ansiedade, possuindo 21 itens, apresentados em uma escala 
+de likert  de quatro pontos, variando de 0 a 3. Os itens somados 
+resultam em escore total que pode variar de 0 a 63. Os pontos de corte para ansiedade são: 0 a 10 (ausência de sintomas 
+ansiosos); 11 a 19 (ansiedade leve); 20 a 30 (ansiedade 
+moderada); e 31 a 63 (ansiedade grave), sendo considerado o 
+escore ≥ 21 pontos como indicativo da existência de ansiedade 
+clinicamente significativa.23
+Os participantes responderam aos instrumentos nas três fases 
+da pesquisa (T0, T1, T2) na própria CT, em local calmo e seguro 
+oferecido pela instituição. O preenchimento teve duração média 
+de 30 minutos e contou com o apoio de auxiliares da pesquisa.
+Os usuários foram submetidos à Terapia Comunitária 
+Integrativa como processo de intervenção. Essa terapia baseia-se 
+em cinco pilares teóricos: o pensamento sistêmico; a pedagogia 
+de Paulo Freire; a antropologia cultural; a teoria da comunicação 
+e a resiliência. Segue um protocolo de execução/realização que 
+compreende a cinco etapas: acolhimento, escolha do tema, 
+contextualização, problematização e encerramento.24 Sugere- se a 
+participação mínima de duas pessoas que atuam como terapeutas 
+comunitários, devidamente treinados.24,25
+O processo de intervenção foi realizado a partir da execução 
+de seis rodas de TCI, com duração média de 60 minutos cada, 
+que ocorreu separadamente em cada CT em dias e horários 
+combinados com os gestores, os usuários e os pesquisadores, 
+realizado no período de janeiro a maio de 2018. Todo o processo 
+da pesquisa teve duração de 10 semanas consecutivas para cada 
+CT e foi dividido em três etapas, denominadas pré-intervenção, 
+intervenção e pós-intervenção. O protocolo de execução do 
+processo de intervenção está apresentado no Figura 1 .
+Figura 1.  Fluxograma da seleção dos participantes e do protocolo de intervenção com a Terapia Comunitária Integrativa.4Escola anna nEry 24(3)2020
+Uso da Terapia Comunitária a usuários drogas
+Lemes AG, Nascimento VF , Rocha EM, Almeida MASO, Volpato RJ, Luis MAV
+A primeira etapa do estudo “pré-intervenção” (semanas 1 e 2) 
+foi destinada à visita nas CT para informação e esclarecimento 
+dos usuários, sobre os objetivos da pesquisa, e para coleta das 
+assinaturas no Termo de Consentimento Livre e Esclarecido 
+(TCLE), bem como para a apresentação dos auxiliares da pesquisa, 
+voluntários do projeto de saúde mental da Universidade Federal 
+de Mato Grosso (UFMT), Campus Universitário do Araguaia 
+(CUA), que foram devidamente treinados para coletarem os 
+dados (T0, T1, T2), e dos terapeutas comunitários (enfermeiros 
+professores da UFMT/CUA e da Universidade do Estado de Mato 
+Grosso – UNEMAT/T angará da Serra). Ressalta-se que todos 
+os usuários residentes nas CT foram convidados a participar 
+das rodas. Nessa etapa houve a aplicação da primeira fase da 
+coleta de dados (T0 considerado antes do início do processo 
+de intervenção) a 29 participantes.
+A segunda etapa “intervenção” (semana 3 a 8) foi destinada á 
+execução das seis rodas de TCI em cada CT, sendo que as rodas 
+foram conduzidas pelos terapeutas comunitários, que seguiram 
+um roteiro sistematizado de cinco etapas, proposto pelo autor 
+da terapia.24 Nessa etapa, houve a aplicação da segunda fase 
+da coleta de dados (T1), no intervalo da 3ª para a 4ª rodas a 
+23 internos, pois, houve perda por abandono ao tratamento, na 
+CT, de seis participantes.
+A terceira etapa “pós-intervenção” (semana 9 a 10) foi 
+destinada á reaplicação dos instrumentos de coleta de dados 
+(T2 considerado a terceira fase de coleta, ocorrida posterior ao 
+término do processo de intervenção) a 21 participantes, pois 
+também houve perda por abandono ao tratamento de dois 
+participantes entre a realização da 5ª e 6ª roda e finalização 
+da pesquisa.
+Os dados foram duplamente lançados em planilha do Microsoft 
+Excel 2013 e foram transportados para análise estatística no 
+programa Statistical Package for the Social Sciences -SPSS 
+versão 22. Os dados quantitativos oriundos do questionário 
+semiestruturado foram analisados por meio da estatística 
+descritiva. Os valores das pontuações dos inventários utilizados 
+(BDI e BAI) foram apresentados em tabela sob a forma de 
+variável numérica, com a análise dos intervalos obtidos, mediana, 
+média e desvio-padrão, com posterior aplicação do teste de 
+comparação de K grupos pareados, Teste de Friedman, ao nível de significância de 5% ( p<0,05), e posterior comparação aos 
+pares, post hoc  Teste de Wilcoxon com correção de Bonferroni 
+ao nível de significância de 5% ( p<0,05).
+Foram respeitados todos os aspectos éticos em pesquisa 
+com seres humanos, de acordo com a Resolução 466/2012, do 
+Conselho Nacional de Saúde (CNS), iniciando-se a investigação 
+somente após aprovação do Comitê de Ética em Pesquisa 
+da EERP/USP , sob CAAE: 68444017.8.0000.5393 e parecer 
+nº 2.487.000.
+RESULTADOS
+A amostra foi constituída por 21 participantes, sendo 
+homens com idade entre 19 e 61 anos, com média de idade 
+de 37,57 anos, que se autodeclararam pardos (62%), solteiros 
+(62%), com religião (86%), tendo cursado, de forma completa 
+ou incompleta, o ensino fundamental (67%), sem emprego 
+renumerado (82%) e ausência de renda familiar (57%).
+No que diz respeito ao uso de substâncias psicoativas, o 
+uso de crack (48%) foi predominante e contribuinte para a busca 
+pela internação, seguido do álcool (28%). As demais substâncias 
+mais consumidas anteriormente ao tratamento foram cocaína 
+(14%) e maconha (10%).
+Quanto ao tratamento para dependência química, 67% dos 
+usuários reportaram histórico de múltiplas internações, sendo 
+a comunidade terapêutica o serviço mais procurado (63%). 
+A internação atual foi buscada de forma voluntária por 67% 
+dos internos.
+O uso do inventário utilizado para rastrear a depressão (BDI) 
+revelou que os tipos moderada (33%) e grave (29%) da doença 
+foram mais frequentes entre os entrevistados. Pode-se observar 
+que, durante e após o uso da TCI, houve aumento significativo 
+entre os usuários considerados “sem depressão” (T0=24%, 
+T1=33%, T2=52%) e uma redução importante nos casos de 
+depressão grave (T0=29%, T1=10%, T2=5%) e moderada 
+(T0=33%, T1=24%, T2=10%), como apresentado na T abela 1 .
+Na T abela 2, verifica-se alterações na média e na mediana 
+dos escores obtidos no BDI, antes, durante e após a intervenção 
+com a TCI, demonstrando que dentre os participantes das rodas 
+de TCI, houve uma redução da depressão, quando comparados 
+o T1 e o T2 ao estado inicial - T0 ( p=0,016; p=0,004).
+Tabela 1.  Distribuição dos níveis de depressão entre os participantes, segundo classificação do BDI (T0, T1, T2). Região Vale do 
+Araguaia, Brasil, 2018. (n=21)
+EscoresBDI – T0 BDI – T1 BDI – T2
+N (%) N (%) N (%)
+Sem Depressão 5 (24%) 7 (33%) 11 (52%)
+Depressão Leve 3 (14%) 7 (33%) 7 (33%)
+Depressão Moderada 7 (33%) 5 (24%) 2 (10%)
+Depressão Grave 6 (29%) 2 (10%) 1 (5%)
+Total 21 (100 %) 21 (100 %) 21 (100 %)
+Fonte: dados da pesquisa, 20185Escola anna nEry 24(3)2020
+Uso da Terapia Comunitária a usuários drogas
+Lemes AG, Nascimento VF , Rocha EM, Almeida MASO, Volpato RJ, Luis MAV
+Os dados obtidos no BAI, inventário utilizado para rastrear 
+a ansiedade, revelaram que os entrevistados apresentaram, no 
+T0 da coleta, algum nível de ansiedade (48%), com destaque 
+para a ansiedade do tipo leve (29%).
+Pode-se observar, que durante e após o uso da TCI, houve 
+um discreto aumento entre os usuários considerados “sem 
+ansiedade” (T0=52%, T1=62%, T2=67%), uma redução importante 
+nos casos de ansiedade do tipo leve (T0=29% ao T2=14%) e 
+uma diminuição em 50% dos casos do tipo grave (T0=10% ao 
+T2=5%), como apresentado na T abela 3 .
+Na T abela 4 , pode-se observar a média dos escores de 
+ansiedade, bem como o valor de “ p” avaliado, antes, durante e após a intervenção, demonstrando não haver evidências na 
+redução da ansiedade quando comparados o T1 e o T2 ao estado 
+inicial - T0 ( p=0,076; p=0,092), porém houve significância dos 
+valores da média e mediana nos tempos avaliados ( p=0,03). 
+Além disso, o uso da TCI pode contribuir para manter a média 
+dos escore do BAI no T1 e no T2 (9,90; 9,95) se comparados 
+ao T0 (13,10).
+DISCUSSÃO
+As características sociodemográficas, o uso de drogas 
+psicoativas e o tratamento verificados nesta pesquisa foram 
+semelhantes a outros estudos nacionais e internacionais.26-30Tabela 2.  Análise inferencial dos escores do BDI, nos 3 momentos respondidos (T0, T1, T2) pelos participantes. Região Vale do 
+Araguaia, Brasil, 2018. (n=21)
+Descrição Média (±DP) Mediana (Max-Min) Valor de p
+BDI –T0 20,33 ± 9,55 21,00 (36-03) 0,00*
+BDI -T1 16,76 ± 8,88 16,00 (33-00)
+BDI -T2 12,95 ± 7,71 13,00 (31-00)
+BDI – T0 x T1 0,016**
+BDI – T0 x T2 0,004**
+BDI – T1 x T2 1,000
+*Teste de comparação de K grupos pareados, Teste de Friedman, ao nível de significância de 5% ( p<0,05); **Comparação aos pares, post hoc Teste Wilcoxon 
+com correção de Bonferroni, ao nível de significância de 5% ( p<0,05). Fonte: dados da pesquisa, 2018.
+Tabela 4.  Análise inferencial dos escores do BAI, nos 3 momentos respondidos (T0, T1, T2) pelos participantes. Região Vale do 
+Araguaia, Brasil, 2018. (n=21)
+Descrição Média (DP) Mediana (Max-Min) Valor de p
+BAI –T0 13,10 ± 10,30 10,30 (43-00) 0,03*
+BAI -T1 9,90 ± 9,04 7,00 (38-00)
+BAI -T2 9,95 ± 10,11 6,00 (34-00)
+BAI – T0 x T1 0,076**
+BAI – T0 x T2 0,092**
+BAI – T1 x T2 1,000
+*Teste de comparação de K grupos pareados, Teste de Friedman, ao nível de significância de 5% ( p<0,05); **Comparação aos pares, post hoc Teste Wilcoxon 
+com correção de Bonferroni, ao nível de significância de 5% ( p<0,05). Fonte: dados da pesquisa, 2018.Tabela 3.  Distribuição dos níveis ansiedade entre os participantes, segundo classificação do BAI (T0, T1, T2). Região Vale do 
+Araguaia, Brasil, 2018 (n=21).
+EscoresBAI – T0 BAI – T1 BAI – T2
+N (%) N (%) N (%)
+Sem Ansiedade 11 (52%) 13 (62%) 14 (67%)
+Ansiedade Leve 6 (29%) 6 (29%) 3 (14%)
+Ansiedade Moderada 2 (10%) 1 (5%) 3 (14%)
+Ansiedade Grave 2 (10%) 1 (5%) 1 (5%)
+Total 21 (100 %) 21 (100 %) 21 (100 %)
+Fonte: dados da pesquisa, 20186Escola anna nEry 24(3)2020
+Uso da Terapia Comunitária a usuários drogas
+Lemes AG, Nascimento VF , Rocha EM, Almeida MASO, Volpato RJ, Luis MAV
+Em relação à depressão, esta pesquisa destacou usuários 
+com os tipos moderado e grave. Estes achados também foram 
+verificados em estudos nacionais realizados no Rio Grande 
+do Sul,4,31 no Paraná,25 na Bahia26 e no interior de São Paulo,28 
+assim como em estudos internacionais, ambos realizados na 
+Austrália.32,33
+Este estudo revelou que os usuários de drogas psicoativas 
+apresentaram algum nível de ansiedade, com destaque para 
+ansiedade do tipo leve. A presença da ansiedade também foi 
+mencionada em outros estudos.4,25,31,34
+Pesquisa realizada em Mato Grosso (BR) apontou que a 
+ansiedade pode ser comum entre os usuários de drogas, quando 
+em recuperação, pois eles vivem momentos de insegurança, 
+perdas e medo de recaída, além da condição de privação do 
+contato familiar e sob nova rotina de vida determinada pela 
+comunidade terapêutica.19
+Assim como na presente pesquisa, outros estudos também 
+reportaram a presença de transtornos mentais associados à 
+dependência química.28,33 Há destaques, em estudos nacional8 
+e internacional,9 que mencionam o consumo de drogas como 
+fator agravante dos níveis desses transtornos.
+T ais aspectos devem chamar a atenção dos cuidadores 
+e dos profissionais de saúde que atuam em locais destinados 
+à recuperação de usuários de drogas (CAPS AD, CT, clínicas 
+terapêuticas, hospitais para desintoxicação), uma vez que a 
+presença dessas comorbidades afetam negativamente a reabilitação 
+para dependência química. Dessa forma, há necessidade de 
+utilizar abordagens de apoio no intuito de manejar os sintomas e 
+oferecer suporte social e de saúde, para garantir a manutenção 
+dos usuários no cuidado terapêutico.
+Alguns estudos têm apontado a importância do uso de 
+terapias complementares11,15,16,19,35 como forma de auxiliar os 
+usuários na busca e no resgate da saúde, não somente em 
+relação à dependência química, mas, nas diversas dimensões 
+que integram a vida do usuário. Além disso, na possibilidade de 
+incorporar outras possibilidades de atenção com vistas à melhora 
+do cuidado em saúde mental a essa população.
+A presente pesquisa ressaltou o impacto positivo da TCI na 
+redução da depressão e da ansiedade quando comparado o 
+estado inicial e além disso, pode-se inferir que quanto maior for 
+o número de rodas em que o usuário participar, melhor poderão 
+ser os resultados, porém, somente com pesquisas futuras tal 
+inferência poderá ser testada.
+Há de se destacar que os usuários internados nessas 
+comunidades terapêuticas, assim como em outras da mesma 
+natureza, não recebem atendimento de profissionais especializados 
+dentro da CT; apenas em casos evidentes de patologia há o 
+encaminhamento para o CAPS AD ou para os demais serviços 
+da RAPS (Atenção Básica, Unidade de Pronto Atendimento, 
+Hospital Geral e Hospital Psiquiátrico). Destaca-se, então, como 
+aspectos positivos, o fato de que os indicadores de ansiedade 
+mantiveram os mesmos níveis em que se encontravam no 
+T1 e no T2 e os indicadores de depressão apresentaram uma 
+redução progressiva, quando comparado ao estado inicial –T0.Como abordagem terapêutica ampliada, a TCI é considerada 
+uma prática voltada ao acolhimento, ao fortalecimento de vínculos, 
+ao suporte social, à melhoria da autoestima, que respeita a 
+participação e o protagonismo de cada pessoa, valorizando sua 
+individualidade e a horizontalidade do diálogo. Além disso, sua 
+forma de execução, em grupo e em roda, permite aos participantes 
+momentos de escuta compreensiva, de compartilhamento de 
+histórias de vida e favorecimento de vínculos afetivos entre si.36
+A TCI é uma técnica complementar capaz de auxiliar nos 
+problemas decorrentes do uso de substâncias psicoativas, que 
+apresentou resultados positivos no manejo da depressão e da 
+ansiedade, atuando em diversas necessidades do usuário, 
+podendo ser utilizada isoladamente. Entretanto mediante os 
+resultados encontrados intui-se que seus benefícios poderiam 
+ser ampliados com a oferta em conjunto com outros recursos 
+terapêuticos durante o tratamento para dependência química.
+Outro aspecto positivo observado relaciona-se com o fato 
+de a TCI oferecer momentos de liberdade - para os participantes 
+submetidos a um tratamento mais pautado em normas e rotinas 
+mais rígidas em ambiente de internação - e isso facilita a adesão 
+ao projeto terapêutico estabelecido, pois, a TCI constitui-se uma 
+forma de terapia humanitária que proporciona aos internados 
+a possibilidade de momentos agradáveis, com mais estímulos, 
+respeitando os direitos humanos, por acolher o sofrimento e as 
+demandas dos usuários, e serem ausente de restrições.
+Observou-se que, de fato, a terapia comunitária pode ser 
+um recurso terapêutico possível de ser usado separadamente 
+ou de forma complementar, a fim de propiciar apoio e fomentar a 
+sociabilidade entre os usuários, de uma forma sadia, favorecendo a 
+livre expressão de seus sentimentos, o que mostrou que é possível 
+desconstruir a ideia do uso apenas de modelos biomédicos 
+convencionais no tratamento e na recuperação desses usuários.
+No presente estudo, a terapia comunitária foi desenvolvida 
+por três enfermeiros capacitados e mostrou ser uma ferramenta 
+de cuidados efetiva quando aplicada por esses profissionais. 
+O uso desta terapia amplia a visão da enfermagem para o uso de 
+uma intervenção de baixo custo que possa ajudar a reconhecer 
+as necessidades, medos e inseguranças desses indivíduos em 
+tratamento e ainda, propor à equipe um atendimento de saúde 
+que permita aos indivíduos a oportunidade de compartilhar 
+sua história e sentimentos, serem ouvidos e acolhidos durante 
+o tratamento.
+Esses resultados chamam a atenção para a necessidade da 
+oferta cada vez mais expandida de abordagens multidisciplinares, 
+como a terapia comunitária, que atendam as demandas de 
+saúde mental desses usuários, independentemente do local que 
+optarem (ou para o qual forem encaminhados) para atendimento 
+e ou tratamento, à medida que ampliem a assistência à saúde.
+CONCLUSÃO E IMPLICAÇÃO PARA A 
+PRÁTICA
+Este estudo confirmou que as práticas integrativas, como 
+a TCI, podem e devem ser utilizadas na promoção de saúde 
+de usuários de drogas psicoativas, para complementar na 7Escola anna nEry 24(3)2020
+Uso da Terapia Comunitária a usuários drogas
+Lemes AG, Nascimento VF , Rocha EM, Almeida MASO, Volpato RJ, Luis MAV
+melhora ou manutenção de indicadores da possível presença 
+de transtornos mentais como a depressão e a ansiedade, 
+concomitantes ao uso dessas substâncias. As evidências 
+apontaram para um impacto positivo da TCI na redução dos 
+sintomas da depressão e da ansiedade, quando comparado ao 
+estado inicial entre esses usuários, tornando-se uma importante 
+ferramenta voltada ao cuidado em saúde mental de pessoas em 
+situação de dependência química.
+Os achados demonstraram que quanto mais o usuário 
+participar em rodas de TCI, melhor poderá ser seu resultado, 
+sugerindo neste estudo um protocolo de aplicação desta 
+terapia de no mínimo seis rodas de TCI em pesquisas a serem 
+realizadas com usuários de drogas em tratamento, tendo em 
+vista os resultados alcançados.
+Os resultados deste estudo apoiam a importância da 
+implementação de práticas complementares no processo de 
+tratamento e reabilitação de usuários de drogas psicoativas, 
+atendendo as diferentes demandas dessa população, revelando 
+a necessidade de qualificação de pessoas envolvidas nesse 
+cuidado, como terapeutas comunitários, bem como a necessidade 
+de oferta de outras práticas complementares que possam atender 
+as demandas advindas do uso de substâncias psicoativas.
+Como limitações, destaca-se o fato de a população ser 
+exclusiva de homens em situação de dependência química, 
+residentes em comunidades terapêuticas, do tipo de estudo e ao 
+tamanho amostral, o qual está de acordo com as características 
+da população estudada, que apresenta alta rotatividade e 
+também em razão de esse tipo de serviço não comportar 
+grande quantitativo de usuários em sistema residencial. Outra 
+limitação a ser destacada é o uso do Inventário de Ansiedade 
+de Beck, pelo fato de não estabelecer diferença entre o traço 
+de ansiedade do indivíduo, e seu estado atual de ansiedade, 
+no momento da coleta dos dados.
+Assim sendo, sugere-se que novos estudos sejam realizados 
+em grupos distintos de usuários de drogas, assim como em outros 
+tipos de serviços de saúde que acolham esses indivíduos e uso de 
+outros instrumentos de pesquisa, para que se possa determinar 
+a extensão dos efeitos dessa intervenção com mais equidade.
+AGRADECIMENTOS
+Aos usuários e gestores das comunidades terapêuticas 
+participantes do estudo. Aos voluntários do projeto de pesquisa 
+em saúde mental da Universidade Federal de Mato Grosso 
+(UFMT), Campus Universitário do Araguaia (CUA), pelo auxílio 
+na fase de coleta de dados. Ao psicólogo Eduardo dos Santos 
+Vieira pelo apoio a pesquisa.
+FINANCIAMENTO
+A Coordenação de Aperfeiçoamento de Pessoal de Nível 
+Superior (CAPES), bolsa de doutorado “Novo Prodoutoral” em 
+parceria com a Universidade Federal de Mato Grosso (UFMT) 
+à Alisséia Guimarães Lemes (Processo nº 1.762.375).CONTRIBUIÇÕES DOS AUTORES
+Concepção e desenho do estudo. Aquisição de dados. 
+Análise e Interpretação dos achados. Redação e revisão crítica 
+do artigo. Responsabilidade por todos os aspectos do trabalho, 
+acurácia e integridade: Alisséia Guimarães Lemes, Vagner 
+Ferreira do Nascimento e Margarita Antonia Villar Luis. Análise 
+e Interpretação dos achados. Redação e revisão crítica da 
+versão final do artigo. Responsabilidade por todos os aspectos 
+do trabalho, acurácia e integridade: Elias Marcelino da Rocha, 
+Rosa Jacinto Volpato e Maria Aparecida Sousa Oliveira Almeida
+EDITOR ASSOCIADO:
+Ivone Evangelista Cabral
+REFERÊNCIAS
+1. Devóglio  LL, Corrente  JE, Borgato  MH, Godoy  I. T abagismo em 
+mulheres profissionais do sexo: prevalência e variáveis associadas.  J 
+Bras Pneumol . 2017 ;43(1):6-13. PMid:28380184.
+2. Remy  LS, Scherer  J, Guimarães  L, Surratt  HL, Kurtz  SP, Pechansky  
+F et al . Anxiety and depression symptoms in Brazilian sexual minority 
+ecstasy and LSD users.  Trends Psychiatry Psychother . 2017 ;39(4):239-
+46. http://dx.doi.org/10.1590/2237-6089-2016-0081 . PMid:29160330.
+3. Marin  AH, Peuker  AC, Kessler  FHP. Sociodemographic characteristics, 
+school performance, pattern of consumption and emotional health 
+as risk factors for alcohol use among adolescents.  Trends Psychol . 
+2019 ;27(1):279-92. http://dx.doi.org/10.9788/TP2019.1-20 .
+4. Andretta  I, Limberger  J, Schneider  JA, Mello  LTN . Sintomas de 
+depressão, ansiedade e estresse em usuários de drogas em tratamento 
+em comunidades terapêuticas.  Psico-USF . 2018 ;23(2):361-73. http://
+dx.doi.org/10.1590/1413-82712018230214 .
+5. Cybulski  CA, Mansani  FP. Análise da depressão, dos fatores de risco para 
+sintomas depressivos e do uso de antidepressivos entre acadêmicos 
+do curso de medicina da Universidade Estadual de Ponta Grossa.  Rev 
+Bras Educ Med . 2017 ;41(1):92-101. http://dx.doi.org/10.1590/1981-
+52712015v41n1rb20160034 .
+6. Figueiró  LR, Bortolon  CB, Benchaya  MC, Bisch  NK, Ferigolo  M, Barros  
+HM et al. Avaliação de mudanças na dependência da nicotina, motivação 
+e sintomas de ansiedade e depressão em fumantes no processo inicial 
+de redução ou cessação do tabagismo: estudo de seguimento de curto 
+prazo.  T rends Psychiatry Psychother . 2013 ;35(3):212-20. PMid:25923393.
+7. Alves  DGL , Rocha  SG, Andrade  EV, Mendes  AZ, Cunha  AGJ . The 
+positive impact of physical activity on the reduction of anxiety scores: 
+a pilot study.  Rev Assoc Med Bras . 2019 ;65(3):434-40. http://dx.doi.
+org/10.1590/1806-9282.65.3.434 .
+8. Pawlina  MMC , Rondina  RC, Espinosa  MM, Botelho  C. Nicotine 
+dependence and levels of depression and anxiety in smokers in the 
+processo f smoking cessation.  Rev Psiquiatr Clin . 2014 ;41(4):101-5. 
+http://dx.doi.org/10.1590/0101-60830000000020 .
+9. Latkin  C, Davey-Rothwell  M, Y ang  JY, Crawford  N. The relationship 
+between drug user stigma and depression among inner-city drug 
+users in Baltimore.  J Urban Health . 2013 ;90(1):147-56. http://dx.doi.
+org/10.1007/s11524-012-9753-z . PMid:22918839.
+10. Ministério da Saúde (BR) . Glossário temático: práticas integrativas e 
+complementares em saúde. Brasília: Ministério da Saúde; 2018 .
+11. Souza  LPS, T eixeira  FL, Diniz  AP, Souza  AG, Delgado  LHV, Vaz AM et al. 
+Práticas integrativas e complementares no cuidado à saúde mental e 
+aos usuários de drogas.  Id on Line Rev Mult Psic.  2017 ;11(38):1-22. 
+http://dx.doi.org/10.14295/idonline.v11i38.775 .
+12. Melo  OS, Ribeiro  LRR , Costa  ALRC , Urel DR. Repercussões da terapia 
+comunitária integrativa nas pessoas doentes renais durante sessão 
+de hemodiálise.  Rev Pesqui Cuid Fundam.  2015 ;7(2):2200 -14. http://
+dx.doi.org/10.9789/2175-5361.2015.v7i2.2200-2214 .8Escola anna nEry 24(3)2020
+Uso da Terapia Comunitária a usuários drogas
+Lemes AG, Nascimento VF , Rocha EM, Almeida MASO, Volpato RJ, Luis MAV
+13. Braga  JEF, Chaves  No G, Lima  AB, Oliveira  RQ, Alves  RS, Farias  JA. 
+Jogos cooperativos e relaxamento respiratório: efeito sobre craving 
+e ansiedade.  Rev Bras Med Esporte . 2016 ;22(5):403-7. http://dx.doi.
+org/10.1590/1517-869220162205153151 .
+14. Chan  YY, Lo WY, Li TC, Shen  LJ, Y ang  SN, Chen  YH et al. Clinical efficacy 
+of acupuncture as an adjunct to methadone treatment services for heroin 
+addicts: a randomized controlled trial.  Am J Chin Med . 2014 ;42(3):569-
+86. http://dx.doi.org/10.1142/S0192415X14500372 . PMid:24871652.
+15. Silva  PPC , Santos  ARM , Santos  PJC, Rodrigues  EAPC , Freitas  CMSM . 
+Práticas corporais no Centro de Atenção Psicossocial de Álcool e Drogas: 
+a percepção dos usuários.  Rev Bras Ciênc Esporte . 2019 ;41(1):3-9. 
+http://dx.doi.org/10.1016/j.rbce.2018.08.004 .
+16. Ontiveros-González  ML, Casique-Casique  L, Muñoz- Torres  TJ. 
+Auriculotherapy as nursing care to decrease the consumption of 
+marijuana and cocaine.  SMAD Rev Eletrônica Saúde Mental Álcool 
+Drog  [Internet ]. 2018 ; [citado 2019 jun 19]; 14(3):136-43. Disponível 
+em: https://www.redalyc.org/articulo.oa?id=80358709003
+17. Angelim  SMAV , Valladares- T orres  ACA . The design “rain metaphor” 
+as an instrument of therapeutic communication of problematic drug 
+addiction.  Rev Cient Arteterapia Cores Vida  [Internet ]. 2019 ; [citado 
+2019 jun 19]; 26(1):1. Disponível em: https://www.researchgate.net/
+publication/332734980_O_desenho_%27metafora_da_chuva%27_
+como_instrumento_de_comunicacao_terapeutica_da_problematica_
+drogadicao
+18. T aets  GGC , Jomar  RT, Abreu  AMM , Capella  MAM . Effect of music therapy 
+on stress in chemically dependent people: a quasi-experimental study.  
+Rev Lat Am Enfermagem . 2019 ;27:e3115 . http://dx.doi.org/10.1590/1518-
+8345.2456.3115 .
+19. Lemes  AG, Nascimento  VF, Rocha  EM, Moura  AAMM , Luis MAV , Macedo  
+JQ. Integrative Community Therapy as a strategy for coping with drug 
+among inmates in therapeutic communities: documentary research.  
+SMAD Rev Eletrônica Saúde Mental Álcool Drog . 2017 ;13(2):101-8. 
+http://dx.doi.org/10.11606/issn.1806-6976.v13i2p101-108 .
+20. Giffoni  FAO , Santos  MA. Community therapy as a method to address 
+the problem of alcohol abuse in primary care.  Rev Lat Am Enfermagem . 
+2011 ;19(spe):821-30. http://dx.doi.org/10.1590/S0104-11692011000700021 .
+21. Resolução CONAD nº 01/2015  (BR). Regulamenta, no âmbito do Sistema 
+Nacional de Políticas Públicas sobre Drogas (SISNAD), as entidades 
+que realizam o acolhimento de pessoas, em caráter voluntário, com 
+problemas associados ao uso nocivo ou dependência de substância 
+psicoativa, caracterizadas como comunidades terapêuticas.  Diário 
+Oficial da União , Brasília (DF), 28 ago 2015 .
+22. Creswell  JW. Research design: quantitative, qualitative and mixed 
+methods approaches. 4th ed. Thousand Oaks: Sage Publications; 2014 .
+23. Cunha  JA. Manual da versão em português das Escalas Beck. São 
+Paulo: Casa do Psicólogo; 2016 .
+24. Barreto  AP. Terapia Comunitária passo a passo. 3. ed. Fortaleza: Gráfica 
+LCR; 2008 .
+25. Silva  MZ, Martins  SAK , Dallalana  TM, Tinti  DL, Rodrigues  GKF , 
+Macohin  LF et al. Práticas integrativas impactam positivamente na 
+saúde psicoemocional de mulheres? Estudo de intervenção da terapia comunitária integrativa no Sul do Brasil.  Cad Naturol Terap Complem.  
+2018 ;7(12):33-42. http://dx.doi.org/10.19177/cntc.v7e12201833-42 .
+26. Carvalho  MRS , Silva  JRS , Gomes  NP, Andrade  MS, Oliveira  JF, Souza  
+MRR . Motivações e repercussões do consumo de crack: o discurso 
+coletivo de usuários de um Centro de Atenção Psicossocial.  Esc Anna 
+Nery Rev Enferm  [Internet ]. 2017 ; [citado 2019 mar 13]; 21(3):e20160178 . 
+Disponível em: http://www.scielo.br/pdf/ean/v21n3/pt_1414-8145-ean-
+2177-9465-EAN-2016-0178.pdf
+27. Bisch  NK, Moreira  TC, Benchaya  MC, Pozza  DR, Freitas  LC, Farias  
+MS et al . T elephone counseling for young Brazilian cocaine and/or 
+crack users. Who are these users?  J Pediatr . 2019 ;95(2):209-16. http://
+dx.doi.org/10.1016/j.jped.2017.12.016 . PMid:29526482.
+28. Danieli  RV, Ferreira  MBM , Nogueira  JM, Oliveira  LNC , Cruz Emirene  MTN , 
+Araújo  Fo GM. Perfil sociodemográfico e comorbidades psiquiátricas em 
+dependentes químicos acompanhados em comunidades terapêuticas.  
+J Bras Psiquiatr . 2017 ;66(3):139-49. http://dx.doi.org/10.1590/0047-
+2085000000163 .
+29. Paiva  CB, Ferreira  IB, Bosa  VL, Narvaez  JCM . Depression, anxiety, 
+hopelessness and quality of life in users of cocaine/crack in outpatient 
+treatment.  Trends Psychiatry Psychother . 2017 ;39(1):34-42. http://dx.doi.
+org/10.1590/2237-6089-2015-0065 . PMid:28403321.
+30. Poudel  A, Sharma  C, Gautam  S, Poudel  A. Psychosocial problems 
+among individuals with substance use disorders in drug rehabilitation 
+centers, Nepal.  Subst Abuse Treat Prev Policy . 2016 ;11(1):28. http://
+dx.doi.org/10.1186/s13011-016-0072-3 . PMid:27528233.
+31. Soares  I, Esswein  GC, Benetti  SPC . Motivação para mudança em 
+homens e mulheres dependentes de crack.  Psicol Saude Doencas . 
+2017 ;18(2):567-80. http://dx.doi.org/10.15309/17psd180223 .
+32. Chan  GCK , Butterworth  P, Becker  D, Degenhardt  L, Stockings  E, Hall 
+W et al . Longitudinal patterns of amphetamine use from adolescence 
+to adulthood: a latent class analysis of a 20-year prospective study 
+of Australians.  Drug Alcohol Depend . 2019 ;194:121-7. http://dx.doi.
+org/10.1016/j.drugalcdep.2018.08.042 . PMid:30419406.
+33. Marel  C, Sunderland  M, Mills  KL, Slade  T, Teesson  M, Chapman  C. 
+Conditional probabilities of substance use disorders and associated 
+risk factors: progression from first use to use disorder on alcohol, 
+cannabis, stimulants, sedatives and opioids.  Drug Alcohol Depend . 
+2019 ;194:136-42. http://dx.doi.org/10.1016/j.drugalcdep.2018.10.010 . 
+PMid:30439610.
+34. Galvão  A, Pinheiro  M, Gomes  MJ, Ala S. Ansiedade, stress e depressão 
+relacionados com perturbações do sono-vigília e consumo de álcool 
+em alunos do ensino superior.  Rev Port Enferm Saúde Mental  [Internet ]. 
+2017 ; [citado 2019 mar 13]; 5:8-12. Disponível em: http://www.scielo.
+mec.pt/pdf/rpesm/nspe5/nspe5a02.pdf
+35. Lemes AG, Rocha EM, Nascimento VF , Volpato RJ, Almeida MASO, 
+Franco SEJ et al. Benefícios da terapia comunitária integrativa revelados 
+por usuários de substancias psicoativas. Acta Paul Enferm. 2020;33:1-8. 
+http://dx.doi.org/10.37689/acta-ape/2020AO0122 .
+36. Ferreira  Fa MO, Lazarte  R, Barreto  AP. Impacto y tendencias del uso 
+de la Terapia Comunitaria Integrativa en la producción de cuidados 
+en salud mental.  Rev Eletrônica Enferm  [Internet ]. 2015 ; [citado 2019 
+set 13]; 17(2):176-7. Disponível em: https://revistas.ufg.br/fen/article/
+view/37270/19517
+a Artigo extraído da tese de doutorado  “A T erapia Comunitária Integrativa como estratégia de intervenção psicossocial para usuários de drogas psicoativas”, 
+de autoria de Alisséia Guimarães Lemes. Programa de Pós-graduação em Enfermagem Psiquiátrica. Escola de Enfermagem de Ribeirão Preto da Universidade 
+de São Paulo. 2020.
