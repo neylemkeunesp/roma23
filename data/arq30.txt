@@ -1,0 +1,3654 @@
+UNIVERSIDADE FEDERAL  DO TRIÂNGULO MINEIRO  - UFTM  
+PROGRAMA DE PÓS -GRADUAÇÃO STRICTO SENSU  
+MESTRADO EM ATENÇÃO À SAÚDE  
+ 
+ 
+ 
+ 
+ 
+ 
+MARIANA SILVA FREITAS GUIMARÃES  
+ 
+ 
+ 
+ 
+ 
+ 
+PREVALÊNCIA E FATORES ASSOCIADOS AO ABUSO E PROVÁVEL 
+DEPENDÊNCIA DE ÁLCOOL ENTRE IDOSOS DA ZONA  URBANA DO 
+MUNICÍPIO DE UBERABA -MG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UBERABA  - MG 
+2016  MARIANA SILVA FREITAS GUIMARÃES  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PREVALÊNCIA E FATORES ASSOCIADOS AO ABUSO E PROVÁVEL 
+DEPENDÊNCIA DE ÁLCOOL ENTRE IDOSOS DA ZONA URBANA DO 
+MUNICÍPIO DE UBERABA -MG 
+ 
+ 
+ 
+Dissertação apresentado ao Programa de Pós -
+Graduação stricto sensu em Atenção à Saúde, da 
+Universidade Federal do Triângulo Mineiro, como 
+requisito para obtenção do título de Mestre.  
+ 
+Orientadora: Profª Drª Darlene Mara dos Santos 
+Tavares.  
+Linha de Pesquisa:  Atenção à saúde das populações.  
+Eixo temático:  Saúde do adulto e do idoso.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UBERABA  - MG 
+2016  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MARIANA SILVA FREITAS GUIMARÃES  
+ 
+ 
+ 
+ 
+ 
+PREVALÊNCIA E FATORES ASSOCIADOS AO ABUSO E PROVÁVEL 
+DEPENDÊNCIA DE ÁLCOOL ENTRE IDOSO S DA ZONA URBANA DO 
+MUNICÍPIO DE UBERABA -MG 
+ 
+ 
+ 
+Dissertação apresentado ao Programa de Pós -
+Graduação stricto sensu em Atenção à Saúde, da 
+Universidade Federal do Triângulo Mineiro, como 
+requisito para obtenção do título de Mestre.  
+ 
+ 
+ 
+Uberaba, _____ de _____ _______________ de 2016.  
+ 
+ 
+Banca Examinadora:  
+ 
+___________________________________________________________________  
+Profª. Drª Darlene Mara dos Santos Tavares  
+Universidade Federal do Triângulo Mineiro  
+ 
+_______________________________________________________ ____________  
+Profª. Drª Luciana Kusumota  
+Universidade de São Paulo - Ribeirão Preto  
+ 
+___________________________________________________________________  
+Profª. Drª  Jurema Ribeiro Luiz Gonçalves  
+Universidade Federal do Triângulo Mineiro  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEDICATÓRIA  
+ 
+ 
+Dedico este trabalho aos meus pais Carlos  e 
+Ivanilde  por estarem sempre ao meu lado em 
+todos os momentos, me apoiando e 
+acreditando  em mim.  Obrigada pelo incentivo 
+constante! Minha eterna gratidão e amor. Foi 
+difícil, mas eu c onsegui!  AGRADECIMENTOS  
+ 
+ 
+Agradeço a Deus , pela presença constante, guiando -me sempre para o melhor caminho, por 
+me conceder serenidade nos momentos difíceis, sabedoria para enfrentar obstáculos , força e 
+crescimento ao longo deste percurso.  
+Aos meus pais Carlos e Ivanilde , pelo incentivo e apoio incondicionais, por nunca pouparem 
+esforços para o alcance dos meus sonhos. Que vivenciaram toda minha trajetória, com 
+palavras de amor, carinho e compreensão. Vocês são minha vida, e agradeço sempre pelo 
+apoio impr escindível para esta conquista. Obrigada pai, pelo amor incondicional, por me 
+ensinar a lutar pelos sonhos e acreditar no meu potencial! Obrigada mãe, por estar sempre ao 
+meu lado, pelos incentivos, conselhos, pelas preces e por ser essa mãe tão amorosa, c arinhosa 
+e amiga.  
+Aos meus irmão s Daniel, Danilo e Lucília , pelo carinho, amor e companheirismo que 
+sempre me proporcionaram ao longo dessa trajetória . Obrigada pela amizade e incentivo!  
+Ao Jonas , por todo amor e carinho, pela compreensão, motivação, paciê ncia e cumplicidade 
+essencial ao longo desta trajetória e para que este momento se tornasse realidade . 
+A todos os familiares , pela torcida, pela compreensão e pelo apoio  no decorrer desta 
+caminhada . 
+À minha orientadora , professora  Doutora  Darlene Mara dos Santos Tavares, por todas as 
+oportunidades concedidas e pela amizade. Por acreditar nesta temática, pelo incentivo, pela 
+convivência e pelo apoio incondicional e aprendizado.  
+À Professora Doutora Jurema Ribeiro Luiz Gonçalves , pelas contribuições durante o  
+exame de qualificação, correções e sugestões da versão final desse trabalho e por fazer parte 
+da banca examinadora desta dissertação.  
+À Professora Doutora Luciana Kusumota , pela gentileza de avaliar este trabalho, contribuir 
+para sua melhoria e aceitar o  convite de participar da banca examinadora.  
+Aos professores do PPGAS, em especial ao Prof º Drº Vanderlei José Haas , pelos 
+ensinamentos estatísticos desafiadores e preciosos, pelas orientações, apoio e amizade.  
+Aos amigos do Grupo de Saúde Coletiva , pela t roca de conhecimentos, apoio e carinho 
+essenciais para minha trajetória; em especial, agradeço à Flávia, Gianna, Nayara Gomes e 
+Nayara Martins . Aos colegas e amigos de mestrado , pelas experiências compartilhada s, em especial aos meus 
+amigos Ren ata, Raquel,  Samantha, Ana Luisa , Emmanuel , Juliana, Grazi elle e Éri ca, obrigada 
+pela convivência,  amizade  e risadas durante toda essa trajetória . 
+As minhas amigas Milene, Andreza e  Sabrina , pelas orações, por todo amor, cuidado e apoio 
+dedicado a mim; vocês foram fun damentais para que essa etapa da minha carreira se 
+concretizasse. Obrigada pela amizade e palavras de incentivo!  
+Ao programa de Pós -Graduação  stricto sensu em Atenção à Saúde, pela oportunidade e 
+aprendizado.  
+À Secretaria do PPGAS , Daniela e Fá bio, obriga da pela assistência, disponibilidade , auxílio  
+e amizade . 
+À FAPEMIG , pelo auxílio financeiro.  
+Aos idosos  que se dispuseram a colaborar com esta pesquisa ; agradeço pela confiança em 
+compartilhar as suas histórias e experiências de vida e pela disponibilidad e. 
+ 
+A todos, que direta ou indiretamente contribuíram para a realização desta etapa 
+gratificante, meus sinceros agradecimentos!  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Depois de algum tempo a gente aprende...  
+Aprende que nós so mos responsáveis por nós mesmos. Começa a compreender que não  
+se deve comparar com os outros, mas com o melhor que se pode ser. Descobre que leva -se 
+muito tempo para se tornar a pessoa que deseja ser, e que o tempo é curto. E você  
+aprende que realmente pod e suportar; que realmente é forte e que pode ir muito mais  
+longe, mesmo tendo pensado não ser capaz.”  
+(Willian Shakespear)  RESUMO  
+ 
+GUIMARÃES, Mariana Silva Freitas. Prevalência e fatores associados ao abuso e 
+provável dependência de álcool entre idosos da zona urbana do município de Uberaba -
+MG. 2016. 96f. Dissertação (Mestrado em Atenção à Saúde) – Universidade Federal do 
+Triângulo Mineiro, Uberaba, Minas Gerais, 2016.  
+ 
+O alcoolismo é uma doença crônica, caracterizada pela dependência à substância alcoólica . 
+No idoso o consumo vem aumentando substancialmente a cada dia, contribuindo para o 
+desenvolvimento de morbidades, numero de mortalidades e internações hospitalares. As 
+alterações fisiológicas devido à idade avançada fazem aumentar os efeitos do álcool no  
+organismo, com isto os idosos ficam mais propensos a enfermidades. Desta forma, torna -se 
+fundamental conhecer os fatores associados à sua ocorrência em idosos, a fim de contribuir 
+para elucidação deste fenômeno e contribuir com a sua prevenção. Este estud o objetivou 
+verificar a prevalência do abuso e provável dependência do álcool em idosos; descrever as 
+características sociodemográficas, econômicas, indicativo de presença de sintomas 
+depressivos e morbidades dos idosos residentes na zona urbana do municíp io de Uberaba -
+MG; e verificar a associação entre o abuso e provável dependência do álcool com as 
+variáveis: sexo, faixa etária, renda, escolaridade, indicativo de presença de sintomas 
+depressivos  e número de morbidades. Trata -se de inquérito domiciliar, tr ansversal e analítico 
+conduzido com 614 idosos que vivem na zona urbana do município de Uberaba -MG. Foram 
+utilizados: formulário para caracterização dos dados sociodemográficos e econômicos; Mini 
+Exame do Estado Mental; Questionário Older Americans Resourc es and Services ; Escala de 
+Depressão Geriátrica Abreviada; e Michigan Alcoholism Screening Test – Geriatric Version . 
+Procedeu -se à análise descritiva, testes qui -quadrado, razão de prevalência, razão de chances 
+de prevalência e modelo de regressão logístic a binomial múltipla ( p<0,05), por meio do 
+programa Statiscal Package for Social Sciences (SPSS), versão 21.0. O projeto foi aprovado 
+pelo Comitê de Ética em Pesquisa com Seres Humanos, da UFTM, Nº 573.833. A prevalência 
+do abuso e provável dependência do á lcool em idosos foi de 26,5%. As características 
+sociodemográficas e econômicas dos dois grupos, com e sem abuso e provável dependência 
+do álcool, foram semelhantes , predominando idosos com 60 | - 70 anos, que moravam com 
+esposo (a) ou companheiro (a) e com  escolaridade de 1 | - 5 anos de estudo. As exceções se 
+fazem para os sexos, em que entre os idosos com abuso do álcool predominou o masculino e, 
+para os sem abuso, o feminino; e renda mensal individual, em que a maioria dos idosos com abuso do álcool rec ebiam 1 -| 3 salários mínimos, e os sem abuso do álcool até um salário 
+mínimo. Tanto os idosos com abuso e provável dependência do álcool quanto os que não 
+possuíam abuso apresentaram maior percentual para cinco ou mais morbidades e ausência de 
+indicativo de  presença de sintomas depressivos. O abuso e provável dependência do álcool 
+foram associados ao sexo masculino e a presença de indicativo de sintomas depressivos. Estes 
+resultados contribuíram para o conhecimento acerca do uso, abuso e provável dependência  do 
+álcool em idosos, bem como os fatores a ele associados. Além de propiciar subsídios para o 
+desenvolvimento de estratégias de ações de saúde com a finalidade de promoção a saúde, a 
+prevenção de doença e reabilitação do idoso que faz uso abusivo do álcoo l.  
+ 
+Palavras -chave: Idoso; Alcoolismo; Uso de álcool; Prevalência; Enfermagem geriátrica.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ABSTRACT  
+ 
+GUIMARÃES, Mariana Silva Freitas. Prevalence and factors associated with alcohol abuse 
+and probable alcohol dependence among the eld erly in the urban area of Uberaba -MG. 2016. 
+96f. Dissertation (Master in Health Care) - Federal University of Triângulo Mineiro, Uberaba, 
+Minas Gerais, 2016.  
+ 
+Alcoholism is a chronic disease characterized by addiction to alcohol. Among the elderly, the 
+consumption is increasing s ubstantially each day, contributing to the development of 
+morbidities, number of mortalities and hospitalizations. Physiological changes due to old age 
+increase the effects of alcohol on the body, so the elderly are more prone to illness. Thus, it is 
+essen tial to know the factors associated with its occurrence in the elderly, in order to 
+contribute to the elucidation of this phenomenon and contribute to its prevention. This study 
+aimed to verify the prevalence of alcohol abuse and probable dependence in the  elderly; 
+describing the sociodemographic and economic characteristics as well as indicatives of the 
+presence of depressive symptoms and morbidities of the elderly living in the urban area of the 
+city of Uberaba -MG; and to verify the association between abuse and probable alcohol 
+dependence with the variables: gender, age, income, schooling, indicatives of the presence of 
+depressive symptoms and number of morbidities. This is a household, cross -sectional and 
+analytical survey conducted with 614 elderly pe ople living in the urban area of the city of 
+Uberaba -MG. We used: form for characterization of socio -demographic and economic data; 
+Minor Mental State Examination; Older Americans Resources and Services Questionnaire; 
+Geriatric Depression Scale; And Mich igan Alcoholism Screening Test - Geriatric Version. 
+Chi-square tests, prevalence ratio, prevalence odds ratio and multiple binomial logistic 
+regression model (p <0.05) were performed using the Statiscal Package for Social Sciences 
+(SPSS), version 21.0. The project was approved by the Ethics Committee on Human Research 
+of UFTM,  Nº 573.833. The prevalence of abuse and probable alcohol dependence in the 
+elderly was 26.5%. The sociodemographic and economic characteristics of the two groups 
+with and without abus e and probable dependence on alcohol were similar, predominantly in 
+elderly with 60 | - 70 years old, who lived with husband, wife or part ner and with schooling of 
+1 |- 5 years of study. Exceptions are made for the genders in which the elderly men with 
+alcohol abuse predominated the male and for the non -abusive the female; And individual 
+monthly income, in which the majority of elderly people with alcohol abuse received 1 -| 3 
+minimum wages, and those without alcohol abuse up to a minimum wage. The elderly w ith alcohol abuse and probable dependence and those who did not have abuse both presented a 
+higher percentage for five or more morbidities and absence of an indication of the presence of 
+depressive symptoms. Abuse and probable alcohol dependence were assoc iated with males 
+and the presence of an indication of depressive symptoms. These results contributed to the 
+knowledge about the use, abuse and probable dependence of alcohol in the elderly, as well as 
+the associated factors. In addition to providing subsid ies for the development of health action 
+strategies for the purpose of health promotion, disease prevention and rehabilitation of the 
+elderly who abuse alcohol.  
+ 
+Keywords:  Elderly; Alcoholism; Alcohol use; Prevalence; Geriatric nursing.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RESUMEN  
+ 
+GUIMARÃES, Mariana Silva Freitas. Prevalencia y factores asociados al abuso y la 
+probable dependencia de alcohol entre mayores de la zona urbana del municipio de 
+Uberaba -MG.  2016. 96f. Disertación (Máster en Atención a la Salud) - Universidad Federal 
+del Triângulo Mineiro, Uberaba, Minas Gerais, Brasil, 2016.  
+ 
+El alcoholismo es una enfermedad crónica, caracterizada por la dependencia a la substancia 
+alcohólica. En las personas mayores, el consumo viene aumentando substancialmente a cada 
+día, co ntribuyendo para el desarrollo de morbilidades, número de mortalidades e internaciones 
+hospitalarias. Las alteraciones fisiológicas debido a la edad avanzada hacen aumentar los 
+efectos del alcohol en el organismo, con eso los mayores se quedan más propenso s a 
+enfermedades. En esa forma, se vuelve fundamental conocer los factores asociados a la 
+ocurrencia del alcoholismo en los mayores, a fin de contribuir para elucidación de ese 
+fenómeno y contribuir con la prevención de él.  Este estudio tuvo como objetivo  verificar la 
+prevalencia del abuso y probable dependencia del alcohol en personas mayores; describir las 
+características sociodemográficas, económicas, indicativo de presencia de síntomas 
+depresivos y morbilidad de los mayores que viven en la zona urbana del municipio de 
+Uberaba -MG; y verificar la asociación entre el abuso y probable dependencia del alcohol con 
+las variables: sexo, franja etaria, renta, escolaridad, indicativo de presencia de síntomas 
+depresivos y numero de morbilidades. O sea, es una aver iguación domiciliar, transversal y 
+analítica conducida con 614 personas mayores que viven en la zona urbana del municipio de 
+Uberaba -MG. Fueron utilizados: formulario para caracterización de los datos 
+sociodemográficos y económicos; Mini Examen del Estado Mental; cuestionario Older 
+Americans Resources and Services ; Escala de Depresión Geriátrica Abreviada; y Michigan 
+Alcoholism Screening Test – Geriatric Version . Fue procedido al análisis descriptivo, testes 
+qui-cuadrado, razón de prevalencia, razón de chan ces de prevalencia y modelo de regresión 
+logística binominal múltipla (p<0,05), por medio del programa Statiscal Package for Social 
+Sciences (SPSS), versión 21,0. El proyecto fue aprobado por el Comité de Ética em 
+Investigación con Seres Humanos de la UFTM , Nº 573.833. La prevalencia del abuso y 
+probable dependencia del alcohol en mayores fue de 26,5%. Las características 
+sociodemográficas y económicas de los dos grupos, con e sin abuso y probable dependencia 
+del alcohol, fueron semejantes, predominando may ores con 60 |- 70 años, que vivían con 
+esposo(a) o compañe ro(a) y con escolaridad de 1 | - 5 años de estudio. Las excepciones se hacen para los sexos, en que los mayores con abuso de alcohol predominó el masculino e, 
+para los sin abuso, el femenino; y renta  mensual individual, en que la gran mayoría de los 
+mayores co n abuso del alcohol recibían 1 -| 3 salarios mínimos, y los sin abuso del alcohol 
+hasta un salario mínimo. Tanto los mayores con abuso y probable dependencia del alcohol 
+cuanto los que no poseían  abuso presentaron mayor porcentual para cinco o más morbilidades 
+y ausencia de indicativo de presencia de síntomas depresivos. El abuso y probable 
+dependencia del alcohol fueron asociados al sexo masculino y la presencia de indicativo de 
+síntomas depresiv os. Eses resultados contribuyeron para el conocimiento acerca del uso, 
+abuso y probable dependencia del alcohol en personas mayores, así como los factores 
+asociados a él. Además de propiciar subsidios para el desarrollo de estrategias de acciones de 
+salud con la finalidad de promoción a la salud, la prevención de enfermedad y rehabilitación 
+del mayor que hace uso abusivo del alcohol.  
+ 
+Palabras -clave: Mayores, Alcoholismo, Uso de alcohol, Prevalencia, Enfermaría geriátrica.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LISTA DE ILUS TRAÇÕES  
+ 
+Figura  1 - Doenças e prejuízos totais ou parciais decorrentes do uso do álcool .......... 28 
+Figura 2 - Composição final da amostra. .....................................................................  41 
+Figura 3 - Mapa da sequência de coleta de  dados dentro de cada setor censitário ...... 42 
+Figura 4 - Prevalência do abuso e provável dependência do álcool em idosos , 
+Uberaba, Minas Gerais, Brasil, 2016 ........................................................................... . 47 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LISTA DE TABELAS  
+ 
+Tabela 1  - Distribuição de frequência das variáveis sociodemográficas e 
+econômicas dos idosos, Uberaba, Minas Gerais, Brasil, 2016. .....................................  48 
+Tabela 2  - Distribuição de frequência das variáve is clínicas e indicativo de sintomas 
+depressivos  dos idosos, Uberaba, Minas Gerais, B rasil, 2016 ..................................... . 49 
+Tabela 3  - Distribuição das variáveis sociodemográficas e econômicas dos idosos 
+segundo o abuso e provável dependênci a de álcool, Uberaba, Minas Gerais, Brasil, 
+2016. ............................................................................................................................. . 50 
+Tabela 4 - Distribuição das variáveis morbidades autorreferidas e indicativo  de 
+sintomas depressivos  dos idosos segundo abuso e provável dependência de álcool, 
+Uber aba, Minas Gerais, Brasil, 2016 .......... ..................................................................  51 
+Tabela 5  - Modelo final de regressão logística binomial múltipla para as variáveis 
+associadas ao abuso e provável dependência do álcool em idosos, Uberaba, Minas 
+Gerais, Brasil, 2016. ......................................................................................................  52 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LISTA DE ABREVIATURA E SIGLAS  
+ 
+AUDIT - Alcohol Use Disorders Identification Test  
+BA - Bahia  
+BPE - Beber Pesado Episódico  
+CAGE - Cut-down, Annoyed by criticism, Guilty e Eyeopener  
+CAPS - Centro de Atenção Psicossocial  
+CAPSAD - Centro de Atenção Psicossocial  Álcool e outras Drogas  
+CID-10 - Classificação Internacional das Doenças  
+DSM -IV - Manual Diagnóstico e Estatístico de Transtornos Mentais   
+ESF - Estratégia de Saúde da Família  
+EUA – Estados Unidos da América  
+HIV - Vírus da Imunodeficiência Humana  
+IBGE - Instituto Brasileiro de Geografia e Estatística  
+IC - Intervalo de confiança  
+MAST -G - Michigan Alcoholism Screening Test – Geriatric Version  
+MEEM - Mini Exame do Estado Mental  
+MG - Minas Gerais  
+NIAAA  - National Instituteon Alcohol Abuse and Alcoholism  
+OARS - Older Americans Resources and Services  
+OMS - Organização Mundial da Saúde  
+PPGAS – Programa de pós -graduação em atenção à saúde  
+RCP - Odds Ratio   
+RP – Razão de prevalência  
+RS - Rio Grande do Sul  
+SABE - Saúde, Bem -estar e Envelhecimento  
+SNC - Sistema Nervos o Central  
+SNP - Sistema Nervoso Periférico  
+SENAD  - Secretaria Nacional Antidrogas  
+SPSS  - Statistical Package for the Social Sciences  
+SP - São Paulo  
+SUS – Sistema Único  de Saúde  
+TCLE – Termo de Consentimento Livre e Esclarecido  
+UFTM - Universidade Federal d o Triângulo Mineiro  USF - Unidade de Saúde da Família  
+WHO - World Health Organization  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SUMÁRIO  
+ 
+1 INTRODUÇÃO ........................................................................................................   21 
+1.1 EN VELHECIMENTO POPULACIONAL.............................................................  21 
+1.2 ALCOOLISMO.......................................................................................................  23 
+1.3 ALCOOLISMO EM IDOSOS................... .............................................................  31 
+2 OBJETIVOS .............................................................................................................  38 
+3 MATERIAL E MÉTODOS ............................................ .........................................  39 
+3.1 DELINEAMENTO DO ESTUDO..........................................................................  39 
+3.2 LOCAL DO ESTUDO...................................................................................... ...... 39 
+3.3 POPULAÇÃO.........................................................................................................  39 
+3.3.1 Definição da População ......................................................................................  39 
+3.3.2 Procedimentos para amostragem conglomerado em múltiplos 
+estágios ..........................................................................................................................  39 
+3.3.3 Critérios de inclusão ................................... ........................................................  42 
+3.3.4 Critérios de exclusão ..........................................................................................  42 
+3.4 COLETA DE DADOS ...................................................... ......................................              42 
+3.4.1 Procedimentos para coleta dos dados ...............................................................  42 
+3.5 INSTRUMENTOS DE COLETA DE DADOS ............ ..........................................  43 
+3.5.1 Dados sociodemográfico s e econômico s...........................................................  43 
+3.5.2 Questionário Older Americans Resources and Services  
+(OARS) …………….…………………………………..…………………....………..  43 
+3.5.3 Mini Exame do Estado Mental ........ ..................................................................  43 
+3.5.4 Escala de depressão geriátrica ..........................................................................  44 
+3.5.5 Michigan Alcoholism Screening Test – Geriatric Version .......... ...................  44 
+3.6 VARIÁVEIS DE ESTUDO. ........... ........................................................................  44 
+3.6.1  Sociodemográficos e econômicos ......................................................................  44 
+3.6.2 Declínio cognitivo ...................................... .........................................................  44 
+3.6.3 Número de morbidades autorreferidas ............................................................  45 
+3.6.4 Indicativo de  sintomas depres sivos. ................................ ..................................  45 
+3.6.5 Abuso e possível dependência de álcool em idosos ............................... ...........  45 
+3.7 PROCESSAMENTO DOS DADOS ................................................... ....................  45  3.8 ANÁLISE DOS DADOS........................................................................................  45 
+3.9 ASPECTOS ÉTICOS..............................................................................................  46 
+4 RESULTADOS ................ .........................................................................................  47 
+4.1 PREVALÊNCIA DO ABUSO E PROVÁVEL DEPENDÊNCIA DO ÁLCOOL 
+EM IDOSOS .................................................................. ...............................................  47 
+4.2 CARACTERIZAÇÃO DOS IDOSOS ....................................................................  47 
+4.2.1 Perfil sociodemográfico e econômico  dos idosos ..............................................  47 
+4.2.2 Perfil clínico e indicativo de sintomas depressivos  dos idosos ....................... . 48 
+4.3 FATORES ASSOCIADOS AO ABUSO E PROVÁVEL DEPENDÊNCIA DO 
+ÁLCOOL EM IDOSOS .................................................................................... ............  49 
+5 DISCUSSÃO ............... ..............................................................................................  53 
+5.1 PREVALÊNCIA DO ABUSO E PROVÁVEL DEPENDÊNCIA DO ÁLCOOL 
+EM IDOSOS ............................................... ..................................................................  53 
+5.2 CARACTERIZAÇÃO DOS IDOSOS ....................................................................  55 
+5.2.1 Perfil sociodemográfico e econômico  dos idosos ............................... ...............  55 
+5.2.2 Perfil clínico e indicativo de sintomas depressivos  dos idosos ...................... .. 62 
+5.3 FATORES ASSOCIADOS AO ABUSO E PROVÁVEL DEPENDÊNCIA DO 
+ÁLCOOL EM IDOSOS ................................................................. ...............................  66 
+6 CONCLUSÃO ..........................................................................................................  73 
+7 REFERÊ NCIAS ..................................................................................... ..................  74 
+APÊNDICE  A - IDENTIFICAÇÃO E CARACTERÍSTICAS 
+SOCIODEMOGRÁFICAS E 
+ECON ÔMICAS ..................................................................  89 
+APÊNDICE B  - TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO ....... 90 
+ANEXO A - MORBIDADES  AUTORREFERIDAS ..................... ............................ . 91 
+ANEXO B - MINI EXAME DO ESTADO MENTAL (MEEM) ........ ......... ...............  92 
+ANEXO C - ESCALA DE DEPRESSÃO GERIÁTRICA ABREVIADA. .......... ....... 94 
+ANEXO D - MICHIGAN ALCOHOLISM SC REENING TEST – GERIATRIC 
+VERSION (MAST -G)........................................................................................ ...........  95 
+ANEXO E - PARECER DO COMITÊ DE ÉTICA EM PESQUISA COM SERES 
+HUMANOS DA UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO .........  96 
+ 
+ 21 
+ 
+1 INTRODUÇÃO  
+ 
+Neste capítulo, apresentado em três tópicos, será abordado o envelhecimento 
+populacional, que discutirá o processo de transição demográfica e algumas estimativas e 
+projeções referentes a esse fenômeno; o alcoolismo, incluin do o contexto histórico, a 
+epidemiologia, os fatores de risco, a classificação, o diagnóstico e o tratamento; e as 
+repercussões do alcoolismo nos idosos, trazendo também dados epidemiológicos, os fatores 
+de risco, o diagnóstico, o tratamento e a importânci a da assistência qualificada em saúde, em 
+especial da enfermagem.  
+ 
+1.1 ENVELHECIMENTO POPULACIONAL  
+ 
+O envelhecimento populacional é uma vitória da humanidade e decorre dos avanços 
+social e tecnológico (FUNDO DE POPULAÇÃO DAS NAÇÕES UNIDAS, 2012). 
+Especific amente, nos países em desenvolvimento está relacionado às melhorias nas condições 
+alimentares e sanitárias, a evolução da medicina e dos cuidados com a saúde, educação e bem -
+estar econômico (FUNDO DE POPULAÇÃO DAS NAÇÕES UNIDAS, 2012).  
+ Este processo que iniciou nos países desenvolvidos, ocorre atualmente de forma mais 
+exacerbada nos países em desenvolvimento, que vem apresentando altos índices de 
+envelhecimento da população (LEBR ÃO; DUARTE,  2009; APRATTO JÚNIOR , 2010; 
+AZIZ; CALVO; DORSI, 2012). No Brasil é considerado um dos maiores desafios 
+contemporâneos para o Sistema Único de Saúde (SUS), na perspectiva de fazer frente  às 
+novas demandas geradas ( APRATTO JÚNIOR , 2010; AZIZ; CALVO; DORSI, et al., 2012).  
+Neste contexto, o envelhecimento populacional se tornou um fenômeno mundial 
+(VERAS, 2009), sendo o aumento da população idosa uma das mais significativas tendências 
+do séc ulo XXI (FUNDO DE POPULAÇÃO DAS NAÇÕES UNIDAS, 2012).  
+A definição cronológica de idoso se distingue entre os países. Assim, no Brasil, país 
+em desenvolvimento, as pessoas com 60 anos ou mais de idade são considerados idosos e nos 
+países desenvolvidos aque les com 65 anos ou mais (BRASIL, 2003).  
+Segundo a Organização Mundial da Saúde (OMS), quando a proporção de idosos de 
+um país atinge 7% e com tendência ao crescimento, este país é considerado como envelhecido 
+(ORGANIZAÇÃO MUNDIAL DA SAÚDE, 1989). Deste mod o, o Brasil pode ser 
+considerado um país com população envelhecida, uma vez que em dados demográficos 22 
+ 
+obtidos no ano de 2012 verificaram -se que 11,77% da população eram idosos (BRASIL, 
+2012).  
+Houve nas últimas décadas um grande crescimento do número de ido sos no Brasil, 
+levando a um rápido processo de envelhecimento populacional. No ano de 2012, as pessoas 
+com 60 anos ou mais correspondiam a 23,5 milhões dos brasileiros (INSTITUTO 
+BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2012).  
+Estima -se que em 2050 esta por centagem aumentará consideravelmente, chegando a 
+representar 30% da população total dos brasileiros (ORGANIZAÇÃO MUNDIAL DA 
+SAÚDE, 2011; FUNDO DE POPULAÇÃO DAS NAÇÕES UNIDAS, 2012). No ranking 
+mundial de países com maior número de pessoas nessa faixa etári a o Brasil ficará em sexto 
+lugar (INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2012).  
+Atribui -se a este fato a interação dinâmica das taxas de mortalidade e de fecundidade, 
+levando a uma maior concentração na população idosa, repercutindo desta forma, na elevação 
+da expectativa de vida. Em vários outros países em desenvolvimento, bem como no Brasil, 
+evidencia -se que o envelhecimento populacional é resultante das modificações ocorridas nos 
+indicadores de saúde, em consequência dos progressos tecnológicos , o que proporcionou a 
+diminuição nas taxas de fecundidade e de natalidade, relacionadas à redução da mortalidade 
+precoce (CIOSAK et al., 2011).  
+A expectativa de vida no Brasil em 2002 era de 71 anos de idade e passou para 72,9 
+anos em 2009 (INSTITUTO BRA SILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2004; 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2010). Ao analisar este 
+indicador em relação aos sexos, verifica -se que as mulheres se dispõem em condição mais 
+favoráveis comparadas aos homens. De 1999 para 2009 a  expectativa de vida aumentou de 
+73,9 para 77,0 anos para o sexo feminino e para o masculino de 66,3 para 69,4 anos 
+(INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2010).  
+Paralelo à transição demográfica ocorreu a epidemiológica, num período inferior a 40 
+anos no Brasil (VERAS, 2009). Nesse contexto, aconteceram mudanças no padrão de 
+adoecimento que, anteriormente, prevaleciam às doenças infecciosas e parasitárias, 
+característica da população mais jovem, e atualmente as doenças crônicas não transmissívei s 
+(CARMO; SILVA JÚNIOR; BARRETO, 2003).  
+O processo transição demográfica e epidemiológica brasileira institui um desafio e um 
+compromisso para os gestores públicos e a sociedade. Com isto, torna -se essencial investir na 
+promoção da autonomia e na melhora da qualidade de vida dos idosos, bem como fornecer 
+cuidados adequados às suas necessidades. Esse novo cenário brasileiro demanda de 23 
+ 
+planejamentos, logísticas, capacitação de cuidadores e, principa lmente , sensibilidade e 
+percepção para compreender que a população idosa continuará crescendo (SOUZA; 
+MINAYO, 2010).  
+Este processo também ocorreu no bojo de novas formas de arranjos familiares e 
+domiciliares, acarretando uma reorganização da estrutura fa miliar. Torna -se então, 
+imprescindível a criação de ambiente em que a velhice seja entendida de maneira positiva, 
+permitindo ao idoso acompanhar o ritmo e estilo de vida dos demais membros da família 
+(VERAS, 2009).  
+Considerando os aspectos supra citados e que, ao longo do processo de 
+envelhecimento humano, a pessoa passa por alterações em várias dimensões (PERRACINI; 
+FLÓ; GUERRA, 2011), representando um “processo dinâmico, progressivo, sequencial, 
+individual, acumulativo, irreversível, universal, não patoló gico, com modificações 
+morfológicas, funcionais, bioquímicas e psicológicas” (PAPALÉO NETTO, 2006, p. 12), 
+reforça -se a necessidade de se desenvolver estudos voltados a esta população, visando 
+compreender o processo do envelhecimento e suas características  (TAVARES; DIAS, 2011) .  
+Soma -se a estes aspectos duas questões que denotam a necessidade de aprofundamento 
+do conhecimento científico, quais sejam, no município de Uberaba -MG, local do presente 
+estudo, o percentual de idosos corresponde a 12,62% sendo sup erior ao descrito para o país 
+(11,77%) (BRASIL, 2012) e a melhor compreensão das questões do envelhecimento 
+relacionadas à saúde, dentre elas, o alcoolismo (PINHO, 2012).  
+ 
+1.2 ALCOOLISMO  
+ 
+Há milhares de anos os efeitos das bebidas alcoólicas são de conhec imento do homem. 
+Arqueólogos e historiadores descrevem que o consumo das bebidas fermentadas com teor 
+alcoólico remete ao período pré -cristão, ou seja, muitos anos antes de Cristo o homem já 
+conhecia e fazia uso do álcool (MELLO; BARRIAS; BREDA, 2002; VARG AS, 2011).  
+De acordo com estes registros históricos por volta de 6.000 antes de Cristo a cerveja e 
+o vinho já eram utilizados de modo indiscriminado. O consumo destas bebidas estava 
+relacionado aos aspectos religiosos desde a era mitológica até o advento do cristianismo. 
+Além de estarem presentes nas cerimônias religiosas, o vinho e a cerveja também estavam 
+evidentes em festividades e comemorações, como forma de estar próximo aos deuses 
+(TOWNSEND, 2002; VARGAS, 2005).  24 
+ 
+Com o surgimento do procedimento de d estilação, na idade média, introduzido em 
+diversas culturas, pelos árabes, houve aumento do teor alcoólico nas bebidas, acarretando em 
+episódios de intoxicação mais intensos e frequentes (DOTTO BAU, 2002).  
+Devido às alterações comportamentais e afetivas, resultantes do estado alcoolizado, o 
+uso irrestrito do álcool passou a ser visto como algo indigno e como um comportamento 
+pecador e fraco. Este novo conceito foi aderido às regras morais em várias civilizações. Este 
+modelo moral, construído pela sociedade  pode ser considerado como a primeira tentativa de 
+se controlar o consumo em demasia do álcool (MARQUES, 2001).  
+No início do século XIX o conceito do alcoolismo como doença consolida -se, 
+almejando tratar os agravos do uso contínuo e crônico do álcool e te ntando abolir o estigma 
+moral e a vergonha que impossibilitavam a procura de tratamento (MELLO; BARRIAS; 
+BREDA, 2002).  
+As divergências a respeito do uso e abuso do álcool continuaram a existir servindo 
+como estímulo para produção de pesquisas acerca dos ef eitos a curto e longo prazo e, sobre a 
+natureza das desordens fisiológicas e psicológicas causadas pelo seu uso (MARQUES, 2001).  
+Já no século XX surgiu um dos movimentos mais conhecidos, denominado de 
+“temperança”. Esse movimento surgiu nos Estados Unidos da América (EUA) e resultou na 
+proibição da venda e produção de bebidas com teor alcoólico expresso na lei seca que vigorou 
+de 1920 a 1932.  Após esse longo período o Governo decretou o fim dessa lei, uma vez que o 
+comércio paralelo de bebidas alcoólicas n ão deixou de existir, e o mesmo estava deixando de 
+arrecadar milhões com impostos e taxas. Logo, a liberação do comércio das bebidas alcoólicas 
+traria muitos benefícios financeiros ao país (TOWNSEND, 2002).  
+Embora os esforços para conter o abuso de bebidas  alcoólicas tenham se intensificado 
+apenas no século XX, ainda no século XIX,  Magno Huss , foi o primeiro pesquisador a 
+descrever o alcoolismo como doença. Contudo, apenas em 1960, já no século XX, que 
+Jellinek propagou o conceito de alcoolismo como doença perante a sociedade. A publicação 
+de Jellinek dizia que a pessoa tem ou não tem o alcoolismo de forma empírica, assim como ou 
+se é de uma cor ou de outra. Destaca que a única forma de tratamento para o alcoolista é 
+manter -se abstêmio para sempre ( JELLINEK,  1960; RAMOS; WOITOWITZ, 2004; 
+BRASIL, 2007 ). 
+Jellinek considerava a pessoa como dependente alcoólico somente quando apresentava 
+tolerância ao álcool, síndrome de abstinência e/ou perda de controle do consumo do álcool. 
+Assim, a tolerância se refere à nece ssidade de ingerir doses cada vez maiores na busca pelos 
+efeitos da substância. Já a síndrome de abstinência era entendida como o desconforto 25 
+ 
+biológico e mental decorrente da não ingestão de álcool e/ou sua diminuição. De modo 
+simplificado, Jellinek difere nciava os transtornos relacionados ao abuso do álcool entre os 
+dependentes da substância e os não dependentes (JELLINEK, 1960; GIGLIOTTI; BESSA, 
+2004).  
+O alcoolismo é uma doença crônica (BRASIL, 2003), caracterizada pela dependência 
+à substância alcoólica,  que tende a piorar com o passar dos anos (CAMPOS, 2009; 
+HERMAN; SADOVSKY, 2010); provocando a compulsão pelo consumo periódico de álcool 
+(ACAUAN; DONATO; DOMINGOS, 2008) e casos de intoxicações frequentes (BRASIL, 
+2003), levando a consequências biopsicoss ociais graves e irreversíveis (SILVA et al., 2007; 
+CAMPOS, 2009; ; HERMAN; SADOVSKY, 2010), alterações comportamentais 
+significativas (BRASIL, 2003; HERMAN; SADOVSKY, 2010) e em casos mais graves ao 
+óbito (CAMPOS, 2009; HERMAN; SADOVSKY, 2010); não sendo d efinida exclusivamente 
+como uma doença de cunho biológico ou social isoladamente (SILVA et al., 2007).  
+O álcool atua no organismo como depressor do Sistema Nervoso Central (SNC) 
+(SENAD, 2012), proporcionando efeitos farmacológicos e tóxicos sobre o cérebro , causando 
+alterações comportamentais e afetivas, interferindo diretamente nas relações sociais e no 
+cotidiano da pessoa, além de predispor à dependência. Além da ação no SNC o álcool atua 
+também sobre o Sistema Nervoso Periférico (SNP) e principalmente so bre o Sistema 
+Cardiovascular, mas de maneira geral, traz consequências aos demais sistemas orgânicos do 
+corpo direta ou indiretamente (RIBEIRO; ANDRADE, 2007; FIGLIE; BORDINO; 
+LARANJEIRA , 2010 ). 
+Por intervir no SNC, o álcool é conceituado como uma droga ps icotrópica que provoca 
+transformação de comportamento, discernimento, cognição, respiração, coordenação 
+psicomotora e sexualidade,  e pode acarretar dependência quando utilizado em doses 
+excessivas durante um longo período de tempo (LARANJEIRA et al., 2003;  WASHTON; 
+ZWEBEN, 2009; FIGLIE; BORDINO; LARANJEIRA , 2010).  
+Em 1977 a OMS divulgou o relatório que diferenciava o abuso do álcool da síndrome 
+da dependência. Essa distinção favoreceu a concretização do conceito de dependência 
+alcoólica, sendo fundamental para a elaboração dos instrumentos diagnósticos subsequentes, 
+como o Manual Diagnóstico e Estatístico de Transtornos Mentais ( DSM -IV) e a Classificação 
+Internacional das Doenças ( CID-10), reduzindo os sintomas pertinentes para o diagnóstico da 
+dependência,  sendo imprescindível para definir a instalação da síndrome (MACHADO; 
+COSTA JUNIOR, 2011).  26 
+ 
+A partir da inclusão da dependência alcoólica ou alcoolismo como doença nos 
+instrumentos diagnósticos como o DSM -IV e a CID -10, houve maior preocupação com a 
+síndro me em si e o estigma moral negativo da dependência começou a perder força 
+(ANDRADE; ANTHONY, 2009).  
+Contudo, um dos fatores que mais contribui para o aumento de dependentes alcoólicos 
+e que dificulta a aceitação do alcoolismo como doença, é a classificação  do álcool como uma 
+droga lícita e de fácil acesso, levando a sociedade a aceitar o seu consumo como algo rotineiro 
+e integrante da vida social, ao contrário das outras drogas (OLIVEIRA; LUCHESI, 2010).  
+O fato de algumas pessoas ingerirem bebidas alcoólica s com frequência e não se 
+tornarem dependentes é, de certo modo, um estímulo ao consumo, fato que dificulta em 
+alguns momentos o combate ao uso do álcool (SILVA et al., 2007; ANDERSON; 
+CHISHOLM; FUHR,  2009; PUIG -NOLASCO; CORTAZA -RAMIREZ; PILLON , 2011 ). 
+O fácil acesso à bebida, a legalidade do consumo e o estímulo das propagandas podem 
+estar associados com as porcentagens significativas da quantidade de usuários e dependentes 
+da substância, contribuindo não só para o crescimento da prevalência quanto ao uso,  mas 
+também, para os distúrbios advindos do consumo (CARLINI et al., 2001; BRASIL, 2010; 
+OLIVEIRA; LUCHESI , 2010).  
+É considerada bebida alcoólica toda bebida que contém 0,5 graus Gay-Lussac  ou mais 
+de concentração, incluindo as bebidas destiladas, fermenta das e outras composições, além de 
+preparações farmacêuticas que incluam em suas receitas a quantidade descrita da substância 
+(BRASIL, 2010).  
+Em 2012, o Brasil foi o país com maior produção de cerveja mundialmente,  levando -o 
+ao terceiro lugar no ranking  de maior produtor mundial de cerveja, sendo inferior somente 
+para China e EUA, com um diferencial agravante de destinar 90% da sua produção ao 
+mercado interno ( CERVIERI JÚNIOR et al., 2014) .  
+O álcool é a droga mais consumida no mundo, independentemente de e sse uso ser 
+frequente ou eventual, por dependência do usuário (SENA et al., 2011).   
+Atualmente, o consumo do álcool tem sido um dos principais problemas de saúde 
+pública no mundo (VARGAS, 2014), tornando -o um dos maiores responsáveis por gerar 
+gastos e po r levar à co -morbidades e lesões permanentes ( CHAIMOWICZ et al., 2013) . É um 
+dos fatores que mais causam a inaptidão entre seus usuários, levando ao absenteísmo laboral, 
+além de contribuir para alta incidência de acidentes automobilísticos e de trabalho (B RASIL, 
+2003).  27 
+ 
+Segundo a World Health Organization  (WHO) estima -se que mundialmente dois 
+bilhões de pessoas façam uso de substâncias alcoólicas, frente a isso, a carga global 
+relacionada à morbidade e mortalidade é relevante em várias partes do mundo (WHO, 2011).  
+Nessa perspectiva, estudos cada vez mais abrangentes visam identificar não só as 
+possibilidades de terapia, mas também métodos de prevenção para a dependência, buscando 
+dados epidemiológicos que ajudem a traçar o perfil dos dependentes e dos grupos  de risco 
+(DIAS et al., 2015).  
+Em 2002, de acordo com relatório mundial de saúde, o uso indevido de álcool foi 
+constatado como o maior fator de risco à saúde nos países em desenvolvimento 
+(ORGANIZAÇÃO MUNDIAL DA SAÚDE , 2002) . Na região das Américas o álcoo l foi 
+identificado como principal fator de risco quanto ao surgimento de morbidades entre outras 27 
+causas. Na América Latina cerca de 50% das morbidades são oriundas do uso de bebidas 
+alcoólicas de modo desordenado. Essa porcentagem corresponde a, aproxim adamente, 30 
+milhões de pessoas, das quais somente 25% recebem algum tipo de assistência psiquiátrica 
+(ORGANIZAÇÃO PAN -AMERICANA DA SAÚDE , 2007; VARGAS; OLIVEIRA; LUIS, 
+2010).  
+Cerca de 90% da população ocidental faz ou já fez uso de bebidas alcoólicas. Des te, 
+estima -se que 10% apresentará alguma consequência patológica oriunda do álcool, e outros 
+10% se tornará dependente alcoólico (MIRANDA et al, 2006).  
+Segundo a OMS o consumo de bebidas alcoólicas vem aumentando significativamente 
+nos últimos anos, sendo  responsável por 1,8 milhões de mortes em todo o mundo, 
+correspondendo a 4% das doenças que levam ao óbito mundialmente. Os países das Américas 
+e Europa possuem maiores incidências, sendo prevalente nos homens, contudo, dados 
+sugerem o uso cada vez mais fr equente também entre as mulheres (OLIVEIRA; LUCHESI, 
+2010).  
+De acordo com o relatório global sobre álcool e saúde divulgado recentemente pela 
+OMS a substância psicoativa mais consumida na atualidade é o álcool ( ORGANIZAÇÃO 
+MUNDIAL DA SAÚDE, 2014 ). 
+O consu mo de bebida alcoólica no Brasil corresponde a 8,7 litros por pessoa, quantia 
+superior à média mundial que é de 6,2 litros de álcool por pessoa por ano, que corresponde a 
+cerca de 13,5 g por dia (ORGANIZAÇÃO MUNDIAL DA SAÚDE, 2014) . O estudo também 
+evidenc ia que o  uso irrestrito do álcool é um dos fatores de risco que causam maior impacto 
+para a morbidade, mortalidade e incapacidades em todo mundo. E m 2012, cerca de 3,3 
+milhões de pessoas morreram em decorrência do consumo exacerbado de álcool em todo 28 
+ 
+mundo , correspondendo a 5,9% das doenças que levam ao óbito. Tal percentual é superior à 
+mortalidade relacionado ao v írus da imunodeficiência humana ( HIV), que teve índice de 
+2,8%, a tuberculose que foi de 1,7% e à violência que correspondeu a 0,99% 
+(ORGANIZAÇÃ O MUNDIAL DA SAÚDE, 2014) .  
+Na Figura 1 a seguir, verificam -se as principais doenças e prejuízos vinculados ao 
+álcool em diferentes níveis , sendo que os prejuí zos totais  são aqueles atribuídos 
+exclusivamente (100%) ao consumo do álcool; e os parciais, os que o álcool detém alguma 
+parcela nos prejuízos totais, ou seja, são intensificados com a ingestão da substância alcoólica:  
+ 
+Figura 1 - Doenças e prejuízos totais ou parciais  decorrentes do uso do álcool  
+ 
+Fonte: Organização mundial da saúde , 2014.  
+ 
+A inge stão do álcool se torna mais constante a cada dia, estimativas evidenciam que 
+74,6% de toda população brasileira consomem a bebida alcoólica (VARGAS; 
+BITTENCOURT, 2013). Pesquisas estimam ainda que, no Brasil, cerca de 12,3% da 
+população, entre 12 e 65 ano s, sejam dependentes alcoólicos. Além disso, o álcool é 
+responsável por cerca de 10% do total de problemas de saúde em todo país (FALCÃO; 
+RANGEL -S, 2010).  
+O alcoolismo tem se tornado uma preocupação não apenas dos profissionais de saúde, 
+mas também do pode r público, devido a sua alta incidência e gravidade. Além disso, outro 
+fator preocupante é o alto índice de internações r elacionadas ao álcool e suas co morbidades, 
+29 
+ 
+fato que não contribui para mudanças no hábito de consumo das bebidas alcoólicas por parte 
+da população e nem na recuperação efetiva dessas pessoas (ACAUAN; DONATO; 
+DOMINGOS, 2008).  
+Quanto à classificação do uso, o costume de consumir bebidas alcoólicas em grandes 
+quantidades em um período pequeno de tempo se caracteriza como Beber Pesado Episód ico 
+(BPE)  ou “binge drinking” . É determinado para os homens como o consumo de cinco ou 
+mais doses de bebidas alcoólicas em uma única ocasião, e para as mulheres de quatro ou mais 
+doses, com frequência de pelo menos uma vez nas últimas duas semanas (SENAD, 2007) . 
+Segundo o  National Instituteon Alcohol Abuse and Alcoholism  (NIAAA), uma dose de 
+bebidas alcoólicas contém aproximadamente 14 g de álcool puro, o equivalente a uma lata de 
+cerveja de 355 ml, uma taça de vinho de 150 ml ou uma dose de destilado de 45  ml 
+(NATIONAL INSTITUTE ON ALCOHOL ABUSE AND ALCOHOLISM, 2008; WAGNER 
+et al., 2014).  
+O BPE, no ano de 2010, foi constatado em 16% dos bebedores no mundo, e no Brasil, 
+em 22%, distinguindo o consumo entre as mulheres (11%) e homens (30%) 
+(ORGANIZAÇÃO MUNDIA L DA SAÚDE, 2014).  
+A definição de BPE foi empregada a partir de crescentes evidências científicas de que 
+essas determinadas quantidades de consumo aumentam o risco da pessoa apresentar 
+problemas  como acidentes e violência , comorbidades psiquiátricas e alte rações do SNC, 
+dentre outras doenças (WECHSLER; NELSON, 2001; WAGNER et al., 2014; 
+ORGANIZAÇÃO MUNDIAL DA SAÚDE , 2014).  
+O termo “uso nocivo” ou “de risco” de consumo do álcool indica um padrão de 
+utilização que expõe a pessoa a maiores disposições a prejuí zos físicos e psicológicos 
+(WANG; ANDRADE, 2013).   
+O tratamento ao alcoolista abrange alguns serviços como avaliação diagnóstica, 
+aconselhamentos e cuidados de saúde em geral, além de outros modelos como os hospitais, 
+ambulatórios e grupos de autoajuda. I ndependentemente do lugar, ou da conduta realizada, 
+todos os sistemas visam à recuperação, e ela não está exclusivamente relacionada à total 
+abstinência, mas sim, à conquista da autonomia dessas pessoas (BRASIL, 2004; PILLON; 
+LUIS, 2004; MONTEIRO, 2011).  
+Por se tratar de uma substância admitida no âmbito social, o álcool tem seu consumo 
+permitido e estimulado pelos meios de divulgação em massa, que o mencionam como 
+elemento de socialização, entretenimento e comunicação social ( OLIVEIRA; LUCHESI, 
+2010 ).  30 
+ 
+Vários elementos colaboram para o uso da substância alcoólica, como a 
+disponibilidade da bebida, possibilidade de escape dos problemas e da realidade, percepção de 
+sensações prazerosas resultantes do consumo e as eventualidades de ocultar dificuldades 
+pessoai s especialmente às ligadas à família e relacionamentos interpessoais ( GIGLIOTTI; 
+BESSA, 2004 ; SPRICIGO; ALENCASTRE  2004; SECRETARIA NACIONAL DE 
+POLÍTICAS SOBRE DROGAS, 2016 ). 
+Os danos causados pelo abuso dessa droga chegam, de maneira geral, a toda a 
+socie dade, ocasionando vários problemas, tais como, desemprego, violência, complicações 
+físicas e mentais, danos à família, insegurança no trânsito, mortalidade, entre outros 
+(FERREIRA FILHA, et al., 2012).  
+O alcoolismo é uma das doenças que mais traz consequên cias ao seu portador, visto 
+que gera desordens de ordem física, mental e social. As repercussões do consumo do álcool 
+diretamente na saúde física são as principais responsáveis por levar o alcoolista aos serviços 
+de saúde (VARGAS; LABATE, 2006; OLIVEIRA; G ONÇALVES; LODOVICI, 2013 ). 
+Para compreender um pouco a complexidade dessa doença é necessário conhecer 
+algumas dessas consequências, para que seja possível trabalhar tanto na prevenção quanto no 
+tratamento do alcoolismo. Essas consequências podem ser consi deradas também como os 
+efeitos adversos do uso abusivo do álcool sendo divididos em três grandes grupos, os efeitos 
+fisiológicos ou biológicos, psicológicos e sociais, compondo, desse modo, as consequências 
+biopsicossociais (OLIVEIRA; LUCHESI, 2010).  
+O al coolismo, como citado acima, é uma doença grave que gera inúmeras 
+comorbidades, ou seja, doenças secundárias a ele ( OLIVEIRA; GONÇALVES; LODOVICI, 
+2013 ). Essas comorbidades são os efeitos oriundos do consumo excessivo de bebidas 
+alcoólicas. As principais c onsequências fisiológicas são: hepatopatias, distúrbios 
+cardiovasculares, gastrite, anemia, desnutrição, hipoglicemia, imunodepressão, surgimento de 
+úlceras, desidratação, hemorragias digestivas, pancreatite, distúrbios psiquiátricos, entre 
+outras (SANTOS;  MARQUES, 2005).  
+Já os transtornos psiquiátricos mais associados ao alcoolismo são: depressão, 
+transtornos de ansiedade, alimentares e de estresse pós -traumático. O tratamento adequado 
+para tais doenças é extremamente importante, visto que a não adesão ao tratamento pode levar 
+ao consumo mais frequente e em grande quantidade da substância alcoólica, gerando maior 
+intensificação dos problemas pré -existentes e relacionados com o álcool (SECRETARIA 
+NACIONAL DE POLÍTICAS SOBRE DROGAS, 2016), sendo também esses problemas 
+mentais os principais fatores de risco para a ocorrência do suicídio (WHO, 2014 ). 31 
+ 
+O consumo e uso exacerbado do álcool avançam de forma astuciosa e lenta causando 
+diversos problemas no processo saúde -doença da pessoa, da família e da sociedade. D este 
+modo, percebe -se que as consequências psicológicas, sociais e econômicas da dependência do 
+álcool geram danos incalculáveis, com perda da capacidade do manejo do processo produtivo, 
+social, afetivo e familiar (MIRANDA  et al.,  2006; FERREIRA FILHA, et al., 2012 ).  
+Ao passo que o alcoolismo progride, as relações familiares sofrem diretamente suas 
+consequências. Os vínculos afetivos sofrem um processo de desgaste devido a frequentes 
+brigas e discussões, muitas vezes decorrentes também de agressões físicas  (SÁ et al., 2012) . 
+Além do desgaste afetivo, o alcoolista passa a ser visto pela família como alguém que não 
+merece respeito, pois muitas vezes ele não o reconhece como doença ( FILIZOLA  et al., 
+2006).  
+Como visto, o álcool traz inúmeras consequências físic as, psíquicas e sociais as 
+pessoas, deste modo mostra -se de suma importância para os profissionais da saúde 
+compreender suas implicações para que possam traçar ações eloquentes às necessidades 
+dessas pessoas, de modo a assisti -las de forma integral promove ndo o tratamento eficaz a 
+esses pacientes.  
+ 
+1.3 ALCOOLISMO EM IDOSOS  
+ 
+O consumo exacerbado da substância alcoólica habitualmente é considerado como um 
+problema de saúde que geralmente acomete as pessoas na fase adulta, entretanto, estimativas 
+indicam que o  uso da bebida alcoólica e outras drogas entre os idosos vem aumentando a cada 
+dia, seu consumo contribui substancialmente para morbidades, mortalidades e internações 
+hospitalares (OLIVEIRA et al., 2011).  
+Embora o consumo total da bebida em idosos seja, n ormalmente, inferior ao consumo 
+nos jovens, as alterações fisiológicas devido à idade avançada fazem aumentar os efeitos do 
+álcool no organismo. Assim, os idosos ficam mais propensos a enfermidades, tais como  
+cirrose, pancreatite, afecções do SNC, comorbid ades psiquiátricas, inúmeros tipos de cânceres 
+e agravamentos de sintomas preexistentes  (HULSE, 2002; PILLON, 2005; HERMAN; 
+SADOVSKY, 2010) . 
+O álcool atua no organismo dos idosos levando  ao aumento da gordura corporal e 
+redução do volume de água total, bem  como a diminuição do metabolismo hepático. 
+Consequentemente, os níveis da substância alcoólica no sangue tendem a aumentar, com isto, 
+o idoso começa a vivenciar as consequências negativas, ainda que não aumente seu consumo 32 
+ 
+(HULSE, 2002). O envelhecimento fisiológico causa alterações no metabolismo do álcool, 
+deixando os idosos mais propensos às intoxicações alcoólicas (SANTOS, et al., 2014).  
+O NIAAA sugere, no caso de idosos saudáveis, que não consumam mais de três doses 
+de bebida alcoólica por dia.  Ressa lta-se que essa determinada quantidade é definida para os 
+idosos que não estejam utilizando nenhum tipo de medicamento, com a finalidade de prevenir 
+problemas como a depressão, acidentes e quedas decorrentes do uso de álcool, enfatizando 
+que não devem ultr apassar sete doses da bebida por semana. Além disso, segundo a Sociedade 
+Americana de Geriatria, a ingestão de cinco doses ou mais de bebida alcoólica em uma 
+mesma ocasião é caracterizada como BPE (WANG; ANDRADE, 2013).   
+O processo de envelhecimento provo ca diversas situações que podem levar ao 
+consumo do álcool, com o afastamento da vida laboral o idoso pode vir a sofrer 
+transformações significativas, e como consequência poderá iniciar ou aumentar sua 
+compulsão pela substância alcoólica (MARTINS, 2007).  
+O crescimento populacional dos idosos em relação à geral vem aumentando a cada dia, 
+por isto, a prevalência de distúrbios psiquiátricos, tais como o abuso de álcool e drogas, os 
+transtornos depressivos e demências também poderão ser proporcionalmente maior es nesse 
+grupo etário (CASTRO, 2000). Deste modo, entende -se que é fundamental  compreender os 
+padrões de consumo de álcool no idoso e os distúrbios que lhe são inerentes, e estabelecer 
+medidas preventivas,  levando em consideração o impacto negativo que est a substância pode 
+acarretar no envelhecimento (SOROCCO; FERRELL, 2006).  
+Pesquisa multicêntrica realizada em 143 municípios do Brasil verificou que 12% dos 
+idosos entrevistados com 60 anos ou mais foram considerados bebedores pesados (ingestão 
+acima de sete  doses de bebida alcoólica por semana), 10,4% BPE (estipulado como a ingestão 
+de mais de três doses da bebida em uma única ocasião) e 2,9% como dependentes alcoólicos 
+(WANG; ANDRADE, 2013).  
+Outro estudo brasileiro constatou que consumir cinco ou mais doses  de bebidas 
+alcoólica por dia pode estar associado a quedas, uma preocupação muito importante em 
+idosos. Homens com 65 anos ou mais de idade que tenham consumido de maneira pesada o 
+álcool em alguns momentos de suas vidas por cinco anos ou mais tiveram qua se seis vezes 
+maior risco de sofrer de transtornos psiquiátricos. O risco de depressão foi quase quatro vezes 
+maior e a demência foi de aproximadamente cinco vezes mais alta do que em idosos sem 
+histórico de consumo de álcool na vida (SAUNDERS et al., 1991 ; BEULLENS; 
+AERTGEERTS, 2004; LIMA et al., 2009).  33 
+ 
+O idoso que faz uso constante da bebida alcoólica poderá passar por uma dupla 
+exclusão no seu cotidiano, a primeira devido ao fato de ser considerado por várias pessoas 
+como incapaz de efetuar suas funções  e ofícios, e a segunda devido à própria condição de 
+alcoolista.  Desta forma, torna -se cada vez mais relevante a realização de estudos que venham 
+a divulgar as várias formas de restrição a que estão submetidos os idosos usuários do álcool 
+(MARTINS, 2007).   
+Ressalta -se que a aposentadoria é apontada como um fator de risco, por ser um 
+momento no qual o idoso vivencia mais profundamente a perda de papéis sociais, o 
+isolamento social, as restrições financeiras, o afastamento de amigos e familiares, e com isto a 
+saúde fica predisposta a entrar em declínio ( OLIVEIRA; GONÇALVES; LODOVICI,  2013).  
+O uso do álcool e outras drogas entre os idosos é um assunto que vem gerando 
+inquietação nos profissionais da área da saúde em virtude do elevado número de admissões 
+nas u nidades de pronto -atendimento e a procura por tratamento associados ao uso dessas 
+substâncias (WANG; ANDRADE, 2013). Entretanto, estudos científicos que tratam sobre 
+essa temática de forma abrangente ainda são escassos ( BRASIL, 2003; BARROS; PILLON , 
+2007b;  GONÇALVES ; TAVARES , 2007;  WANG; ANDRADE, 2013).  
+Estudos realizados em amostras clínicas demonstraram um crescimento significativo 
+do uso de álcool na população idosa. As p esquisas demonstram que 6 a 11% dos pacientes 
+com 60 anos ou mais de idade admitidos  em hospitais gerais expressam sintomas de 
+dependência alcoólica. Destaca, também que as estimativas de admissões nas unidades de 
+urgência e emergência por alcoolismo se igualam às provenientes de infartos que são de 
+aproximadamente 400 mil ao ano (SENGER et al., 2011).  
+Dados do primeiro levantamento nacional sobre os padrões de consumo de álcool na 
+população idosa demonstraram que 7% consomem bebida alcoólica frequentemente, 8% 
+muito frequentemente, 10% ocasionalmente, 8% raramente e 68% nunca beberam ou 
+consumiram álcool, no máximo, uma única vez no período de um ano (LARANJEIRA  et al.,  
+2007). Em pesquisa populacional realizada na região metropolitana de São Paulo com uma 
+amostra de 169 homens idosos apontou elevada taxa de abstinência atual (61,6%) e, de sse 
+total, 38% eram ex -bebedores ( OLIVEIRA et al., 2011 ).  
+Estima -se que na população geral 10% dos idosos consumam álcool (SANTOS et al., 
+2014) ; nas unidades de urgências hospitalares correspondem a 14% do total de atendimentos, 
+nas internações em enferma rias chegam a 18% e nas unidades psiquiátricas de 23 a 40% 
+(BOGSTRAND et al., 2013).  Em serviços de atendimento especializados este percentual 34 
+ 
+correspondeu de 2 a 4%, sendo o distúrbio mais frequente entre os homens (SENGER et al., 
+2011;  BOGSTRAND et al., 2013; PILLON et al., 2010 ).  
+Em estudo, realizado na cidade de São Paulo pelo Instituto de Psiquiatria do Hospital 
+das Clínicas, identificou que 9,1% dos idosos da capital eram “ bebedores pesados ”, o que 
+corresponde a 88 mil idosos (OLIVEIRA; GONÇALVES; LO DOVICI, 2013).  
+Em pesquisa sobre a abrangência da problemática alcoolismo e outras drogas em 
+idosos realizada no Brasil, constata -se que, dos 21 milhões de idosos da população 
+(INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2010), 20% tem 
+envolvimento co m o uso de álcool e drogas; e estima -se que em 2020 teremos o dobro do 
+número atual de idosos com hábitos de consumo abusivo de álcool e drogas (ZANOTTI, 
+2013).  
+De acordo com estudo realizado em um Centro de Atenção Psicossocial Álcool e 
+outras Drogas (CAP SAD), entre 1996 e 2009, no interior do Estado de São Paulo, dentre os 
+participantes, 3,3% eram idosos, destes 83,8% referiram o álcool como a substância 
+psicoativa mais consumida entre eles; e declararam que o uso do álcool faz parte do seu dia a 
+dia (PILLON et al., 2010). Esta prática vem se intensificando entre os idosos e se tornando 
+um problema de saúde pública, com consequências explícitas na qualidade de vida da pessoa, 
+na família e na sociedade (SILVA, 2012).  
+Diante destes números, o problema do uso  abusivo e crônico do álcool em idosos vem 
+preocupando os pesquisadores, além dos profissionais de saúde, em relação a procedimentos 
+mais eficazes para obtenção de resultados mais eficientes perante os idosos nestas condições 
+(OLIVEIRA; GONÇALVES; LODOVICI , 2013).  
+Em relação à identificação do alcoolismo nos idosos, alguns fatores podem contribuir 
+para dificultar esse diagnóstico, tais como a negação do consumo, o abuso e/ou dependência 
+do álcool ( HERMAN; SADOVSKY, 2010 ).  
+O uso nocivo e dependência do álco ol em idosos muitas vezes não são detectados na 
+prática médica (CULBERSON, 2006). Isso pode ocorrer porque suas manifestações, 
+geralmente, são confundidas com os sintomas evidenciados pelo processo de envelhecimento, 
+tais como: depressão, sono em demasia o u insônia, perda de peso, diarreia, disposição para 
+quedas e comprometimento cognitivo. Tais manifestações tendem a diminuir com a 
+interrupção do consumo do álcool (CARVALHO FILHO,  2003) . 
+O consumo abusivo de álcool dispõe os idosos a maiores riscos de vul nerabilidade 
+para o desenvolvimento de problemas físicos, psicológicos e sociais, que muitas vezes não são 
+detectados pelos profissionais nos diferentes serviços de saúde. Desta forma, as estimativas do 35 
+ 
+consumo atual de álcool na população idosa são variad as, porém seus efeitos nesta etapa da 
+vida, além da gravidade dos problemas, têm causado grande impacto nos cuidados de saúde 
+(KANO; SANTOS; PILLON, 2014).  
+Os sintomas do consumo abusivo do álcool podem ser observados por distorções de 
+pensamento, visível negação quanto à dependência da substância alcoólica e aos efeitos 
+prejudiciais de sua ingestão sobre a saúde e bem -estar (HERMAN; SADOVSKY, 2010).  
+A ausência de protocolos que auxiliam tanto os médicos quanto os demais 
+profissionais de saúde também pode d ificultar o diagnóstico, e ainda o fato de familiares, 
+cuidadores e amigos ajudarem, inconscientemente, com os idosos em negar a presença de 
+problemas relacionados ao álcool (KANO; SANTOS; PILLON, 2014) . Além disto, os 
+programas efetivos nas clínicas de de sintoxicação e reabilitação ainda são inexperientes no 
+que diz respeito de temas específicos relacionados à população idosa ( HERMAN; 
+SADOVSKY, 2010; BOMMERSBACH et al., 2015 ). 
+A descoberta de problemas ligados ao álcool em idosos levou os investigadores a 
+desenvolverem e padronizarem instrumentos de rastreamento para serem utilizados 
+especificamente com esta população (CULBERSON, 2006; KANO; SANTOS; PILLON, 
+2014).  
+Os avanços das tecnologias médicas foram um dos principais motivos que levaram as 
+transformaç ões demográficas e que refletem no aumento da expectativa de vida. Porém, as 
+mudanças nos papéis sociais podem contribuir para o consumo excessivo e crônico do álcool 
+entre os idosos, resultando em prejuízos à saúde (quadros demenciais, cirrose, pancreatit e, 
+agravamento de sintomas preexistentes), a curto e longo prazo, assim como alterações de 
+comportamento (HERMAN; SADOVSKY, 2010).  
+A prática de ingestão do álcool em idosos deve ser observada com atenção, pois 
+muitas das vezes eles voltam ou dão início ao consumo desta substância como substituto dos 
+seus desajustes psíquicos e sociais (SÃO PAULO, 2009).  
+Por vários razões os idosos não expõem o consumo do álcool (seja por vergonha, 
+medo, demência, estilo de vida, isolamento), o que prejudica ainda mais a ide ntificação e 
+dificulta o início de intervenção precoce (PILLON et al., 2010).  
+O uso da substância alcoólica dificilmente é identificado como um problema para os 
+idosos, o que faz com que eles resistam à procura de tratamento (WANG; ANDRADE, 2013).  
+Outro fa tor que dificulta é a identificação dos sinais e sintomas inerentes do uso do 
+álcool, uma vez que eles estão associados à suas consequências e por si só não são tão 
+específicos, tais como acidentes, transtornos mentais (depressão, ansiedade, demência) 36 
+ 
+insônia e autonegligência, manifestações que podem estar mistificados aos do processo de 
+envelhecimento (DAR, 2006).  
+Dentre os fatores associados ao uso do álcool, estudos destacam que, embora com o 
+amadurecimento o idoso tenha menor probabilidade de consumir  a substância, porém uma vez 
+submetido ao consumo, é particularmente suscetível ao desenvolvimento da dependência 
+(DAR, 2006; O’CONNELL, 2003; MENNINGER, 2002).  
+A assistência a essa clientela no contexto atual tem enfrentado grandes limitações no 
+campo da atenção à saúde, estas barreiras envolvem o campo do conhecimento da temática 
+das drogas e álcool, o campo social, psicológico e clínico. Perante tais situações, as ações de 
+saúde estão comprometidas impossibilitando a assistência qualificada (VARGAS, 2010 ; 
+GONÇALVES; TAVARES, 2007).  
+Uma das maiores limitações a serem encaradas na abordagem e no tratamento dessas 
+pessoas está relacionada à visão negativa dos profissionais da saúde frente a eles, e das 
+expectativas evolutivas frente ao problema, demonstrada  pelas atitudes negativas dirigidas aos 
+mesmos, o que atrapalha por vezes a obtenção de resultados positivos diante das atividades 
+prestadas (ROSENSTOCK; NEVES,  2010; VARGAS, 2011).  
+Deste modo, p artindo dessa constatação, é de extrema relevância analisar a s atitudes 
+elaboradas pelos profissionais da saúde frente ao uso de álcool, ao alcoolismo e ao alcoolista, 
+posto que, uma vez que as atitudes podem influenciar diretamente na qualidade da assistência 
+proporcionada, e na resposta dos usuários frente ao trat amento (BARROS ; PILLON , 2007a; 
+VARGAS, 2011).  
+A falta de conhecimento acerca do alcoolismo é um dos fatores que dificultam a 
+assistência de enfermagem ao dependente do álcool, esta falta de informação gera uma 
+percepção negativa frente a essas pessoas leva ndo-as ao insucesso do tratamento (ACAUAN; 
+DONATO; DOMINGOS, 2008; SOARES; VARGAS; OLIVEIRA, 2011).  
+O paciente alcoolista possui um estigma negativo frente à sociedade e principalmente 
+frente à equipe de saúde, pois é visto como uma pessoa chata, inconveni ente, suja e com odor 
+desagradável (BRASIL, 2003).  
+A equipe de enfermagem é maioria nos serviços de saúde, e consequentemente é 
+responsável por gerir o atendimento ao paciente alcoolista, em todos os aspectos, tendo 
+condições de auxiliar no processo de rec uperação e reabilitação, entretanto para que isso 
+ocorra é necessário que essa equipe esteja apta a prestar assistência adequada a essa clientela 
+(ACAUAN; DONATO; DOMINGOS, 2008).  37 
+ 
+Tal percepção é fundamental na implementação de medidas preventivas frente a o 
+alcoolismo e a compreensão da enfermagem nesse setor, visando assim, colaborar no 
+direcionamento da atenção qualificada à saúde dos idosos usuários do álcool.  
+Nesse sentido, os profissionais de saúde devem refletir sobre o envelhecimento e a 
+qualidade de ste envelhecer, e como estruturar planos de ações que tragam melhores condições 
+de saúde e de vida para os idosos, especialmente no que se refere aos estigmas que ainda 
+existem em relação à velhice e a perspectiva de que sintomas típicos do alcoolismo são 
+inerentes da idade (CARVALHO FILHO,  2003) . 
+O conhecimento sobre o alcoolismo em idosos, bem como os fatores a ele associados é 
+fundamental para o planejamento de estratégias de ação, pois pode colaborar para a 
+diminuição das internações hospitalares e do u so de medicamentos.  
+É necessário que os idosos considerem o consumo do álcool como uma droga que 
+causa efeitos maléficos ao organismo, assim como definem as outras drogas. Embora o 
+consumo do álcool esteja enraizado na cultura da sociedade, é preciso que h aja mudanças no 
+comportamento dessas pessoas antes que a dependência alcoólica assim como o consumo se 
+torne algo comum e integrante da vida social.  
+Portanto, com a realização desse estudo pretende -se colaborar para o conhecimento do 
+perfil sociodemográfi co e econômico bem como da situação de saúde dos idosos residentes na 
+zona urbana do município de Uberaba -MG, sob a perspectiva da identificação do abuso e 
+provável dependência do álcool nessa faixa etária. A fim de favorecer a realização de planos 
+de ação  voltados para a promoção da saúde, a prevenção de doenças e a reabilitação do idoso 
+alcoolista e assim colaborar no direcionamento da atenção melhor qualificada à saúde dos 
+idosos e promover o envelhecimento saudável.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38 
+ 
+2 OBJETIVOS  
+ 
+ Verificar a prevalência do abuso e provável dependência do álcool em idosos;  
+ Descrever as características sociodemográficas, econômicas, indicativo de sintomas 
+depressivos e morbidades dos idosos residentes na zona urbana do município de 
+Uberaba -MG;  
+ Verificar a associ ação entre o abuso e provável dependência do álcool com as 
+variáveis: sexo, faixa etária, renda, escolaridade, indicativo de sintomas depressivos e 
+número de morbidades.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+3 MATERIAL E MÉTODOS  
+ 
+3.1 DELINEAMENTO DO ESTUDO  
+ 
+A pesquisa caracteriza -se como inquérito domiciliar, com delineamento analítico, e 
+observacional de corte transversal. Integra um projeto maior que foi desenvolvimento pelo 
+Grupo de Pesquisa em Saúde Coletiva da Universidade Federal do Triângulo Mineiro 
+(UFTM), intit ulado como: Dependência para as atividades de vida diária, fragilidade e uso de 
+serviços de saúde entre idosos do Triângulo Mineiro.  
+ 
+3.2 LOCAL DO ESTUDO  
+ 
+O estudo foi realizado na zona urbana do município de Uberaba -MG.  
+ 
+3.3 POPULAÇÃO  
+ 
+3.3.1 Definição da  População  
+ 
+Para a definição da população da área urbana utilizou -se a amostra por conglomerado 
+em múltiplo estágio.  
+ 
+3.3.2 Procedimentos para amostragem conglomerado em múltiplos estágios  
+ 
+A população foi composta por idosos residentes na zona urbana do m unicípio de 
+Uberaba -MG. Para o  cálculo do tamanho amostral considerou -se como desfecho principal a 
+prevalência do abuso e provável dependência do álcool  de 37,5% ( DIAS et al., 2015; KANO; 
+SANTOS; PILLON, 2014; BORIM; BARROS; BOTEGA, 2013; CAS TILLO et al., 2008 ), 
+com precisão de 4,0% e um intervalo de confiança de 95%, para uma  população finita de 
+36.703 idosos, chegando -se a uma amostra de 769 idosos. Considerando uma perda de 
+amostragem de 20%, o número de  tentativas de entrevistas máximo foi de 855.  
+Para a seleção dos idosos, foi considerado no primeiro estágio, o sorteio    
+arbitrário de 50% dos setores censitários do município, por meio de    
+amostragem sistemática, organizando uma listagem única dos setores, identificando o bairro a 
+que pertence. A quanti dade de setores censitários urbano no município de Uberaba -MG é de 40 
+ 
+409, sendo selecionados 204. O Intervalo Amostral (IA) foi calculado por meio da fórmula a 
+seguir:  
+IA = Nsc/ncs.  
+Onde:  
+Nsc é o número total de setores censitários;  
+ncs o número setores c ensitários sorteados.  
+Sendo IA= 409;    IA= 2  
+        204  
+O primeiro setor censitário foi sorteado aleatoriamente e os demais, conforme IA; a 
+listagem dos setores foi ordenada por ordem numérica crescente, para fins do sorteio.  
+No segundo est ágio, o núme ro de idosos a ser entrevistado,  segundo cálculo 
+amostral  (769) foi dividido  pela quantidade de setores censitários do município  (204), 
+obtendo -se um valor  aproximadamente semelhante dentro de cada setor censitário. A 
+quantidade de domicíli os/idosos em Ube raba foi de 3,76  idosos, sendo arredondado para 4 
+idosos por setor censitário. Ressalta -se que havia bairros com mais de um setor censitário. 
+Neste contexto, considerando o cálculo amostral, 204 setores censitários e quatro pessoas por 
+setor, partiu -se de uma amostra de 837 idosos, Figura 2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41 
+ 
+Figura 2 - Composição final da amostra  
+ 
+Fonte: a autora, 2016.  
+ 
+As ruas de cada setor censitário foram numeradas e digitadas no programa Statiscal 
+Package for Social Sciences (SPSS), versão 21.0, e sor teada aleatoriamente a rua na qual 
+deveria iniciar a busca do idoso. A coleta de dados iniciou na primeira residência da rua de 
+cada setor censitário, conforme mapas obtidos pelo Instituto Brasileiro de Geografia e 
+Estatística (IBGE) de Uberaba ou pelo Google Earth , seguindo -se em sentido horário até o 
+final do setor censitário. Visitaram -se todos os domicílios sequencialmente, conforme Figura 
+3, até obter o número de idosos por setor, que atenderam aos critérios de inclusão.  
+ 
+ 
+ 
+42 
+ 
+Figura 3 - Mapa da sequência  de coleta de dados dentro de cada setor censitário  
+ 
+Fonte: a autora, 2016.  
+ 
+3.3.3  Critérios de inclusão  
+ 
+Os critérios de inclusão foram: ter 60 anos ou mais de idade e  residir na zona urbana 
+do município de Uberaba -MG. 
+ 
+3.3.4 Critérios de exclusão  
+ 
+Foram  excluídos da pesquisa aqueles que não foram encontrados no momento da 
+entrevista, estavam institucionalizados e hospitalizados ou apresentaram declínio cognitivo 
+segundo o instrumento Mini Exame do Estado Mental (MEEM).  
+Desta forma a população de estudo foi composta por 769 idosos sendo excluídos 155 
+por apresentarem declínio cognitivo. Portanto, participaram 614 idosos.  
+ 
+3.4 COLETA DE DADOS  
+ 
+3.4.1 Procedimentos para coleta dos dados  
+ 
+A coleta de dados foi realizada por meio de entrevista nas respectivas residências dos 
+idosos, em um único momento. Os entrevistadores (grupo constituído por mestrandos e 
+43 
+ 
+discentes de graduação) com experiência prévia em coleta de dados passaram por uma 
+capacitação para: aplicação dos instrumentos, abordagem do idoso e questõ es éticas da 
+pesquisa. Os entrevistadores anotaram as intercorrências (ausências, recusas e outras) em 
+planilha de campo.  
+As entrevistas foram revisadas por supervisores de campo (doutorandos e docentes), e 
+na identificação de dados incompletos ou inconsi stentes, retornaram ao entrevistador para 
+correções.  
+ 
+3.5 INSTRUMENTOS DE COLETA DE DADOS  
+ 
+3.5.1 Dados sociodemográficos e econômicos  
+ 
+Para coleta dos dados referentes ao perfil sociodemográfico e econômico (APÊNDICE 
+A), foi utilizado instrumento elaborado  pelo Grupo de Pesquisa em Saúde Coletiva da UFTM.  
+ 
+3.5.2 Questionário Older Americans Resources and Services  (OARS)  
+ 
+As morbidades autorreferidas (ANEXO A) foram extraídas do questionário 
+Questionário Older Americans Resources and Services  (OARS), compos to por vinte e seis 
+componentes em que se pondera se o idoso apresenta ou não determinadas doenças e se for 
+confirmado se interfere ou não na vida diária (RAMOS, 1987).  
+ 
+3.5.3 Mini Exame do Estado Mental (MEEM)  
+ 
+Este instrumento foi utilizado para a avali ação cognitiva, que se compõe em um dos 
+critérios de exclusão (ANEXO B). Proposto por Folstein (1975), o MEEM foi adaptado à 
+realidade brasileira por Bertollucci (1994). É constituído por questões que totalizam trinta 
+pontos que compreendem orientação, mem ória imediata e de evocação, concentração, cálculo, 
+linguagem e domínio espacial. O escore do MEEM varia de 0 a 30 pontos e o ponto de corte 
+considerado de acordo com a escolaridade do idoso foi : 13 pontos para analfabetos, 18 pontos 
+para 1 a 11 anos de es tudo e 26 pontos para acima de 11 anos de estudo  (BERTOLLUCCI et 
+al.,1994).  
+ 
+ 44 
+ 
+3.5.4 Escala de Depressão Geriátrica Abreviada (GDS -15) 
+ 
+Esta escala foi utilizada para rastreio de indicativo de sintomas depressivos em idosos.  
+Foi elaborada por Yesavage (198 6) e validada por Almeida e Almeida (1999) no Brasil, sendo 
+constituída por quinze perguntas fechadas com respostas objetivas (sim ou não), com escore 
+que pode alternar de zero a quinze pontos (ANEXO C). Neste estudo considerou -se indicativo 
+de sintomas de pressivos quando o escore for maior que cinco pontos (ALMEIDA; 
+ALMEIDA, 1999).  
+ 
+3.5.5 Michigan Alcoholism Screening Test – Geriatric Version  (MAST -G) 
+ 
+O instrumento foi elaborado por Blow e colaboradores (1992) segundo versão original 
+para adultos. Foi cri ado para detecção de abuso e provável dependência de álcool em idosos, 
+sendo validado no Brasil por Kano e colaboradores (2014) (ANEXO D). Este instrumento 
+permitiu a primeira abordagem específica do abuso e provável dependência de álcool em 
+idosos. As pro priedades psicométricas deste instrumento se mostraram elevadas, com 
+sensibilidade de 94,9%, especificidade de 77,8%, valor preditivo de 89,4% e valor preditivo 
+negativo de 88,6% . Possui 24 questões e sua sensibilidade para o valor de corte é de cinco 
+respostas positivas. A pontuação entre 0 a 4 pontos significa que não há indício de alcoolismo, 
+ao passo que a soma igual ou acima de cinco pontos caracteriza problemas relacionados com 
+o abuso e provável dependência de álcool  (KANO; SANTOS; PILLON, 2014).  
+ 
+3.6 VARIÁVEIS DE ESTUDO   
+ 
+3.6.1 Sociodemográficos e econômicos:  
+ Sexo: feminino, masculino;  
+ Idade: 60 | - 70; 70 | - 80; 80 ou mais anos;  
+ Estado conjugal: nunca se casou ou morou com companheiro  (a); mora com esposo  (a) 
+ou companheiro  (a); viúvo  (a); separado  (a), desquitado  (a) ou divorciado  (a) 
+ Renda individual, em salários mínimos: sem renda; <1; 1; 1  -| 3; 3 -| 5; >5);  
+ Escolaridade (em anos): sem escolaridade; 1 | - 5; 5 |- 9; 9 ou mais.  
+ 
+3.6.2 Declínio cognitivo:  sim, não.  45 
+ 
+3.6.3 Número de morbidades auto rreferidas:  nenhuma; 1 | - 5; 5 ou mais.  
+ 
+3.6.4 Indicativo de sintomas depressivos : sim, não . 
+ 
+3.6.5 Abuso e provável dependência de álcool:  sim, não.  
+ 
+3.7 PROCESSAMENTO DOS DADOS  
+ 
+Foi elaborada uma planilha eletrônica no programa Excel®, e os dados foram 
+digitados em dupla entrada e posteriormente foram submetidos à verificação da consistência 
+entre os dois bancos. Quando constatada inconsistência retornou -se a entrevista original para 
+correção. Em seguida, o banco de dados foi importado para o programa est atístico SPSS, 
+versão 21.0 para proceder à análise.  
+ 
+3.8 ANÁLISE DOS DADOS  
+ 
+Para atender ao primeiro objetivo, foi estimada a prevalência, obtida segundo a 
+fórmula:  
+ 
+A fim de responder ao segundo objetivo foi realizada estatística descritiva, utilizando -
+se frequências absolutas e relativas para as variáveis categóricas. As variáveis quantitativas 
+foram analisadas empregando -se medidas de tendência central (média e mediana) e de 
+dispersão (amplitudes e desvio padrão).  
+Para responder o  terceiro objetivo , a análise bivariada incluiu medidas de associações 
+brutas em tabelas de contingencia, utilizando os testes qui-quadrado, razão de prevalência e 
+razão de chances de prevalência. Já a análise da influencia dos fatores associados (sexo, faixa 
+etária, renda, esco laridade, indicativo de sintomas depressivos e número de morbidades) para 
+ocorrência ou não de abuso e provável dependência utilizou -se a regressão logística binomial 
+múltipla. Sendo considerado significativo para todos os testes quando p≤ 0,05.  
+É importan te destacar que a inserção desses fatores associados no modelo de regressão 
+utilizou como base a literatura específica.  
+ 
+ 46 
+ 
+3.9 ASPECTOS ÉTICOS  
+ 
+Este estudo foi aprovado pelo Comitê de Ética em Pesquisa com Seres Humanos da 
+Universidade Federal do Triângulo Mineiro, por meio do Protocolo Nº 573.833 (ANEXO E).  
+Os participantes foram contatados e convidados a participar após informações sobre a 
+natureza e objetivos da pesquisa. A partir da anuência do entrevistado e da assinatura do 
+Termo de Consentimento Livr e e Esclarecido (TCLE) (APÊNDICE B), a entrevista foi 
+conduzida.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47 
+ 
+4 RESULTADOS  
+ 
+4.1 PREVALÊNCIA DO ABUSO E PROVÁVEL DEPENDÊNCIA DO ÁLCOOL EM 
+IDOSOS  
+ 
+Na amostra (614), observa -se que 73% (N=448) dos idosos referiram não consumir 
+nenhum tipo de bebida alcoólica e 27% (N=166) relataram fazer uso de álcool regularmente 
+e/ou haviam cessado consumo da bebida no último ano. Destes identificou -se a prevalência de 
+abuso e provável dependência do álcool em 26,5% (N=44) dos idosos (Figura 4).   
+ 
+Figura 4  - Prevalência do abuso e provável dependência do álcool em idosos, Uberaba, Minas 
+Gerais, Brasil, 2016  
+ 
+Fonte: a autora, 2016.  
+ 
+4.2 CARACTERIZAÇÃO DOS IDOSOS  
+ 
+4.2.1 Perfil sociodemográfico e econômico  dos idosos  
+ 
+Entre os idosos com abuso e p rovável dependência de álcool (N=44) verificou -se que 
+a maioria era do sexo masculino (77,3%); com 60 | - 70 anos (54,5%); morava com esposo (a) 
+ou companheiro (a) (47,7%); tinha 1 | - 5 anos de escolaridade (54,5%) e renda mensal 
+individual de 1 -| 3 salári os mínimos (52,3%),  (Tabela 1).  
+Na estratificação dos idosos que não possuíam abuso e provável dependência de álcool 
+(N=570) verificou -se, maior percentual do sexo feminino (71,4%), com 60 | - 70 anos (43%); 
+48 
+ 
+morava com esposo (a) ou companheiro (a) (46,5%) ; tinha 1 | - 5 anos de escolaridade (52,3%) 
+e renda mensal individual de um salário mínimo  (44,6%),  (Tabela 1).  
+A Tabela 1 apresenta as variáveis sociodemográficas e econômicas dos idosos com e 
+sem abuso e provável dependência de álcool.  
+ 
+Tabela 1.  Distr ibuição de frequência das variáveis sociodemográficas e econômicas dos 
+idosos, Uberaba, Minas Gerais, Brasil, 2016  
+ 
+Variáveis  Com abuso e provável 
+dependência de álcool  
+(N=44)  Sem abuso e provável 
+dependência de álcool  
+(N=570)  
+N % N % 
+Sexo      
+Masculin o 34 77,3 163 28,6 
+Feminino  10 22,7 407 71,4 
+Faixa etária (em anos)      
+60 |- 70 24 54,5 245 43,0 
+70 |- 80 15 34,1 225 39,5 
+80 ou mais  5 11,4 100 17,5 
+Estado Conjugal      
+Nunca se casou ou morou com 
+companheiro(a)  5 11,4 40 7,0 
+Mora com esposo(a) o u companheiro(a)  21 47,7 265 46,5 
+Viúvo(a)  12 27,3 208 36,5 
+Separado(a), desquitado(a) ou 
+divorciado(a)  6 13,6 57 10,0 
+Escolaridade (em anos)      
+Sem escolaridade  4 9,1 89 15,6 
+1 |- 5 24 54,5 298 52,3 
+5 |- 9 6 13,6 90 15,8 
+9 ou mais  10 22,7 93 16,3 
+Renda (em salários mínimos)      
+Sem renda  2 4,5 53 9,3 
+< 1 salário mínimo  2 4,5 8 1,4 
+1 salário mínimo  11 25,0 254 44,6 
+1 -| 3 salários mínimos  23 52,3 205 36,0 49 
+ 
+3 -| 5 salários mínimos  5 11,4 32 5,6 
+> 5 salários mínimos  1 2,3 18 3,2 
+Fonte: a autora , 2016.  
+ 
+4.2.2 Perfil clínico e indicativo de sintomas depressivos  dos idosos  
+ 
+Tanto os idosos com abuso e provável dependência de álcool (68,2%) quanto os que 
+não possuíam abuso e provável dependência de álcool (62,5%) apresentaram maior percentual 
+para cinco ou mais morbidades. Prevaleceram, em ambos os grupos, a ausência de indicativo 
+de sintomas depressivos. Apesar disto, cabe destacar que os idosos com abuso e provável 
+dependência de álcool apresentaram maior percentual de indicativo de sintomas depre ssivos 
+(36,4%) em relação aos que não possuíam tal dependência (26,1%) (Tabela 2).  
+A Tabela 2 apresenta as variáveis clínicas e indicativo de sintomas depressivos dos 
+idosos.  
+ 
+Tabela 2.  Distribuição de frequência das variáveis clínicas e indicativo de si ntomas 
+depressivos dos idosos, Uberaba, Minas Gerais, Brasil, 2016  
+ 
+Variáveis  Com abuso e provável 
+dependência de álcool  
+(N=44)  Sem abuso e provável 
+dependência de álcool  
+(N=570)  
+ N % N % 
+Numero de morbidades autorreferidas      
+Nenhuma  1 2,3 11 1,9 
+1 |- 5 13 29,5 203 35,6 
+5 ou mais  30 68,2 356 62,5 
+Indicativo de sintomas depressivos      
+Sim 16 36,4 149 26,1 
+Não 28 63,6 421 73,9 
+Fonte: a autora, 2016.  
+ 
+4.3 FATORES ASSOCIADOS AO ABUSO E PROVÁVEL DEPENDÊNCIA DO ÁLCOOL 
+EM IDOSOS  
+ 
+Para proceder à anális e dos fatores associados, às variáveis estudadas foram 
+dicotomizadas. Desta forma, na análise bivariada, verificou -se que os idosos do sexo 
+masculino tiveram quatro vezes mais chance de apresentar abuso e provável dependência do 50 
+ 
+álcool ( p=0,001). Não se ob servou diferença significativa, entre os grupos, nas variáveis: 
+grupo etário ( p=0,577), escolaridade ( p=0,663), renda (p=0,323) e estado conjugal ( p=0,314), 
+(Tabela 3).  
+A Tabela 3 apresenta a distribuição das variáveis sociodemográficas e econômicas de 
+acordo com o abuso e provável dependência de álcool.  
+ 
+Tabela 3 . Distribuição das variáveis sociodemográficas e econômicas dos idosos segundo o 
+abuso e provável dependência de álcool, Uberaba, Minas Gerais, Brasil, 2016  
+ Abuso e provável 
+dependência de álcool   
+ 
+Variáveis  Sim 
+(N=44)  Não 
+(N=122)   
+ N % N % RP* (IC)**  RCP***  (IC) **  p****  
+Sexo   
+Masculino  34 37,8 56 62,2 2,87 (1,52 -5,42)  4,00 (1,81 -8,82)  0,001  
+Feminino  10 13,2 66 86,8      
+Grupo Etário   
+60 |- 80 anos  39 27,3 104 72,7 1,25 (0,55 -2,84)  1,35 (0,46 -3,88)  0,577  
+80 ou mais  5 21,7 18 78,3      
+Escolaridade   
+Com 
+escolaridade  40 27,0 108 73,0 1,21 (0,49 -3,0) 1,29 (0,40 - 4,17)  0,663  
+Sem 
+escolaridade  4 22,2 14 77,8      
+Renda   
+> 1 salário 
+mínimo  29 29,3 70 70,7 1,30 (0,76 -2,24)  1,43 (0,70 -2,94)  0,323  
+≤ 1 salário 
+mínimo  15 22,4 52 77,6      
+Estado 
+conjugal   
+Sem 
+companheiro  23 30,3 53 69,7 1,29 (0,78 -2,15)  1,42 (0,71 -2,84)  0,314  
+Com 
+companheiro  21 23,3 69 76,7      
+Fonte: a autora, 2016.  
+Nota: *RP: Razão de prevalência; **IC: Interval o de confiança; ***RCP: Odds Ratio ; **** p <0,05.  51 
+ 
+Os idosos com indicativo de sintomas depressivos tiveram três vezes mais chance de 
+apresentar abuso e provável dependência do álcool ( p=0,004). Não se observou diferença 
+significativa, entre os grupos, para a variável número de morbidades autorreferidas ( p=0,284), 
+(Tabela 4).  
+ 
+Tabela 4 . Distribuição das variáveis morbidades autorreferidas e indicativo de sintomas 
+depressivos dos idosos segundo abuso e provável dependência de álcool, Uberaba, Minas 
+Gerais, Bra sil, 2016  
+ Abuso e provável 
+dependência de álcool   
+Variáveis  Sim 
+(N=44)  Não 
+(N=122)   
+ N % N % RP* (IC)**  RCP***  (IC) **  p****  
+Numero de 
+morbidades 
+autorreferidas    
+0 |- 5 14 21,9 50 78,1 1,34 (0,77 -2,33)  1,48 (0,71 -3,08)  0,284  
+5 ou mais  30 29,4 72 70,6      
+Indicativo de 
+sintomas 
+depressivos   
+Sim 16 45,7 19 54,3 2,13 (1,31 -3,48)  3,09 (1,41 -6,79)  0,004  
+Não 28 21,4 103 78,6      
+Fonte: a autora, 2016.  
+Nota: *RP: Razão de prevalência; **IC: Intervalo de confiança; ***RCP: Odds Ratio ; **** p <0,05.  
+ 
+No modelo final de regressão logística, consolidaram -se como fatores associados ao 
+abuso e provável dependência do álcool em idosos: sexo masculino ( p=0,001), e possuir com 
+indicativo de sintomas depressivos ( p=0,023).  
+Verificou -se que os idosos do sexo mas culino possuem seis vezes mais risco de abuso 
+e provável dependência do álcool (RCP=6,67; p=0,001); e apresentar com indicativo de 
+sintomas depressivos tem duas vezes mais chances de possuir abuso e provável dependência 
+do álcool (RCP=2,74; p=0,023) (Tabel a 5). 
+A Tabela 5 apresenta o modelo final de regressão logística binomial múltipla para as 
+variáveis associadas ao abuso e provável dependência de álcool. É importante destacar que as 
+variáveis descritas nesse processo foram selecionadas com base na litera tura específica (DIAS 
+et al., 2015; KANO; SANTOS; PILLON, 2014; MARTINS, 2014; HOECK; VAN HA L, 52 
+ 
+2012; PINHO, 2012; HALME et al., 2010;  PILLON et al., 2010; SENGER et al., 2011;  
+BLAY et al., 2009; CASTILLO  et al., 2008).  
+ 
+Tabela 5.  Modelo final de regressão  logística binomial múltipla para as variáveis associadas 
+ao abuso e provável dependência do álcool em idosos, Uberaba, Minas Gerais, Brasil, 2016  
+Variáveis   RCP*  (IC) **  p*** 
+Sexo  Masculino  6,67 (2,62 -16,96)  0,001  
+ Feminino     
+Estado conjugal  Sem compa nheiro  2,10 (0,93 -4,74)  0,074  
+ Com companheiro     
+Escolaridade  Com escolaridade  2,00 (0,55 -7,28)  0,290  
+ Sem escolaridade     
+Número de morbidades 
+autorreferidas  0 |- 5 doenças     
+ 5 doenças ou mais  2,28 (0,97 -5,35)  0,058  
+Indicativo de sintomas 
+depress ivos Sim 2,74 (1,15 -6,55)  0,023  
+ Não    
+Fonte: a autora, 2016.  
+Nota: *RCP: Odds Ratio ;**IC: Intervalo de confiança;*** p <0,05.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 53 
+ 
+5 DISCUSSÃO  
+ 
+5.1 PREVALÊNCIA DO ABUSO E PROVÁVEL DEPENDÊNCIA DO ÁLCOOL EM 
+IDOSOS  
+ 
+A prevalência do abuso e pro vável dependência do álcool nos idosos (26,8%) obtida 
+em investigação conduzida com 819 idosos, participantes de um estudo longitudinal com base 
+nos dados do Estudo SABE (Saúde, Bem -estar e Envelhecimento), no Município de São 
+Paulo/SP (DIAS et al., 2015) foi semelhante à da presente pesquisa.  
+Outra investigação obteve prevalência inferior (22%) em inquérito com 111 idosos 
+residentes na zona urbana de cinco bairros de abrangência de uma Unidade de Saúde da 
+Família (USF) do município de São Carlos, São Paul o (KANO; SANTOS; PILLON, 2014). 
+Verificou -se, também, em estudo longitudinal que utilizou dados do Estudo SABE realizado 
+com 1.184 idosos não institucionalizados, residentes no município de São Paulo/SP 
+prevalência inferior (20,9%), porém o instrumento usa do foi S MAST -G (Short Michigan 
+Alcoholism Screening Test Geriatric ) que corresponde a uma versão abreviada do instrumento 
+da atual pesquisa (PINHO, 2012). O mesmo se observou em inquérito de saúde de base 
+populacional realizado com 1.432 idosos residentes  na área urbana no município de 
+Campinas, São Paulo, onde constatou -se prevalência de 20,3%, porém, o instrumento 
+utilizado foi o AUDIT ( Alcohol Use Disorders Identification Test ) que mensura o uso abusivo 
+de bebidas alcoólicas (BORIM; BARROS; NERI, 2012).   
+Pesquisa com 1.563 idosos avaliou a prevalência do abuso de álcool  entre os idosos 
+residentes na cidade de São Paulo/SP e constatou que 9,1% dessa população faz o consumo 
+abusivo do álcool, entretanto o instrumento utilizado foi o CAGE ( Cut-down, Annoyed  by 
+criticism, Guilty e Eyeopener ) (HIRATA et al., 2009). Estudo transversal com base 
+populacional, que investigou aspectos relacionados ao consumo de bebidas alcoólicas da 
+população residentes na zona urbana de Jequié/BA, demonstrou que dos 270 participan tes 
+estudados, 14% era composto por idosos e que estes obtiveram prevalência de uso abusivo 
+para bebidas alcoólicas de 5,3% segundo o instrumento AUDIT e de 7,9% de dependência de 
+bebidas alcoólicas de acordo com o instrumento CAGE (FERREIRA et al., 2013).  Estudo de 
+prevalência, realizado com 134 idosos em Água Comprida /MG, verificou que 9% dos idosos 
+apresentaram abuso do álcool, contudo o instrumento utilizado foi o AUDIT (DINIZ; 
+TAVARES, 2013).  54 
+ 
+Estudos internacionais também apresentaram prevalências in feriores aos achados desta 
+pesquisa como os realizados na Finlândia  (SOMMER et a l., 2012) e no México (CASTILLO  
+et al., 2008). Em Kuopio, Finlândia , dos 300 idosos  entrevistados 9,7%  apresentaram abuso 
+de álcool ( SOMMER et al., 2012). Já em Monterrey, Méxi co, dos 112 idosos verificou -se que 
+18,4% também apresentaram prevalência de abuso e provável dependência de álcool 
+(CASTILLO  et al., 2008).  
+Em contrapartida, prevalências superiores foram obtidas em inquérito de saúde de base 
+populacional realizado com 1 .432 idosos residentes na área urbana no Município de 
+Campinas/SP, que constatou prevalência de 29,7%, porém o instrumento utilizado para 
+rastreio foi o AUDIT (BORIM; BARROS; BOTEGA, 2013). Na Finlândia outro estudo de 
+base populacional com idosos com 75 a nos ou mais, constataram também através do AUDIT 
+que 36,5% da amostra fazia uso abusivo de álcool (AIRA et al., 2008) e em Portugal em 
+pesquisa observacional transversal com 210 idosos com idade superior ou igual a 65 anos, a 
+prevalência encontrada para co nsumo abusivo do álcool foi de 32,9% (MARTINS et al., 
+2016).  
+Apesar das diferenças metodológicas dos estudos supracitados e da tipologia do abuso 
+da bebida alcoólica, os achados demonstram a relevância do abuso e provável dependência do 
+álcool no cenário n acional e internacional. Ressalta -se, porém que há uma dificuldade de 
+mensurar o uso e abuso do álcool na velhice uma vez que tais levantamentos muitas vezes 
+apresentam diferentes definições e conceitos, padrões de consumo, critérios diagnósticos, bem 
+como  inúmeros instrumentos de rastreio para diversas faixas etárias (LOPES et al., 2010; 
+KANO; SANTOS; PILLON, 2014).  
+Outro fato que se pode considerar são as condições de saúde em que se encontram os 
+idosos em diferentes contextos. Apesar das diferenças desc ritas, observam -se no geral taxas 
+elevadas de abuso de álcool entre os idosos.  
+A prática de consumo abusivo de substâncias alcoólicas entre os idosos vem se 
+intensificando e se tornando um problema de saúde pública, com consequências nítidas na 
+qualidade d e vida dessas pessoas, na família e na sociedade (SILVA, 2012).  
+O consumo abusivo de álcool predispõe os idosos a maiores riscos de vulnerabilidades 
+para o desenvolvimento de distúrbios físicos, psicológicos e sociais, que muitas vezes não são 
+identificado s pelos profissionais nos diferentes serviços de saúde. Desta forma, as estimativas 
+do consumo atual de álcool na população idosa são variadas, porém suas consequências nesta 
+etapa da vida têm causado grande impacto nos cuidados de saúde (KANO; SANTOS; 
+PILLON, 2014).  55 
+ 
+Diante das prevalências descritas, o problema do uso abusivo e crônico do álcool em 
+idosos vem inquietando os estudiosos e pesquisadores, além dos profissionais de saúde, no 
+que diz respeito a estratégias mais eficazes para resultados mais efic ientes perante as pessoas 
+nessas situações (OLIVEIRA; GONÇALVES; LODOVICI, 2013). Além disto, o  consumo do 
+álcool dificilmente é identificado como um problema para os idosos, o que faz com que eles 
+resistam à procura de tratamento (WANG; ANDRADE, 2013).  
+Em relação ao tema alcoolismo em idosos a carência de protocolos que auxiliem os 
+profissionais de saúde na investigação adequada dos problemas relacionados ao álcool pode 
+dificultar no diagnóstico, e até mesmo o fato de familiares, cuidadores e amigos contri buírem, 
+inconscientemente , com os idosos em negar a presença de problemas relacionados ao álcool 
+(KANO; SANTOS; PILLON, 2014) . 
+Uma estratégia para a identificação do abuso de álcool entre os idosos é a visita 
+domiciliar realizada na atenção primária.  A ate nção domiciliária contribui com a compreensão 
+do espaço social dos idosos e familiares  e as principais dificuldades vivenciadas, aumentando 
+as possibilidades de atuação dos profissionais de saúde e o estabelecimento de parcerias para 
+a realização do cuidad o (OLIVEIRA; TAVARES, 2010), sendo capaz de intervir no ambiente 
+por meio da promoção de alterações dinâmica familiar, encaminhamentos para outros 
+profissionais e o acompanhamento contínuo. Diante disso, os profissionais de enfermagem 
+destacam que a visita  domiciliária é um espaço privilegiado na atenção à saúde dos idosos 
+(OLIVEIRA; TAVARES, 2010). Sendo que a s atitudes desenvolvidas pelos enfermeiros são 
+fundamentais para a promoção da participação dos idosos e dos familiares na prática dos 
+cuidados domic iliares ( GAGO; LOPES, 2012).  
+Deste modo, torna -se fundamental em todos os níveis de atenção a interação entre a 
+equipe multiprofissional de saúde, com a finalidade de identificar os idosos com histórico 
+precedente de alcoolismo, e também aqueles com riscos  potenciais para a sua ocorrência.  
+ 
+5.2 CARACTERIZAÇÃO DOS IDOSOS  
+ 
+5.2.1 Perfil sociodemográfico e econômico dos idosos  
+ 
+Entre os idosos com abuso e provável dependência de álcool, o maior percentual de 
+pessoas do sexo masculino é condizente com investiga ções nacionais realizados na 
+comunidade de São Paulo/SP (29,6%) (PINHO, 2012), Água Comprida/MG (19,3%) (DINIZ; 
+TAVARES, 2013), Divinópolis/MG  (67,9%) (CANTÃO et al., 2015) , Rio Grande do Sul/RS  56 
+ 
+(25,3%) (BLAY et al., 2009)  e no hospital das clínicas de São  Paulo/SP (20%) 
+(SECRETARIA DE ESTADO DA SAÚDE, 2010); e internacionais como as conduzidas na 
+comunidade da Finlândia ( 20,3%) (HALME et al., 2010), Bélgica (43,3%) (HOECK; VAN 
+HAL, 2012) , México ( 77,3%) (CASTILLO  et al., 2008) e Portugal (56,2%) (MARTINS et 
+al., 2016). Em estudo transversal de base populacional realizado com 832 idosos no 
+ambulatório de Geriatria e Gerontologia do Hospital São Lucas da cidade de Porto Alegre/RS,  
+também constatou prevalência do sexo masculino em 28,8% dos idosos (SENGER et al., 
+2011).  
+Em contrapartida em pesquisa com idosos residentes na zona urbana de São Carlos/SP 
+constataram o sexo feminino como o mais frequente (46,3%) (KANO; SANTOS; PILLON, 
+2014) . As mulheres idosas constituem um subgrupo que requer atenção específica, uma vez 
+que para elas a progressão do consumo do álcool à dependência tende a acontecer com mais 
+rapidez e as consequências adversas dão início mais previamente (LIMA, 2014; CEYLAN -
+ISIK, 2010 ). Outro fator importante são que as idosas estão mais propensas que os homens a 
+fazerem uso de medicamentos de prescrição como analgésicos, tranquilizantes, sedativos, 
+estimulantes e antidepressivos (WANG; ANDRADE, 2013), sendo essa interação 
+medicamentosa com o consumo do álcool altamente prejudicial à saúde.  
+Os homen s possuem algumas desvantagens em relação às mulheres, em virtude de 
+trabalharem fora de casa, possuem restrições de horário para comparecerem aos serviços de 
+saúde,  além de serem mais predispostos a hábitos como alcoolismo, uso de drogas, tabagismo 
+e maio r risco de envolvimento de acidentes de trabalho e de trânsito (CHAIMOWICZ et al., 
+2013). Geralmente, os homens não possuem o hábito de realizar consultas e exames de rotina 
+que auxiliem no diagnóstico e até mesmo para a prevenção de alguns distúrbios ( LIMA, 
+2014), o que os levam a comparecerem nos serviços de saúde já nos estágios mais avançados 
+das doenças.  
+Um dos argumentos apontados pelos homens para a não procura pelos serviços de 
+saúde está relacionada à sua posição de provedor. Eles relatam que o hor ário de 
+funcionamento dos serviços coincide com a carga horária de trabalho. A preocupação 
+masculina com a atividade laboral tem bastante relevância, principalmente naqueles com 
+baixa condição social, o que intensifica o papel historicamente imposto ao hom em de ser 
+responsável pelo sustento da família. Entretanto, destaca -se que em muitos casos as mulheres 
+também estão inseridas no mercado de trabalho, e este fato não interfere que elas procurem os 
+serviços de saúde (BRASIL, 2008).  57 
+ 
+Outra questão empregada é  a dificuldade de acesso aos serviços assistenciais, 
+argumenta -se que, para marcar as consultas é necessário enfrentar filas extensas e que em 
+muitas das vezes, os fazem perder o dia inteiro de trabalho, sem que necessariamente 
+resolvam suas demandas em um a única consulta (GOMES; NASCIMENTO; ARAÚJO, 2007; 
+KALCKMANN; BATISTA; SOUZA, 2005; SCHRAIBER, 2005).  
+Ainda em relação aos sexos, evidencia -se no Brasil o processo de envelhecimento 
+humano com maior longevidade para a mulher. Em 1950 encontrava -se, aproxi madamente, 
+100 homens para cada 100 mulheres na faixa etária de 65 a 69 anos, mas em 2000 eram 81 e 
+em 2020 deverão ser 78 homens para cada 100 mulheres (CAMARANO, 2004 ; 
+CHAIMOWICZ et al., 2013).  
+Um fator importante para esse achado é o fato de se ter a pr esença, mais frequente, de 
+mulheres nos serviços de saúde comparados aos homens. As mulheres fazem 
+acompanhamentos ginecológicos periodicamente, rastreamento de neoplasias e ainda possuem 
+a tarefa de acompanhar os filhos nestes serviços. Portanto, as visit as aos serviços de saúde 
+representam oportunidades de diagnóstico precoce para várias doenças ainda em estágios 
+assintomáticos (CHAIMOWICZ et al., 2013).  
+A propensão de consumo abusivo de álcool pelos homens pode ser consequência da 
+sobremortalidade mascul ina em todas as faixas etárias e para a maioria das causas de morte. 
+Provavelmente relaciona -se a este fato à maior exposição dos homens a fatores de risco, tais 
+como o álcool, fumo, aos acidentes de trânsito e de trabalho, e ao aumento da mortalidade por 
+doenças cardiovasculares (CHAIMOWICZ et al., 2013; BRASIL, 2003).  
+A Política Nacional de Atenção Integral à Saúde do Homem ressalta a necessidade do 
+“reconhecimento de determinantes sociais que resultam na vulnerabilidade da população 
+masculina aos agravos  à saúde, considerando que representações sociais sobre a 
+masculinidade comprometem o acesso à atenção primária, bem como repercutem de modo 
+crítico na vulnerabilidade dessa população a situações de violência e de risco para a saúde” 
+(BRASIL, 2008, p.7), o  que se torna ainda mais relevante diante da população idosa. Desta 
+forma, avaliar os determinantes de vulnerabilidade do homem para os problemas relacionados 
+com o álcool torna -se de extrema importância , sendo imprescindível para a criação de ações 
+efetiv as de prevenção e promoção da saúde (BRASIL, 2008) . 
+De acordo com essa realidade, os idosos constituem a cada dia uma parcela maior dos 
+usuários a serem atendidos nos serviços de saúde de uma forma geral. As necessidades de 
+saúde equivalentes se diversific am desde a promoção da saúde e prevenção primária de 58 
+ 
+doenças, bem como acompanhamento de doenças crônicas não transmissíveis, dado que pode 
+ser considerado o caso da dependência de álcool (SAIDEL, 2010).  
+Se os homens realizassem com frequência as medidas de prevenção primária , 
+inúmeros agravos poderiam ser evitados. A resistência masculina diante do atendimento 
+intensifica não somente a sobrecarga financeira da comunidade, mas também, a preocupação 
+física e emocional destes homens e de seus familiares, na luta pelo cuidado da saúde e da 
+qualidade de vida dessas pessoas (BRASIL, 2008) .  
+Diante disso, os idosos, especialmente os homens devem ser conscientizados sobre os 
+malefícios da prática do uso do álcool nessa faixa etária e fixadas ações preventivas e de  
+hábitos saudáveis por meio de promoção da saúde.  
+Nessa perspectiva, torna -se necessário mais estudos, capacitação e conscien tização por 
+parte dos profissionais de saúde que são essenciais para a melhoria na identificação e 
+implementação de intervenções mais eficientes junto a essas pessoas. Propõe -se, portanto, que 
+haja uma articulação mais efetiva entre os serviços de saúde, principalmente a atenção 
+primária que é primordial para a promoção dos cuidados, sobretudo nos programas de 
+geriatria e gerontolog ia e nos serviços qualificados no tratamento do uso de substâncias 
+psicoativas (KANO; SANTOS; PILLON, 2014).  
+Em relação à faixa etária, assim como na presente investigação, o predomínio de 
+idosos entre 60 | - 70 anos também foi obtido entre participantes de  estudo longitudinal com 
+base nos dados do Estudo SABE, no município de São Paulo/SP ( 83,4%) (DIAS et al., 2015); 
+em estudo transversal de base populacional no Rio Grande do Sul/RS (44,8 %) (SENGER et 
+al., 2011); em pesquisa com idosos da comunidade  também no Rio Grande do Sul/RS  (56,8%) 
+(BLAY et al., 2009); e em e studo epidemiológico, retrospectivo realizado no Centro de 
+Atenção Psicossocial ( CAPS ) da cidade de Divinópolis/MG (56,5%) (CANTÃO et al., 2015). 
+Verificou -se também em estudo desenvolvido com idos os residentes no município de São 
+Paulo/SP, prevalências nas faixas etárias de 60 | - 65 anos (37,0%) e 65 | - 70 anos (34,8%) 
+(PINHO, 2012), condizendo com a presente pesquisa.  
+Em São Carlos/SP em pesquisa com idosos residentes na zona urbana, a idade médi a 
+foi de 70 anos (DP±6,9) (KANO; SANTOS; PILLON, 2014). Já em Ribeirão Preto/SP em 
+estudo realizado com idosos atendidos no Centro de Atenção Psicossocial Álcool e Drogas a 
+média de idade foi de 64 anos (DP±4,62), com variação de 60 a 81 anos ( PILLON et al ., 
+2010).  
+Em relação à idade foi constatado aumento na abstinência ao álcool conforme 
+elevação da idade, isto é, as maiores prevalências de uso de álcool, foram encontradas dentre 59 
+ 
+os idosos mais novos (PINHO, 2012). Assim como na presente pesquisa o abuso e provável 
+dependência do álcool tende a diminuir com a idade, sendo sua prevalência menor dentre os 
+idosos mais velhos.  Destaca -se que o consumo abusivo de álcool é mais frequente em 
+determinados grupos sociodemográficos, como sexo masculino e idosos mais  jovens ( BLAY 
+et al., 2009).  
+Alguns autores afirmam que o índice de consumo de álcool é menor na velhice, 
+eventualmente, devido a fatores como: morte precoce dessas pessoas que por beberem no 
+decorrer de suas vidas não atingem a terceira idade, diminuição ou interrupção do consumo da 
+substância alcoólica, ou ainda, a resistência dos idosos em mencionar o uso de álcool, seja por 
+vergonha ou por pensarem que o consumo é inadmissível nesta idade. Alegam ainda a 
+existência de poucos estudos conduzidos por profi ssionais da saúde (HOLBERT; TUETH, 
+2004; KIRCHNER et al., 2007).  
+Portanto, o uso crônico da substância alcoólica diminuiria a expectativa de vida 
+fazendo com que várias pessoas com esse padrão de consumo não alcancem as idades mais 
+avançadas (HALME et al. , 2010).  
+Diante disso, durante a assistência de enfermagem, é necessário considerar a faixa 
+etária do idoso, bem como as limitações decorrentes da idade. E a partir dessas referencias, o 
+enfermeiro deve desenvolver atividades visando o tratamento mais efic iente do abuso do 
+álcool, tornando o atendimento mais rápido e mais resolutivo (LIMA, 2014).  
+No que refere ao estado conjugal, os achados na literatura nacional (PINHO, 2012; 
+KANO; SANTOS; PILLON, 2014; DIAS et al., 2015; SECRETARIA DE ESTADO DA 
+SAÚDE, 201 0; SENGER et al., 2011; PILLON et al., 2010; DINIZ; VOLPE; TAVARES, 
+2007 ) e internacional (CASTILLO  et al., 2008),  corroboram com o resultado desta pesquisa 
+que obtiveram maior percentual de idosos casados com abuso e provável dependência de 
+álcool. Uma ex plicação provável para a prevalência de idosos casados não está associado 
+exclusivamente ao vínculo matrimonial, mas também aos fatores a ele associados, como é o 
+caso da situação econômica, que pode levar em momentos difíceis a uma desordem na 
+convivência  familiar e no relacionamento com o cônjuge e  filhos (CASTILLO et al., 2008); 
+desta forma o álcool serve como uma “válvula de escape” para tais problemas.  
+Resultados divergentes foram identificados em estudo com idosos residentes na zona 
+urbana de J equié /BA (FERREIRA et al., 2013) do Rio Grande do Sul/RS (BLAY et al., 2009) 
+e dos EUA (MERRICK et al., 2008; LIN et al., 2011), em que a maior frequência dos 
+entrevistados não era casado. Pesquisa traz que o vínculo matrimonial serve como apoio 
+social à persistê ncia dessas pessoas nos grupos de abstinentes (ALVARES, 2013), ou seja, os 60 
+ 
+casados recebem maior apoio dos cônjuges e familiares para permanecerem nos serviços 
+especializados de saúde para o tratamento da doença e recebem também suporte emocional, 
+que faz com que o mesmo dê continuidade e permaneçam abstêmios.  
+Eventos que levam ao estresse psicossocial, como a separação, viuvez, perda de 
+amigos e solidão, podem ser evidenciados como motivos para o aumento da ingestão de 
+bebidas alcoólicas (MARTINS, 2014). P esquisadores descrevem que, habitualmente, um dos 
+fatores que podem levar os idosos a se renderem à dependência alcoólica é a perda dos 
+companheiros, seja por morte ou término do relacionamento. Destaca -se ainda que essas 
+pessoas que se envolvem com o álco ol, com o passar do tempo podem perder suas casas, seus 
+empregos, a dignidade e passarem a viver em situação de rua. Há de se considerar também a 
+falta de estrutura familiar concreta e de ferramentas advindas da própria comunidade, como 
+internações ou trat amentos ambulatoriais, que apoiem o idoso e seus familiares nesta situação 
+(OLIVEIRA; GONÇALVES; LODOVICI, 2013).  
+Porém, em relação ao estado conjugal, não há um consenso na literatura científica 
+sobre o estado civil e sua possível associação com álcool, n a medida em que há estudos que 
+verificaram maiores chances entre os casados (PINHO, 2012; KANO; SANTOS; PILLON, 
+2014; DIAS et al., 2015; SECRETARIA DE ESTADO DA SAÚDE, 2010;  SENGER et al., 
+2011; PILLON et al., 2010; DINIZ; VOLPE; TAVARES, 2007; CASTILLO  e t al., 2008) e 
+outros que direcionam maior risco para divorciados/separados/viúvos/solteiros (BLAY et al., 
+2009; MERRICK et al., 2008; LIN et al., 2011).  
+Quanto à escolaridade, dados de pesquisa realizada na comunidade do município do 
+Rio Grande do Sul/RS  apresentaram maior percentual de idosos com abuso de álcool com 
+escolaridade de 1 | - 5 anos (66%) (BLAY et al., 2009), condizendo com achados do presente 
+estudo. Resultados divergentes com maior escolaridade foram encontrados em pesquisas 
+nacionais (SENGER  et al., 2011; PINHO, 2012; PILLON et al., 2010 ) e internacional 
+(CAS TILLO  et al., 2008). Em contrapartida estudos nacionais (DIAS et al., 2015; DINIZ; 
+VOLPE; TAVARES, 2007) obtiveram menor escolaridade do que a apresentada na atual 
+pesquisa.  
+No município de São Carlos/SP em pesquisa com idosos residentes na zona urbana, f oi 
+observada uma média de escolaridade de três anos de estudo (Dp±3) ( KANO; SANTOS; 
+PILLON, 2014).  
+O processo de envelhecimento está associado de particularidades como alterações na 
+cogniç ão, que envolve a memória e o comprometimento no registro de novas informações 
+(MORAES; MORAES; LIMA, 2010). Menores níveis educacionais estão geralmente 61 
+ 
+associados a maiores prevalências de problemas relacionados com o álcool (CENTRO DE 
+INFORMAÇÕES SOBRE SAÚDE E ÁLCOOL, 2003).  
+Entre idosos, o baixo nível de escolaridade é uma resposta advinda da estrutura social 
+na qual ele está inserido, influenciando os hábitos de vida e o acesso à informação e aos 
+serviços preventivos de saúde (SÁNCHEZ -GARCÍA et al., 2 013; OLIVEIRA et al., 2013), 
+sendo capaz de repercutir em uma pior compreensão de saúde e qualidade de vida 
+(OLIVEIRA et al., 2013).  
+A literatura científica descreve que o baixo nível de escolaridade é classificado como 
+um fator de risco potencial para o abuso e dependência de substâncias psicoativas (HIRATA 
+et al., 2009). Por vezes, essas pessoas não compreendem como o uso dessas substâncias 
+psicoativas atuam no organismo causando graves consequências à sua saúde, principalmente 
+em relação às drogas lícit as (que é o caso do álcool) e as medicações prescritas com 
+potenciais de risco para o abuso ( PILLON et al., 2010). Uma das formas de prover o êxito em 
+relação ao autocuidado nos idoso é por meio do desenvolvimento de educação em saúde pelo 
+enfermeiro, disp ondo de ferramentas apropriadas à sua escolaridade, desempenhando, ainda, 
+testes para detectar a assimilação do conhecimento perante estas pessoas.  
+A média de anos de estudo no Brasil é de 4,7 anos entre os idosos, com diferenças 
+entre as regiões brasileir as (INSTITUTO BRASILEIRO DE GEOGRAFIA E 
+ESTATÍSTICA, 2014). Este é mais um desafio que o país enfrenta, considerando que a maior 
+escolaridade está relacionada à melhor es entendimentos de diagnósticos médicos e precauções 
+com a saúde (LOURENÇO; LENARDT; KLE TEMBERG, 2012), procedendo em melhores 
+possibilidades de prevenção de doença e promoção de saúde quanto aos resultados adversos 
+do abuso do álcool.  
+O percentual da renda mensal individual de 1 -| 3 salários mínimos obtido nessa 
+pesquisa também foi encontra do em investigação entre idosos na comunidade do município 
+de São Paulo/SP (21,5%) (PINHO, 2012). Resultado divergente foi identificado no inquérito 
+entre idosos no Rio Grande do Sul/RS, no qual, a maioria dos idosos com abuso de álcool 
+declarou receber me nos de um salário mínimo mensalmente (62,1%) (BLAY et al., 2009). 
+Estudo transversal de base populacional também realizado no Rio Grande do Sul/RS obteve 
+resultado superior, com maior percentual de renda de 2 a 5 salários mínimos (38 %) (SENGER 
+et al., 2011 ). 
+Os cuidados com a saúde envolvem a influência de diversos fatores, entre eles, a 
+renda. No Brasil, 41,6% dos idosos apresentavam renda per capita igual ou inferior a um 
+salário mínimo, sendo a principal fonte de rendimento a aposentadoria ou pensão (67, 6%) 62 
+ 
+(INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2014). Considera -se que a 
+renda é um fator que influencia no acesso aos serviços de saúde, assim como na satisfação 
+com os rendimentos (LEVORATO et al., 2014). Além disso, a dificuldade na obtenção de 
+medicamentos (BOING; BERTOLDI; PERES, 2011) e de alimentação (VIEBIG et al., 2009) 
+pode ocasionar em déficits na saúde e maior vulnerabilidade a resultados adversos.  
+Diante disso, por meio da Estratégia de Saúde da Família (ESF) é possível contribuir 
+para a reafirmação da equidade, princípio do SUS que objetiva minimizar as desigualdades 
+existentes entre grupos que apontam diferentes condições socioeconômicas, levando em conta 
+a necessidade na atenção à saúde (FERNANDES; BERTOLDI; BARROS, 2009). Neste 
+conte xto, as assistências prestadas na saúde pública devem ser pertinentes às condições 
+econômicas dos idosos, visando oferecer um tratamento efetivo e com qualidade.  
+Neste contexto, os idosos usuários do álcool merecem atenção especial dos 
+profissionais de saú de e, em especial da enfermagem, e uma estratégia para a melhoria dos 
+atendimentos a essa população é a visita domiciliar. Pois, no decorrer da visita é necessário 
+que o profissional tenha uma visão minuciosa voltada para o âmbito familiar e para as 
+condiç ões desses idosos, com propósito de identificar possíveis sinais que possam ser 
+associado s ao abuso e provável dependência de álcool.  
+ 
+5.2.2 Perfil clínico e indicativo de sintomas depressivos dos idosos  
+ 
+Condizendo com os achados do presente estudo, pesq uisas nacionais verificaram que 
+os idosos que tiveram abuso e provável dependência de álcool  apresentaram cinco ou mais 
+morbidades (DIAS et al., 2015; PINHO, 2012).  
+Muitos idosos da presente pesquisa demonstraram preocupação em relação ao 
+consumo do álcool  por razões de saúde e por orientações de profissionais de saúde como 
+médicos e enfermeiros. Problemas resultantes do uso de álcool estão na lista dos maiores 
+causadores de problemas de saúde no mundo, sendo que o álcool afeta praticamente todos os 
+sistema s orgânicos do corpo em diferentes níveis (SECRETARIA NACIONAL DE 
+POLÍTICAS SOBRE DROGAS, 2016).  
+O álcool funciona no organismo como depressor do SNC (SENAD, 2012), 
+proporcionando efeitos farmacológicos e tóxicos sobre o cérebro, causando alterações 
+compor tamentais e afetivas, interferindo diretamente nas relações sociais e no cotidiano da 
+pessoa, além de predispor à dependência. Além da ação no SNC o álcool atua também sobre o 
+SNP e sobre o Sistema Cardiovascular principalmente, mas de maneira geral, causa  63 
+ 
+consequências aos demais sistemas orgânicos do corpo direta ou indiretamente (RIBEIRO; 
+ANDRADE, 2007; FIGLIE; BORDINO; LARANJEIRA , 2010 ). 
+É importante salientar que, entre os idosos, o abuso de fármacos é mais frequente 
+devido às várias comorbidades exist entes nesta faixa etária, principalmente de medicamentos 
+para tratamento de depressão, ansiedade e outras doenças (SECRETARIA NACIONAL DE 
+POLÍTICAS SOBRE DROGAS, 2016). Evidencia -se que 90% dos idosos tomam algum tipo 
+de medicação diariamente, sendo que mu itos fármacos prescritos para situações cotidianas 
+possuem um potencial de interação com o álcool, que resultam em prejuízos a saúde dessas 
+pessoas (OLIVEIRA, 2016).  
+Os idosos em sua maioria estão polimedicados, tornando -os mais suscetíveis às 
+reações adve rsas que possam decorrer da interação entre o álcool e os fármacos; como por 
+exemplo, o álcool potencializa o efeito sedativo das benzodiazepinas (grupo de  fármacos  
+ansiolíticos utili zados como sedativos, hipnóticos, relaxantes musculares, dentre outros), 
+aumentando a probabilidade de quedas e fraturas, que são uma das principais causas de morte 
+nos idosos ( COUSINS et al., 2014; MOORE; WHITEMAN; WARD, 2007). Verifica -se que, 
+mesmo o co nsumo considerado moderado pode ser perigoso para os idosos, visto que 
+constantemente eles apresentam diversas comorbidades crônicas (OLIVEIRA, 2016).  
+Já o abuso de álcool e drogas vem aumentando, especialmente, nas pessoas que 
+iniciaram o uso ainda quando  jovens. Devido às transformações fisiológicas que ocorrem na 
+velhice, os efeitos do álcool e das drogas são diferentes, podendo acarretar problemas mais 
+graves mesmo se consumidos em poucas quantidades (SECRETARIA NACIONAL DE 
+POLÍTICAS SOBRE DROGAS, 2016) . 
+Desta forma, os idosos usuários de álcool podem ficar mais propensos a enfermidades, 
+tais como  cirrose, pancreatite, afecções do SNC, comorbidades psiquiátricas, inúmeros tipos 
+de cânceres e agravamentos de sintomas preexistentes  (HULSE, 2002; PILLON, 20 05; 
+HERMAN; SADOVSKY, 2010) . 
+Há também nos idosos especificamente, alguns problemas que predispõem ao abuso 
+de substâncias psicotrópicas. Diversas doenças crônicas, que ocorrem com mais prevalência 
+nessa faixa etária podem estar relacionadas a um maior con sumo de álcool e outras drogas. 
+Problemas auditivos e de visão correspondem a perdas funcionais frequentes, que podem 
+surgir com o envelhecimento e provocam sentimentos de isolamento, solidão e tristeza. Deste 
+modo, o álcool e outras drogas podem se tornar  meios para enfrentar estes sentimentos 
+desagradáveis ou um modo de esquecer tais distúrbios (SECRETARIA NACIONAL DE 
+POLÍTICAS SOBRE DROGAS, 2016).  64 
+ 
+Uma das maiores dificuldades encontrada na abordagem das pessoas com 
+comorbidades está no diagnóstico difere ncial, pois ocorre uma superposição de sintomas. Um 
+distúrbio pode expandir ou encobrir o outro; por exemplo, intoxicação por consumo abusivo 
+de álcool ou estimulantes, pode gerar sintomas de mania ou hipomania à medida que se 
+manifesta à abstinência da su bstância, sintomas de ansiedade e depressão também podem ser 
+revelados com frequência. Contudo, não é fácil, no começo, determinar diferenças entre a 
+presença de comorbidade psiquiátrica e abuso de substâncias psicoativas (FEITOSA et al., 
+2016; SECRETARIA NACIONAL DE POLÍTICAS SOBRE DROGAS, 2016).  
+Em relação ao indicativo de sintomas depressivos , a atual pesquisa apresenta maior 
+percentual de idoso com ausência de tais sintomas , dados condizentes com investigações 
+nacionais  (DIAS et al., 2015; PINHO, 2012) e internacionais (HOECK; VAN HA L, 2012; 
+FLOWERS et al., 2008).  
+Resultado divergente foi encontrado entre idosos na comunidade do município de Rio 
+Grande do Sul/RS , em que a maior frequência dos idosos usuários de álcool tinha indicativo 
+de sintomas depress ivos (BLAY et al., 2009). Outros estudos nacionais também obtiveram 
+maiores percentuais de sintomas depressivos ( CANTÃO et al., 2015; SAIDE, 2011).  
+Houve prevalência maior de tais sintomas também em estudos realizados nos Estados 
+Unidos com idosos com 65 anos ou mais,  beneficiários do plano de saúde Medicare  que 
+vivem na comunidade  (MERRICK et al., 2008), os atendidos no programa de atenção 
+primária (KIRCHNER et al., 2007) e em outros estudos internacionais (CAPUTO et al., 2012; 
+NADKARNI et al., 2011; AIRA  et al., 2008).  
+Os transtornos psiquiátricos mais relacionados ao alcoolismo são: depressão, 
+transtornos de ansiedade, alimentares e de estresse pós -traumático. E tratamentos apropriados 
+para estas doenças são essenciais para a superação dos problemas rela cionados com álcool 
+(SECRETARIA NACIONAL DE POLÍTICAS SOBRE DROGAS, 2016).  
+A associação entre uso de substâncias alcoólicas e indicativo de sintomas depressivos 
+requer atenção no que diz respeito à saúde (CANTÃO et al., 2015). Revisão de literatura 
+verific ou o indicativo de sintomas depressivos como recorrente precursora do abuso de álcool, 
+mas também o consumo abusivo do álcool como agravante desse transtorno (POMPILI et al., 
+2010 ).  
+O consumo do álcool acontece muitas das vezes como meio de fuga ou canali zação 
+dos sintomas do diagnóstico de depressão podendo provocar sintomatologia mais grave como 
+a presença de um quadro agudo de depressão juntamente com os efeitos do abuso do álcool, 
+bem como desfechos mortais, como o autoextermínio, sendo esses problemas  mentais os 65 
+ 
+principais fatores de risco para a ocorrência do suicídio (WHO, 2014 ). Desta forma, 
+reafirmar -se a importância de averiguar as características de risco dos idosos com o proposito 
+de desempenhar as atividades de forma adequada, dando suporte psi cossocial e evitando a 
+antecipação do término da vida  (CANTÃO et al., 2015).  
+A depressão é uma das principais causas de incapacitação mundialmente e aparece em 
+quarto lugar entre as dez principais causas patológicas no mundo (OMS, 2001). De acordo 
+com as projeções, nos próximos 20 anos a depressão será a segunda das principais causas de 
+doenças mundialmente. Cerca de 70 milhões de pessoas sofrem dependência do álcool em 
+todo o mundo, outros 24 milhões sofrem de esquizofrenia e um milhão de pessoas cometem 
+suicídio anualmente sendo que entre 10 e 20 milhões tentam suicidar -se (OMS, 2001), tais 
+eventos são relativos ao indicativo de sintomas depressivos. Diante disso, cabe a equipe de 
+enfermagem na atenção primária realizar o rastreamento do indicativo de sin tomas 
+depressivos nos idosos, especialmente nos que fazem uso abusivo de álcool, visando 
+identificar a síndrome ainda nos estágios iniciais e instaurar programas de tratamento voltados 
+para as necessidades desses idosos.  
+A prática de ingestão do álcool em idosos deve ser observada com atenção, pois 
+muitas vezes eles voltam ou dão início ao consumo desta substância como substituto dos seus 
+desajustes psíquicos e sociais (SÃO PAULO, 2009).  
+Por vários motivos os idosos não assumem o consumo do álcool, seja por  
+constrangimento; insegurança; medo; demência, estilo de vida e/ou isolamento, o que 
+prejudica ainda mais a identificação do abuso e impossibilita o início de intervenções precoce 
+(PILLON et al., 2010).  
+Deste modo, é de suma importância que o usuário de ál cool e outras drogas seja 
+tratado de maneira holística, dando destaque na prevenção de doenças e promoção da saúde, 
+do mesmo modo que promova o acompanhamento deste idoso por meio de diferentes redes e 
+linhas de cuidados, com a finalidade de reduzir os dan os à sua saúde ( MOREIRA  et al., 
+2016).  
+Em síntese, reforça -se a necessidade de avaliar sistematicamente todos os idosos em 
+relação ao consumo de álcool por meio de instrumentos de rastreamento de fácil utilização 
+nas consultas de rotina. Além disso, para e ste grupo, pode ser necessário reduzir o limiar 
+diagnóstico para identificar o uso nocivo do álcool e instalar programas de tratamento 
+consistentes com suas necessidades específicas (WANG; ANDRADE, 2013).  
+ 66 
+ 
+5.3 FATORES ASSOCIADOS AO ABUSO E PROVÁVEL DEPENDÊ NCIA DO ÁLCOOL 
+EM IDOSOS  
+ 
+A associação de abuso e provável dependência do álcool ao sexo masculino esteve 
+presente em pesquisas nacionais ( CANTÃO et al., 2015; DINIZ; TAVARES, 2013; PINHO, 
+2012; BLAY et al., 2009; CASTRO -COSTA et al., 2008; HIRATA et al., 2009; ALMEIDA -
+FILHO et al., 2004) e internacionais (MARTINS et al., 2016; HOECK; VAN HA L, 2012; 
+NADKARNI et al., 2011; HALME et al., 2010; CASTILLO et al., 2008; MERRICK et al., 
+2008; KIRCHNER et al., 2007; MOORE et al., 2005; FINK et al., 2002; DUNNE, 199 4).  
+Estudo realizado em um CAPSAD  detectou que 90,6%  dos registros verificados na 
+instituição eram referentes ao sexo masculino (PILLON et al., 2010) . Outra pesquisa, com a 
+finalidade de relacionar atividade física, etilismo e tabagismo entre os idosos, d emonstrou 
+associação do sexo masculino com o consumo de álcool e tabaco (SANTOS, 2014 ) 
+constatando a prevalência do gênero em relação ao consumo da substância alcoólica 
+(CANTÃO et al., 2015).  
+Nota -se na presente pesquisa que ser do sexo masculino está fort emente associado ao 
+abuso de álcool, corroborando com os achados da literatura. Esta associação foi previamente 
+demonstrada em diversas populações idosas e presume -se estar diretamente ligada com os 
+fatores socioculturais (MARTINS et al., 2016; CANTÃO et a l., 2015; CASTILLO et al., 
+2008).  
+Resultados semelhantes foram encontrados em e studo epidemiológico, retrospectivo, 
+realizado no CAPS da cidade de Divinópolis/MG no qual 39,9% da amostra que consumiam o 
+álcool de forma abusiva eram compostas por homens e 2 2,9% por mulheres (CANTÃO et al., 
+2015). Em Portugal, encontram prevalência de consumo de risco do álcool em 32,9% dos 
+idosos, com maior prevalência também entre os homens (56,2%), em comparação com as 
+mulheres (15,7%) (MARTINS et al., 2016). Na Finlândia também encontraram grandes 
+diferenças na prevalência de consumo abusivo de álcool em relação ao gênero, com 20,3% 
+dos h omens e 1,2% em mulheres (HALME  et al., 2010).  
+No que diz respeito à questão do gênero e sua influência no consumo de álcool, 
+observa -se que existe uma tendência maior dos homens beberem abusivamente e terem mais 
+prejuízos em relação ao álcool se comparados às mulheres (PYNE; CLAESON; CORREIA, 
+2002). Em contrapartida, as mulheres, sobretudo as mais velhas, dispõe de riscos e 
+vulnerabilidad es específicas referentes ao consumo de álcool, incluindo o desenvolvimento 
+mais acelerado dos problemas relativos ao beber, maior sensibilidade a substâncias alcoólicas 67 
+ 
+e drogas psicoativas, bem como, maior estigmatização social comparadas aos homens mais  
+velhos (BLOW, 2000).  
+O consumo do álcool é diferente entre os gêneros e várias características biológicas, 
+psicológicas e psicossociais contribuem para este fato. O corpo da mulher possui menor 
+quantidade de água (51%) em relação ao do homem (65%) o que e stabelece que, com o 
+consumo da mesma quantidade de álcool, a concentração no organismo feminino será maior 
+(SECRETARIA NACIONAL DE POLÍTICAS SOBRE DROGAS, 2016).  
+Estudo destaca que, uma vez inserido o consumo de álcool, mesmo ainda quando 
+jovens, os mesmo s tendem a perdurar mais entre os homens do que nas mulheres 
+(HOLBERT; TUETH, 2004). Além disso, os fatores biológicos relativos ao sexo feminino, 
+como baixa tolerância ao álcool e maior concentração da substância no sangue para a mesma 
+quantidade de álcoo l ingerida, bem como maior suscetibilidade aos efeitos do álcool, e 
+também os fatores socioculturais, como por exemplo, maior moderação do consumo do álcool 
+pelas mulheres, de certa forma pode explicar o baixo risco de dependência de álcool 
+evidenciado por  elas (KERR -CORREA et al., 2007; ANDRADE et al., 2009; HIRATA et al., 
+2009).  
+De acordo com Hirata et al. (2009), o padrão de consumo de álcool no idoso e os 
+princípios morais e sociais referentes a esta prática seriam definidas ainda no início da 
+juventude , isto é, no decorrer de toda sua vida ele receberia essa influência dos padrões do uso 
+de álcool. Aliado a este fato, há também uma excessiva pressão social para que os homens 
+iniciem o consumo o álcool ainda na juventude (BRASIL, 2008).  
+Nessa perspectiv a, supõe -se que as idosas do sexo feminino que participaram deste 
+estudo tenham vivido sua puberdade durante um período em que, talvez, o hábito de consumo 
+de álcool fosse pouco estimado para as mulheres, o que pode ter colaborado para uma menor 
+ingesta da  substância durante sua vida adulta podendo justificar a pouca frequência de 
+mulheres consumidoras de álcool descritas no presente estudo.  
+O álcool sendo identificado como a principal droga de abuso do sexo masculino pode 
+estar vinculada também à acessibil idade desta droga pela população ( CANTÃO et al., 2015). 
+Por se tratar de uma substância admitida pela sociedade, o álcool tem seu consumo permitido 
+e estimulado pelos meios de divulgação em massa, que o mencionam como elemento de 
+socialização, distração, d iversão e comunicação social ( OLIVEIRA; LUCHESI, 2010 ).  
+Outra explicação plausível para a diferença de gêneros encontrada no estudo é a de 
+que os homens partilhariam de inúmeras e diferentes ocasiões e oportunidades de exposição 
+para o consumo da bebida a lcoólica se comparados com as mulheres, tais como uso do álcool 68 
+ 
+em eventos sociais, ocupacionais ou até mesmo decorrente do estresse proveniente do 
+trabalho (DAWSON; ARCHER, 1992; ALMEIDA -FILHO et al., 2004).  
+O fato de algumas pessoas consumirem bebidas al coólicas constantemente e não se 
+tornarem dependentes é, de certo modo, um estímulo ao consumo, fato que prejudica em 
+algumas ocasiões o combate ao uso do álcool (SILVA et al., 2007; ANDERSON; 
+CHISHOLM; FUHR,  2009; PUIG -NOLASCO; CORTAZA -RAMIREZ; PILLON , 2011). 
+Em relação às questões de gênero e sua influência no abuso do álcool constata -se que 
+ocorre maior tendência de os homens ingerirem maior número de bebida alcoólica e terem 
+mais danos à saúde se comparados com as mulheres ( CANTÃO et al. 2015).  
+As conse quências do consumo abusivo do álcool nos idosos podem ser extremamente 
+preocupantes, dada maior suscetibilidade aos seus efeitos e relação com os riscos acrescidos 
+de disfunção cognitiva e demência. Nesse aspecto, destaca -se a importância de ações voltada s 
+para os cuidados primários de saúde na avaliação e acompanhamento do padrão de consumo 
+do álcool e das características específicas desta população (BRASIL, 2013).  
+Tratar de forma mais humana e livre de preconceitos pode ser um dos fatores que 
+venham a ga rantir uma prestação de serviço qualificada para essas pessoas, além de contribuir 
+para a recuperação dos mesmos. Esse apelo se torna necessário, uma vez que o problema do 
+abuso do álcool vem crescendo e a procura pelos serviços de saúde tende a aumentar 
+gradativamente, sendo que é a enfermagem que acolhe e identifica as necessidades dessas 
+pessoas (ACAUAN; DONATO; DOMINGOS, 2008).  
+Pesquisadores descrevem o consumo abusivo do álcool como o mais prevalente entre 
+os idosos do sexo masculino, com incidência de  um ou mais transtornos associados, como por 
+exemplo, o indicativo de sintomas depressivos (WANG; ANDRADE, 2013).  
+Em e studo epidemiológico, retrospectivo realizado com 218 idosos do CAPS 
+referência em saúde mental da cidade de Divinópolis/MG, o diagnóstico  de depressão  e uso 
+de drogas, representaram uma taxa de 1,5% do total de idosos da instituição, sendo esta 
+associação mais frequente no sexo masculino. Evidenciando a predominância do gênero em 
+relação ao consumo de álcool (CANTÃO et al., 2015), como obse rvado na presente pesquisa.  
+Preocupa -se neste contexto com a importância de acompanhar a saúde mental dos 
+idosos principalmente dos homens e as comorbidades clínicas e psiquiátricas que podem 
+intensificar alguns sintomas relacionados à doença (CANTÃO et al ., 2015) . 
+Assim como na presente pesquisa, o indicativo de sintomas depressivos esteve 
+associado ao abuso e provável dependência do álcool em pesquisas nacionais ( CANTÃO et 
+al., 2015;  BLAY et al., 2009; SAIDE, 2011 ) e internacionais ( CAPUTO et al., 2012; 69 
+ 
+NADKARNI et al., 2011; MERRICK et al., 2008; AIRA et al., 2008; KIRCHNER et al., 
+2007).  
+Na Itália estudo demonstrou que 20% dos idosos com 65 anos ou mais que obtiveram 
+abuso de álcool avaliado pelo instrumento CAGE também apresentaram diagnóstico de 
+indica tivo de sintomas depressivos  (CAPUTO et al., 2012). Em contradição outros estudos 
+(HOECK; VAN HA L, 2012; PINHO, 2012; FLOWERS et al., 2008) não apresentaram tal 
+associação.  
+Manifestações de sintomas depres sivos resultantes do número elevado de tarefas e do 
+desgaste emocional são frequentes nos idosos, cuidadores e familiares, com consequências 
+negativas para a saúde física, psicológica e para a qualidade e perspectiva de vida. Dessa 
+maneira, cada vez mais estudiosos e pesquisadores tem demonstrado interes se sobre a 
+identificação de fatores preventivos e tratamentos eficazes dessa doen ça (DIAS et al., 2015).  
+Nos idosos os cenários psiquiátricos abrangem, destacadamente, a demência, estados 
+depressivos, transtornos de ansiedade, quadros psicóticos, sendo, n o entanto, a depressão o 
+problema de saúde mental mais importante nessa faixa etária (BORIM; BARROS; BOTEGA, 
+2013).  
+A OMS, em 1989, estimava que um a cada 10 idosos apresenta va o diagnóstico de 
+depressão, ou seja, 10% da população total de idosos (OMS, 1989;  CARVALHO; 
+FERNANDES, 1996; MORAES, 2008).  
+A depressão é a doença psiquiátrica mais prevalente entre os idosos, regularmente ela 
+não é diagnosticada e, consequentemente, não é tratada pelos mesmos. Contudo, ela 
+influencia na qualidade de vida, elevando a carga econômica por seus custos diretos e 
+indiretos e, por conseguinte, pode levar a tendências suicidas (MELLO; TEIXEIRA, 2011; 
+MORAES, 2008; JACOB FILHO; GORZONI, 2008; FREITAS et al., 2002). Esta doença não 
+é habitualmente exclusiva do envelhecimento; e la pode ser tratada e cabe aos profissionais de 
+saúde esta responsabilidade (MELLO; TEIXEIRA, 2011).  
+Todos os profissionais devem estar aptos a identificar os sintomas da depressão e 
+encaminhar tanto os pacientes quanto os familiares para o tratamento espe cializado. As 
+atividades conduzidas pelos profissionais devem guiar os idosos de tal forma que possam 
+retomar suas vidas e administra -las normalmente, dentro de suas capacidades e limitações. É 
+de suma importância também, a assistência terapêutica que prop orciona apoio emocional aos 
+idosos, diminuindo sua ansiedade e aumentando sua confiança e autoestima. (MELLO; 
+TEIXEIRA, 2011).  70 
+ 
+Estudiosos relatam que o período de tratamento nos Centros de Atenção Psicossocial 
+Álcool e outras Drogas devem ter extrema atenç ão no que diz respeito à aceitação do usuário 
+ao serviço, bem como a eficiência do tratamento. Este dado repercute uma problemática 
+importante nos serviços de atenção à saúde mental, tendo em conta o risco que o abandono do 
+tratamento pode apresentar para essas pessoas. É preciso desempenhar e acompanhar o 
+processo terapêutico, sendo esses fatores fundamentais para a recuperação e manutenção da 
+saúde física e mental dessas pessoas diagnosticadas com indicativo de sintomas depressivos  e 
+uso de substâncias ps icoativas  (CANTÃO et al., 2015).  
+Assim, destaca -se que o consumo abusivo do álcool nos idosos é prevalente. Desta 
+maneira, considera -se necessária a promoção de ações voltadas para a prevenção do consumo 
+excessivo do álcool nos serviços de saúde primários,  em concordância com as atividades 
+preconizadas pelo programa de intervenção governamental (BRASIL, 2015).  
+O conhecimento sobre o abuso do álcool em idosos, bem como os fatores a ele 
+associados é imprescindível para a criação de estratégias de ação, visto que tais intervenções 
+podem auxiliar para a diminuição das internações hospitalares e número de medicamentos 
+utilizados.  
+A assistência às pessoas que fazem uso abusivo de álcool, atualmente, tem enfrentado 
+inúmeras limitações no campo da atenção à saúde, e stes obstáculos envolvem o campo do 
+conhecimento do tema álcool e idosos, o campo social, psicológico e clínico. Diante de tudo, 
+as intervenções de saúde estão comprometidas dificultando uma assistência qualificada 
+(VARGAS, 2010; GONÇALVES; TAVARES, 2007).   
+Outro fator que dificulta é a identificação dos sinais e sintomas característicos do uso 
+do álcool, uma vez que os mesmos estão relacionados à suas consequências e por si só não 
+são tão precisos, como por exemplo, acidentes, transtornos mentais (depressã o, ansiedade, 
+demência) insônia e autonegligência, sintomas que podem estar mistificados aos do processo 
+de envelhecimento (DAR, 2006).  
+As pessoas que consomem o álcool abusivamente possuem um estigma negativo 
+perante a sociedade e, principalmente, frente  à equipe de saúde, pois podem ser vistos como 
+uma pessoa importuna, inconveniente, suja e com mau odor (BRASIL, 2003).  
+Deste modo , é de extrema relevância averiguar as atitudes executadas pelos 
+profissionais da saúde frente ao uso de álcool, ao alcoolismo  e ao alcoolista, posto que, uma 
+vez que as atitudes podem influenciar diretamente na qualidade da assistência proporcionada, 
+e na resposta dos usuários frente ao tratamento (BARROS ; PILLON , 2007b; VARGAS, 
+2011).  71 
+ 
+Encontra -se a necessidade de maior consider ação com o tema, visto que, como citado 
+anteriormente, as atitudes interferem diretamente na qualidade de atenção dos profissionais de 
+saúde para com os alcoolistas. Desta forma, todos os profissionais devem estar aptos para 
+atender essa clientela adequada mente, uma vez que se trata de um problema de saúde pública 
+mundial (SOARES; VARGAS; OLIVEIRA, 2011).  
+Ao final foi possível compreender os diversos aspectos que cercam os idosos com 
+abuso e provável dependência do álcool e o papel da enfermagem nesse conte xto. São 
+inúmeras as consequências geradas pelo alcoolismo no idoso, contudo, foram encontrados 
+inúmeros empecilhos em aprofundar o tema, visto que o número de publicações na literatura 
+científica voltadas para o assunto é bastante restrita. Desse modo faz -se necessário a 
+realização de novos estudos acerca da temática com a intenção de melhorar a qualidade na 
+assistência prestada ao idoso usuário de álcool, propondo que o enfermeiro assuma o papel de 
+gestor no cuidado a essa clientela.  
+A partir dos dados ob tidos percebe -se que a enfermagem não apresenta uma única 
+função ou representa um único papel durante a assistência ao idoso alcoolista. É preciso que o 
+enfermeiro identifique as dificuldades encontradas na assistência ao idoso dependente 
+alcoólico e busqu e soluções para tais dificuldades procurando oferecer um atendimento 
+eficaz, igualitário e digno ao paciente. Além disso, o enfermeiro deve saber trabalhar com sua 
+equipe essas dificuldades, visando um atendimento de boa qualidade e de forma contínua.  
+É im portante ressaltar que a família é fundamental no processo de reabilitação, pois 
+ela interfere e também é afetada pelos idosos que abusam do álcool. Visto isto, é  importante 
+que o enfermeiro compreenda que a redução de danos e até mesmo a abstinência não d epende 
+unicamente do idoso, mas também do ambiente e das pessoas ao seu redor. Portanto a 
+assistência de enfermagem deve ser voltada a todo o seu universo biopsicossocial e espiritual, 
+dessa maneira, não é suficiente apenas tratar os sintomas físicos e enc aminhar ao serviço 
+adequado. Com o intuito de promover uma assistência mais integral é necessário trazer a 
+família desses idosos para o processo de reabilitação. Desta forma, a educação em saúde deve 
+ser usada como uma importante ferramenta dentro da assis tência de enfermagem para 
+aproximar a família do idoso usuário do álcool criando um vínculo terapêutico sólido, tendo 
+em vista que o conhecimento acerca da doença e suas consequências contribuem para que a 
+família não o abandone frente às recaídas e crises  de abstinência, proporcionando chances 
+melhores de recuperação.  
+Evidencia -se que existem poucos estudos semelhantes que abordem o tema abuso e 
+provável dependência do álcool em idosos no ambiente domiciliar, a partir das buscas 72 
+ 
+realizadas nas bases de dad os (PUBMED, LILACS, SCIELO e no portal de teses e 
+dissertações da CAPES). Desse modo faz -se necessário a realização de novos estudos acerca 
+da temática com a intenção de melhorar a qualidade na assistência prestada ao idoso 
+alcoolista, propondo que o enfer meiro assuma o papel de gestor no cuidado a essa clientela.  
+Em relação às limitações o fato da ocorrência do consumo do álcool ter sido 
+autorreferido pelos idosos, pode subestimar as informações coletadas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 73 
+ 
+6 CONCLUSÃO  
+ 
+A preval ência de abuso e provável dependência do álcool entre os idosos residentes na 
+zona urbana de Uberaba – MG foi de 26,5%.  
+ O perfil sociodemográfico e econômico dos dois grupos (com e sem abuso e provável 
+dependência do álcool) foram semelhantes, predominand o idosos mais jovens (60 | - 70 anos), 
+que moravam com esposo (a) ou companheiro (a) e com escolaridade de 1 | - 5 anos de estudo. 
+As exceções se fazem para os sexos, em que entre os idosos com abuso do álcool, predominou 
+o sexo masculino e, para os sem abus o, o feminino; e renda individual, na qual os idosos com 
+abuso do álcool tiveram predomínio de renda mensal individual de 1 -| 3 salários mínimos, e 
+os sem abuso do álcool obtiveram renda individual de até um salário mínimo.  
+Em relação às características c línicas, tanto os idosos com abuso e provável 
+dependência do álcool quanto os que não possuíam abuso apresentaram maior percentual para 
+cinco ou mais morbidades. Prevaleceram também, em ambos os grupos, a ausência de 
+indicativo de sintomas depressivos. Por ém, os idosos com abuso e provável dependência de 
+álcool apresentaram maior percentual de presença de indicativo de sintomas depressivos em 
+relação aos que não possuíam tal dependência.  
+O abuso e provável dependência do álcool foram associados ao sexo mas culino e a 
+presença de indicativo de sintomas depressivos. Não se obteve associação entre as variáveis 
+estudadas: grupo etário, escolaridade, renda, estado conjugal e número de morbidades 
+autorreferidas.  
+O presente estudo contribui para o conhecimento acer ca do uso, abuso e provável 
+dependência do álcool em idosos, bem como os fatores a ele associados. Nessa perspectiva, 
+esta pesquisa propiciará subsídios para o desenvolvimento de estratégias de ações de saúde 
+com a finalidade de proporcionar a realização d e planos voltados para a promoção da saúde, a 
+prevenção da doença e a reabilitação do idoso que faz uso abusivo do álcool.  
+Além disso, tal conhecimento é fundamental na implementação de medidas 
+preventivas frente ao alcoolismo nos idosos e a compreensão d a enfermagem nesse setor, 
+sendo que equipe de enfermagem é maioria nos serviços de saúde, e consequentemente 
+responsável por gerir o atendimento a essas pessoas, em todos os aspectos; deste modo elas 
+devem ter condições de auxiliar no processo de recuperaç ão e reabilitação, visando assim, 
+colaborar no direcionamento da atenção bem qualificada à saúde e promover um 
+envelhecimento saudável.  
+ 74 
+ 
+7 REFERÊNCIAS  
+  
+ACAUAN, L.; DONATO, M.; DOMINGOS, A. M. Alcoolismo: um novo desafio para o 
+enfermeiro.  Escola Anna Nery : Revista Enfermagem, Rio de Janeiro, v. 3, n. 12, p. 566 -570, 
+2008. Disponível em: <http://www.scielo.br/pdf/ean/v12n3/v12n3a26.pdf>. Acesso em: 10 
+Fev. 2016.  
+ 
+AIRA, M.; HARTIKAINEN, S.; SULKAVA, R. Drinking al cohol for medicinal purposes by  
+people aged o ver 75: a community -based interview study. Fam. Pract. , v. 25, p.445 –449, 
+2008.  
+ 
+ALMEIDA -FILHO, N. et al. Alcohol drinking patterns by gender, ethnicity, and social class 
+in Bahia, Brazil. Rev. Saúde Pública , v.38, n.1, p.45 -54, 2004.  
+ 
+ALMEIDA O.P.; ALMEID A S.A. Confiabilidade da versão brasileira da escala de depressão 
+em geriatria (GDS) versão reduzida.  Arquivos de Neuro -psiquiatria , vol. 57, n. 2B, p. 421 -
+426, 1999. Disponível em: <http://dx.doi.org/10.1590/S0004 -282X1999000300013>. Acesso 
+em: 28 Out. 20 15. 
+ 
+ALVARES, A. A. Fatores que favorecem a abstinência no alcoolismo. Cadernos Brasileiros 
+de Saúde Mental , Florianópolis, v. 5, n. 12, p. 60 -80, 2013.  
+ 
+ANDERSON, P.; CHISHOLM, D.; FUHR, D. Effectiveness and cost -effectiveness of 
+policies and programmes t o reduce the harm caused by alcohol. Lancet , Maastricht, v. 373, p. 
+2234 -2246, 2009.  
+ 
+ANDRADE, A. G.; ANTHONY, J. C. Álcool e suas consequências:  uma abordagem 
+multiconceitual. Barueri: Manole, p. 37 -66. 2009.  
+ 
+ANDRADE, L.H.S.G. et al. Padrões de consumo d o álcool e problemas decorrentes do beber 
+pesado episódico no Brasil. In. ANDRADE, A.G.; ANTHONY, J.C.; SILVEIRA, C.M. 
+Álcool e suas consequências : uma abordagem multiconceitual. Barueri: Minha Editora, 2009.  
+ 
+APRATTO JUNIOR, P. C.  A violência doméstica co ntra idosos nas áreas de abrangência do 
+Programa Saúde da Família de Niterói (RJ, Brasil). Ciência & Saúde Coletiva , Rio de 
+Janeiro, v. 15, n. 6, p. 2983 -2995, set. 2010. Disponível em: 
+<http://dx.doi.org/10.1590/S1413 -81232010000600037>.  Acesso em: 20  Ago. 2015.  
+ 
+AZIZ, M.M; CALVO, M.C.M; DORSI, E. Medicamentos prescritos aos idosos em uma 
+capital do sul do Brasil e a Relação Municipal de Medicamentos . Cad de Saúde Pública , Rio 
+de Janeiro, v.28, p.52 -64, 2012.  
+ 
+BARROS, M. A; PILLON, S. C. Assistência aos us uários de drogas: a visão dos profissionais 
+do Programa Saúde da Família. Rev. Enf. UERJ , Rio de Janeiro, v. 15, n. 2, p. 261 -266, Jun. 
+2007a.  
+ 
+BARROS, M. A.; PILLON, S. C. Atitudes dos profissionais do Programa Saúde da Família 
+diante do uso e abuso de dr ogas. Escola Anna Nery : Revista Enfermagem, Rio de Janeiro, v. 
+11, n. 4, p. 655 -662, 2007b. Disponível em: 75 
+ 
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S141481452007000400016&lng=en
+&nrm=iso>. Acesso em 18 dez. 2015.    
+ 
+BERTOLUCCI, P. H. F. et a l. O mini -exame do estado mental em uma população geral: 
+impacto da escolaridade. Arquivos de Neuro -Psiquiatria , São Paulo, v. 52, n. 1, p. 1 -7, 
+1994. Disponível em: <http://dx.doi.org/10.1590/S0004 -282X1994000100001>. Acesso em: 
+25 Nov. 2015.  
+ 
+BEULLENS, J .; AERTGEERTS, B. Screening for alcohol abuse and dependence in older 
+people using DSM criteria: a review. Aging Ment Health , v. 8, n. 1, p. 76 -82, 2004.  
+ 
+BOING, A. C.; BERTOLDI, A. D.; PERES, K. G.  Desigualdades socioeconômicas nos gastos 
+e comprometiment o da renda com medicamentos no Sul do Brasil. Rev Saúde Pública, v. 45, 
+n. 5, p. 897 -905, 2011.  
+ 
+BOGSTRAND, S.T. et al. Studying psychoactive substance use in injured patients: does 
+exclusion of late arriving patients bias the results? Drug Alcohol Depend ., v. 127, n. 1 -3, p. 
+187-92, 2013.  
+ 
+BOMMERSBACH, T. J. et al. Geriatric alcohol use disorder: a review for primary care 
+physicians. Mayo Clinic Proc. , v. 90, n. 5, p. 659 –66, 2015.  
+ 
+BORIM, F.S. A.; BARROS, M. B. A.; BOTEGA, N. J. Transtorno mental comum na  
+população idosa: pesquisa de base populacional no Município de Campinas, São Paulo, 
+Brasil. Cad. Saúde Pública , Rio de Janeiro, v. 29,  n. 7, Jul.  2013.  
+ 
+BORIM, F.S. A.; BARROS, M. B. A.; NERI, A. L. Autoavaliação da saúde em idosos: 
+pesquisa de base popul acional no Município de Campinas, São Paulo. Cad. Saúde Pública , 
+Rio de Janeiro , v. 28, n. 4, p. 769 -780, Abr.  2012.  
+ 
+BRASIL. Lei nº 10.741, de 1 de outubro de 2003. Dispõe sobre o Estatuto do Idoso e dá 
+providências. Diário Oficial da União, Brasília - DF, n. 192, seção 1, p. 1, 2003. Disponível 
+em: <http://bvsms.saude.gov.br/bvs/publicacoes/estatuto_idoso.pdf >. Acesso em: 04 set. 
+2015.  
+ 
+_____.  Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações 
+Programáticas Estratégicas. Saúde men tal no SUS: os Centros de Atenção Psicossocial. 
+Brasília -DF, 2004.  
+ 
+_____.   Ministério da Saúde . Política nacional de atenção integral à saúde do homem 
+(princípios e diretrizes). Brasília: Ministério da Saúde, 2008.  
+ 
+______. Secretaria de Política sobre Dr ogas. I Levantamento Nacional sobre o Uso de Álcool, 
+Tabaco e Outras Drogas Entre Universitários das 27 Capitais Brasileiras. Brasília, DF, 2010. 
+Disponível em: 
+<http://www.obid.senad.gov.br/portais/OBID/biblioteca/documentos/Dados_Estatistico 
+s/Estudantes /328293.pdf>. A cesso em: 04 Jan.  2015.  
+ 
+_____. Ministério da Saúde. Atenção à saúde do idoso: Aspectos conceituais.  Brasília -DF: 
+Organização Pan -Americana da Saúde, 2012. 98 p. Disponível em: 76 
+ 
+<http://apsredes.org/site2012/wp -content/uploads/2012/05/Saude -do-Idoso -WEB1.pdf>. 
+Acesso em: 22 Jun. 2015.  
+ 
+_____. Ministério da Saúde. Serviço de Intervenção nos Comportamentos Aditivos e nas 
+Toxicodependências. Plano nacional para a redução dos comportamentos aditivos e das 
+dependências, 2013 -2020. Lisboa: Ministér io da Saúde; 2013. Disponível em: 
+<http://www.sicad .pt/BK/Institucional/Coordenacao/Documents/Planos/SICAD_Plano_Nacio
+nal_Reducao_CAD_2013 -2020.pdf>. Acesso em: Out. 2016.  
+ 
+_____. Ministério da Saúde. Relatório do Grupo de  Trabalho de elaboração do Programa de 
+detecção precoce e intervenções breves dirigido ao consumo excessivo de álcool e tabaco nos 
+Cuidados de Saúde Primários: relatório do subgrupo (álcool). Lisboa: Ministério da Saúde; 
+2015. Disponível em: <http://www2.p ortaldasaude.pt/NR/rdonlyres/C17E8534 -6D1A -4FE9 -
+9371 -
+43782CF2C590/0/Relat%C3%B3rioGT_Dete%C3%A7%C3%A3oeinterven%C3%A7%C3%
+B5esbreves_CSP_alcool_final3.pdf>. Acesso em: 22 Out. 2016.  
+ 
+BLAY, S.L. et al. Correlates of lifetime alcohol misuse among older commun ity residents in 
+Brazil. Int. Psychogeriatr. , v.21, p.384 -391, 2009.  
+ 
+BLOW, F. Treatment of older women with alcohol problems: meeting the challenge for a 
+special population. Alcohol. Clin. Exp. Res., v. 24, n. 8, p. 1257 -1266, 2000.  
+ 
+CAMARANO, A. A. Idoso s brasileiros: que dependência é essa? In: CAMARANO, A. A. 
+Muito além dos 60: os novos idosos brasileiros. Rio de Janeiro: Instituto de Pesquisa 
+Econômica Aplicada, 2004 . 
+ 
+CAMPOS, E. A. Porque os alcoólicos são anônimos?: Anonimato e identidade no tratamen to 
+do alcoolismo. Interface - Comunicação, Saúde, Educação , Botucatu, v. 13, n. 28, p. 19 -30, 
+mar. 2009. Disponível em: 
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S141432832009000100003&lng=pt
+&nrm=iso>. Acesso em: 02 Out. 2014.  
+ 
+CANTÃO, L. et al. Perfil sociodemográfico e clínico de idosos com depressão e o uso de 
+substâncias psicoativas. Rev Rene . v. 16, n. 3, p. 355 -62, Mai -Jun. 2015.  
+ 
+CAPUTO, F. et al. Alcohol use disorders in the elderly: A brief overview from epidemiology 
+to treatment opti ons. Exp Gerontol ., v. 47, n. 6, p. 411 –416, Jun. 2012.  
+ 
+CARLINI, E. A. et al. Drogas psicotrópicas: O que são e Como agem. Revista IMESC , São 
+Paulo, n.3, p.9 -35, 2001.  
+ 
+CARMO, E. H.; SILVA JÚNIOR, J. B.; BARRETO, M. L. Mudanças nos padrões de 
+morbimortal idade da população brasileira: os desafios para um novo século. Epidemiologia e 
+serviços de saúde,  Brasília, v. 12, n. 2, p. 63 -75, 2003.  Disponível em: 
+<http://scielo.iec.pa.gov.br/scielo.php?pid=S1679 -49742003000200002&script=sci_arttext>. 
+Acesso em: 13  Ago. 2015.  
+ 
+CARVALHO FILHO, E. T. Medicina preventiva no idoso. Revista Brasileira de Clínica e 
+Terapêutica , São Paulo, v. 29, n. 1, p. 8 -18, jan. 2003.  77 
+ 
+ 
+CARVALHO, V. F. C, FERNANDES, M. E. D. Depressão no idoso. In: Papaléo Netto M. 
+Gerontologia . São Pa ulo: Atheneu; 1996.  
+ 
+CASTILLO, B. A. A. et al. Situações estressantes de vida, uso e abuso de álcool e drogas em 
+idosos de Monterrey, México. Revista Latino -Americana de Enfermagem , v. 16, Ago.  
+2008. Disponível em: <http://www.scielo.br/scielo.php?pid=S010 4-
+11692008000700002&script=sci_arttext&tlng=pt>. Acesso em: 23 Out. 2016.  
+ 
+CASTRO,  L. A. P. G. Abuso de drogas no idoso. In: Orestes Vicente Forlenza; Paulo 
+Caramelli. (Org.). Neuropsiquiatria geriátrica. São Paulo: Atheneu, 2000, p. 447 -455. 
+ 
+CASTRO -COSTA , E. et al. Alcohol consumption in late -life -The first Brazilian National 
+Alcohol Survey (BNAS). Addict. Behav. , v.33, p.1598 -1601, 2008.  
+ 
+CENTRO DE INFORMAÇÕES SOBRE SAÚDE E ÁLCOOL. São Paulo, BR: CISA, 2003. 
+Disponível em: <http://www.cisa.org.br/index .php>. Acesso em: 12 Out. 2016.  
+ 
+CERVIERI JÚNIOR, O. et al. O setor de bebidas no Brasil. BNDES Setorial , v. 40, p. 93 -
+130, 2014. Disponível em: 
+<https://web.bndes.gov.br/bib/jspui/bitstream/1408/3462/1/BS%2040%20O%20setor%20de
+%20bebidas%20no%20Brasil_P.pd f.> Acesso em: 13 Ago. 2015.  
+ 
+CEYLAN -ISIK, A. et al. Sex diference in alcoholism: who is at a greater risk for 
+development o alcoholic complication? Life Sciences , v. 86, p. 136 -138, 2010.  
+ 
+CIOSAK, S. I. et al. Senescência e senilidade: novo paradigma na a tenção básica de saúde. 
+Revista da escola de enfermagem da USP , São Paulo, v. 45, n. Spe2, p. 1763 -1768, Dez. 
+2011.  
+ 
+COUSINS, G. et al. Potential for alcohol and drug interactions in older adults: evidence from 
+the Irish longitudinal study on ageing. BMC Geriatrics ., v. 14, n. 1, p. 1 -10, 2014.  
+ 
+CULBERSON, J.W. Alcohol use in the elderly: beyond the CAGE. Part 2: Screening 
+instruments and treatment strategies.  Geriatrics , v. 61, n. 11, p. 20 -26, 2006.  
+ 
+CHAIMOWICZ, F. et al. Saúde do idoso. 2ª ed. Belo Hori zonte: NESCON UFMG, 167 p. 
+2013.  
+ 
+DAR, K. Alcohol use disorders in elderly people: fact or fiction? Adv. Psychiatr. Treat. , v. 
+12, p. 173 -81, 2006.  Disponível em: 
+<http://apt.rcpsych.org/content/aptrcpsych/12/3/173.full.pdf>. Acesso em: 13 Ago. 2015.  
+ 
+DAWS ON, D.A.; ARCHER, L. Gender differences in alcohol consumption: effects of  
+measurement . Br. J. Addict., v.87, p.119 -123, 1992.  
+ 
+DIAS, E. G. et al. Atividades avançadas de vida diária e incidência de declínio cognitivo em 
+idosos: Estudo SABE. Caderno de Saú de Pública , Rio de Janeiro, v. 31, n. 8, p. 1623 -1635, 
+Ago. 2015. Disponível em: <http://www.scielosp.org/pdf/csp/v31n8/0102 -311X -csp-31-8-
+1623.pdf>. Acesso em: 10 Out. 2016.  78 
+ 
+ 
+DINIZ, M. A.; TAVARES, D. M. S. Fatores de risco para doenças cardiovasculares e m 
+idosos de um município do interior de Minas Gerais. Texto Contexto Enferm , Florianópolis, 
+v. 22, n. 4, p. 885 -92, Out -Dez., 2013.  
+ 
+DINIZ, B. S. O.; VOLPE, F. M.; TAVARES, A. R. Nível educacional e idade no desempenho 
+no Mini exame do Estado Mental em ido sos residentes na comunidade. Rev Psiquiatr Clín ., 
+v. 34, n. 1, p. 13 -7, 2007.  
+ 
+DOTTO BAU, C. H. Estado atual e perspectivas da genética e epidemiologia do alcoolismo. 
+Revista Ciência & Saúde Coletiva , Rio de Janeiro, v.7, n.1, p. 183 -190, 2002. Disponível  
+em: <http://www.scielosp.org/pdf/csc/v7n1/a17v07n1.pdf>. Acesso em: 15 Fev. 2015.  
+ 
+DUNNE, F.J. Misuse ofalcohol or drugs by elderly people. BMJ , v.308, p.608 -609, 1994.  
+ 
+FALCÃO, I. C. L.; RANGEL -S, M. L. Controle sanitário da propaganda de bebidas 
+alcoóli cas no Brasil:  estudo dos projetos de lei de 1988 a 2004. Ciência & Saúde Coletiva , v. 
+15, n. 3, p. 3433 -3442, nov. 2010 . Disponível em: 
+<http://www.redalyc.org/pdf/630/63017302018.pdf >. Acess o em: 10 Out. 2014.  
+ 
+FEITOSA, A. N. C. et al. O uso de substâncias psicoativas em idosos. Id on Line Rev. Psic. 
+v. 10, n. 30, Jul. 2016.  
+ 
+FERNANDES, L. C. L.; BERTOLDI, A. D.; BARROS, A. J. D. Utilização dos serviços de 
+saúde pela população coberta pela Es tratégia de Saúde da Família. Ver. Saúde Publica , São 
+Paulo, v.43, n.4, p.595 -603, 2009.  
+ 
+FERREIRA, L. N. et al. Prevalência e fatores associados ao consumo abusivo e à dependência 
+de álcool. Ciência & Saúde Coletiva , v. 18, n. 11, p. 3409 -3418, 2013.  
+ 
+FERREIRA FILHA, M. O., et al. Alcoolismo no contexto familiar: estratégias de 
+enfrentamento das idosas usuárias da terapia comunitária. Revista Rene , v. 13, n. 1, p. 26 -35, 
+2012.  
+ 
+FIGLIE, N.B.; BORDINO, S.; LARANJEIRA, R. Aconselhamento em dependência química . 
+2. ed. São Paulo: Roca, 2010.  
+ 
+FILIZOLA, C. L. A. et al. Alcoolismo e família: a vivência de mulheres participantes do 
+grupo de autoajuda Al -Anon.  Jornal Brasileiro de Psiquiatria , Rio de Janeiro, v. 58, n. 3, p. 
+181-186, 2009. Disponível em: <http://www .scielo.br/pdf/jbpsiq/v58n3/07.pdf>. Acesso em: 
+14 mai. 2015.  
+ 
+FINK, A. et al. Comparing the alcohol -related problems survey (ARPS) to traditional alcohol 
+screening measures in elderly outpatients. Arch. Gerontol. Geriatr. , v. 34, n.1, p.55 -78, 
+2002.  
+ 
+FUND O DE POPULAÇÃO DAS NAÇÕES UNIDAS. Envelhecimento no século XXI: 
+celebração e desafio. 2012. Disponível em: 
+<http://www.unfpa.org/webdav/site/global/shared/documents/publications/2012/Portuguese -
+Exec -Summary.pdf>. Acesso em: 04 Out. 2015.  79 
+ 
+ 
+FLOWERS, N. T. et  al. Patterns of alcohol consumption and alcohol -impaired driving in the 
+United States. Alcohol Clin Exp Res. , v. 32, p. 639 –44, 2008.  
+ 
+FREITAS, et al. Tratado de geriatria e gerontologia. Rio de Janeiro: Guanabara Koogan; 
+2002.  
+ 
+GAGO, E. A.; LOPES, M. J. Cuidados domiciliares – interação do enfermeiro com a pessoa 
+idosa/família. Acta Paul Enfermagem , v. 25, n. 1, p. 74 -80, 2012.  
+ 
+GIGLIOTTI, A.; BESSA, M. A. Síndrome de Dependência do Álcool: critérios diagnósticos. 
+Revista Brasileira de Psiquiatria , São Pa ulo, vol.26, n. 1, p. 11 -13, mai.  2004. Disponível 
+em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516 -44462004000500004>. 
+Acesso em: 12 Fev. 2015.  
+ 
+GOMES, R.; NASCIMENTO, E. F.; ARAÚJO, F. C. Por que os homens buscam menos os 
+serviços de saú de do que as mulheres? As explicações de homens com baixa escolaridade e 
+homens com ensino superior. Cad. Saúde Pública , v. 23, n. 3, Mar.  2007.  
+ 
+GONÇALVES, S.S.P. M; TAVARES, C.M.M. Atuação do enfermeiro na atenção ao usuário 
+de álcool e outras drogas nos  serviços extra -hospitalares. Escola Anna Nery:  Revista de 
+Enfermagem, Rio de Janeiro, v.11, n.4, p.586 -592, 2007. Disponível em: 
+<http://schola r.google.com.br> Acesso em: 10 D ez. 2014 . 
+ 
+HALME, J.T. et al. Alcohol consumption and all -cause mortality among elderly in Finland. 
+Drug Alcohol Depend. , v. 106, n.  2-3, p. 212-218, 2010.  
+ 
+HIRATA, E.S. et al. Prevalence and correlates of alcoholism in community -dwelling elderly 
+living in São Paulo, Brazil. Int. J. Geriatr. Psychiatry , v. 24, p.  1045 -1053. 2009.  
+ 
+HERMAN, S.; SADOVSKY, R. Psychosocial health screening and recognizing early signs of 
+psychosocial distress. J. Mens Health , v. 7, n. 1, p. 73 -82, 2010.  
+ 
+HOECK, S.; VAN HA L, G. Unhealthy drinking in the Belgian elderly population: prevalence 
+and associated c haracteristics. European Journal of Public Health , v. 23, n. 6, p. 1069 –
+1075, 2012. Disponível em: 
+http://eurpub.oxfordjournals.org/content/eurpub/23/6/1069.full.pdf. Acesso em: 10 Out. 2016.  
+ 
+HOLBERT, K.R.; TUETH, M.J. Alcohol abuse and dependence. A clin ical update on 
+alcoholism in the older population. Geriatrics , v.59, n.9, p.38 -40, 2004.  
+ 
+HULSE, G. K. Alcohol, drugs and much more in later life . Revista Brasileira de 
+Psiquiatria , São Paulo, v. 24, n. 1, p. 34 -41, abr. 2002. Disponível em: 
+<http://dx.doi .org/10.1590/S1516 -44462002000500008>. Acesso em: 02 Out. 2014.  
+ 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Síntese de Indicadores 
+Sociais: uma análise das condições de vida da população brasileira. Brasília, DF, 2004.  
+_____. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Envelhecimento e 
+saúde da pessoa idosa . Brasília -DF, 2010.  
+ 80 
+ 
+_____. Informação Demográfica e Socioeconômica número 29. Síntese de Indicadores 
+Sociais. Uma Análise das Condições de Vida da População Brasileira. Rio de J aneiro, 
+2012. Disponível em: 
+<http://www.ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2012/SIS_
+2012.pdf>. Acesso em: 01 out. 2015.  
+ 
+_____. (Estudos e Pesquisas: 32). Rio de Janeiro, 2014. Disponível em: 
+<http://biblioteca.ibge.gov.br/ visualizacao/livros/liv91983.pdf>. Acesso em: 20 ago. 2015.  
+ 
+JACOB FILHO, W.; GORZONI, M. L. Geriatria e gerontologia: o que todos devem saber . 
+São Paulo: Roca; 2008.  
+ 
+JELLINEK, E.M. The disease concept of alcoholism. New York: Hillhouse Press; 1960.  
+ 
+KALC KMANN, S.; BATISTA, L. E.; SOUZA, L. C. F. Homens de baixa renda falam sobre 
+saúde reprodutiva e sexual. In: Adorno R, Alvarenga A, Vasconcelos MP, organizadores. 
+Jovens, trajetória, masculinidades e direitos. São Paulo: Edusp; p. 199 -217, 2005.  
+ 
+KANO, M. Y.; SANTOS, M. A.; PILLON, S. C.  Uso de álcool em idosos: validação 
+transcultural do Michigan AlcoholismScreening Test – GeriatricVersion (MAST -G).  Revista 
+da Escola de Enfermagem da USP , v. 48, n. 4, p. 648 -55, 2014. Disponível em: 
+<http://www.scielo.br/ pdf/reeusp/v48n4/pt_0080 -6234 -reeusp -48-04-648.pdf>. Acesso em: 
+10 Dez. 2014.  
+ 
+KERR -CORRÊA, F. et al. Patterns of alcohol use betweengenders: a cross -cultural 
+evaluation. J. Affect Disord ., v.102, n.1 -3, p.265 -275, 2007.  
+ 
+KIRCHNER, J.E. et al. Alcohol cons umption among older adults in primary care . J. Gen. 
+Intern. Med. , v. 22, n. 1, p. 92 -97, 2007.  
+ 
+LARANJEIRA, R. et al. Usuários de substâncias psicoativas: abordagem, diagnóstico e 
+tratamento. LARANJEIRA, R. (Coord.). 2º Ed. São Paulo: Conselho Regional de Medicina 
+do Estado de São Paulo/Associação Médica Brasileira, 2003.  
+ 
+LARANJEIRA, R. et al. I Levantamento Nacional Sobre os Padrões de Consumo de Álcool 
+na População Brasileira. Brasília: Secretaria Nacional Antidrogas; 2007.  
+ 
+LEBRÃO, M. L. ; DUARTE, Y. A. O.  Desafios do envelhecimento na reorganização da 
+Sociedade Brasileira. Revista Jurídica Consulex , v. 304, p. 33 -36, 200 9.  
+ 
+LEVORATO, C. D. et al. Fatores associados à procura por serviços de saúde numa 
+perspectiva relacional de gênero. Ciênc. saúde coletiva , v. 19,  n. 4, Rio de 
+Janeiro,  Abr.,  2014.  
+ 
+LIMA, M. C. P. et al. Alcohol use and falls among the elderly in Metropol itan São Paulo, 
+Brazil . Caderno de Saúde Publica , v. 25, n. 12, p. 2603 -11, 2009.  
+ 
+LIMA, J. S. Atenção psicossocial: acolhimento de enfermagem a pacientes usuários de álcool 
+e outras drogas em unidade de urgência e emergência. 2014. 21 f. Monografia 
+(Espec ialização) - Curso de Especialização em Linhas de Cuidado em Enfermagem - Atenção 81 
+ 
+Psicossocial do Departamento de Enfermagem da Universidade Federal de Santa Catarina, 
+2014.  
+ 
+LIN, J.C. et al. Alcohol, tobacco, and nonmedical drug use disorders in U.S. Adul ts aged 65 
+years and older: data from the 2001 -2002 National Epidemiologic Survey of Alcohol and 
+Related Conditions. Am. J. Geriatr. Psychiatry , v. 19, n. 3, p. 292 -299, 2011.  
+ 
+LOPES, M.A. et al. Prevalence of alcohol -related problems in an elderly populat ion and their 
+association with cognitive impairment and dementia. Alcohol. Clin. Exp. Res., v.34, n.4, 
+p.726 -733, 2010.  
+ 
+LOURENÇO, T. M.; LENARDT, M. H.; KLETEMBERG, D. F. et al. Capacidade funcional 
+no idoso longevo: uma revisão integrativa. Rev. Gaúcha E nferm , Porto Alegre, v.33, n.2, 
+p.176 -185, 2012.  
+ 
+MACHADO R. M.; COSTA JUNIOR M. L. Evolução histórica do uso e abuso de álcool e os 
+serviços de saúde mental. Revista de Enfermagem do Centro Oeste Mineiro , v. 1, n. 3, p. 
+407-421, Jul./S et. 2011.  
+ 
+MARQUES,  A. C. P. R. O uso do álcool e a evolução do conceito de dependência de álcool e 
+outras drogas e tratamento. Revista IMESC , São Paulo, v.2, n. 3, p. 73 -86, out. 2001. 
+Disponível em:< http://www.imesc.sp.gov.br/imesc/rev3.htm>. Acesso em: 15 fev. 2015.  
+ 
+MAR TINS, R. R. As relações sociais e o uso da rede de apoio no cotidiano do Idoso 
+dependente do álcool . 2007. 132 f. Dissertação (Mestrado) - Programa de Pós -Graduação da 
+Faculdade de Serviço Social, Pontifícia Universidade Católica do Rio Grande do Sul, Rio 
+Grande do Sul, 2007.  
+ 
+MARTINS,  K. D. A dependência do álcool na dialética do envelhecimento. Revista Cocar . 
+Belém -Pará, v. 8, n. 16, p. 25-37, A go./Dez., 2014.  
+ 
+MARTINS, A. et al. Prevalência do consumo de risco de álcool no idoso: estudo numa 
+unidade dos cuidados primários da região de Braga. Rev Port Med Geral Fam . v. 32, n. 4, p. 
+270-74, 2016 . 
+ 
+MELLO, M. L. M.; BARRIAS, J.; BREDA, J. J. Alcoolismo. In: CORDEIRO, J.C. Dia s. 
+Manual de psiquiatria clínica. 2° Ed. Lisboa : Fundação Calouste Gulbenkian,  Cap. 3.3, p. 
+287-360, 2002.  
+ 
+MELLO, E.; TEIXEIRA, M. B. Depressão em idosos.  Revista Saúde , v.5, n.1, 2011.  
+ 
+MENNINGER, J. Assessment and treatment of alcoholism and substance r elated disorders in 
+the elderly. Bull Menninger Clin. , v. 66, n. 2, p. 166 -83, 2002.  
+ 
+MERRICK, E.L. et al. Unhealthy drinking patterns in older adults: prevalence and associated 
+characteristics. J. Am. Geriatr. Soc. , v.56, p.214 -223, 2008.  
+ 
+MIRANDA, F. A.N . et al. O impacto negativo dos transtornos do uso e abuso do álcool na 
+convivência familiar.  Revista Eletrônica de Enfermagem , Goiânia, v. 2, n. 8, p.222 -232, 82 
+ 
+2006. Disponível em: <http://www.fen.ufg.br/revista/revista8_2/v8n2a07.htm>. Acesso em: 
+14 Mai. 2015.  
+ 
+MOORE, A.A. et al. Longitudinal patterns and predictors of alcohol consumption in the 
+United States. Am. J. Public Health , v. 95, n. 3, p. 458 -465, 2005.  
+ 
+MOORE, A. A.; WHITEMAN, E. J.; WARD, K.T. Risks of combined alcohol/medication 
+use in older ad ults. Am J Geriatr Pharmacother , v. 5, n. 1, p. 64 –74. 2007.  
+ 
+MONTEIRO, C. F. S.et al. Perfil sociodemográfico e adesão ao tratamento de dependentes de 
+álcool em CAPS -AD do Piauí. Escola Anna Nery : Revista Enfermagem , v. 15, n. 1, p. 90 -95, 
+Jan./Mar. 2011.  Disponível em: < http://www.scielo.br/pdf/ean/v15n1/13.pdf>. Acesso em: 13 
+Ago. 2015.  
+ 
+MORAES, E. N.; MORAES, F. L.; LIMA, S. P. P. Características biológicas e psicológicas 
+do envelhecimento. Rev Med Minas Gerais , Belo Horizonte, v.20, n.1, p.67 -73, 2010.   
+ 
+MORAES, E. N. Princípios básicos de geriatria e gerontologia. São Paulo: COOPMED, 2008.  
+ 
+MOREIRA,  W. C. et al. Educação em saúde para a redução do uso abusivo de álcool na 
+terceira idade. R. Interd. , v. 9, n. 1, p. 254 -259, jan. fev. mar. 2016.  
+ 
+NADKARN I, A. et al. The psychological impact of heavy drinking among the elderly on their 
+co-residents: The 10/66 group population based survey in the Dominican Republic. Drug 
+Alcohol Depend. , v.114, n.1, p. 82 –86, 2011.  
+ 
+NATIONAL INSTITUTE ON ALCOHOL ABUSE AND A LCOHOLISM. Older Adults. 
+2008. Disponível em: <http:// www .niaaa.nih.gov/alcohol -health/special -populations -co-
+occurring -disorders/older -adults>.  Acesso em: 20 Nov. 2015.  
+ 
+O’CONNELL, H. et al. Alcohol use disorders in elderly people redefining an age old p roblem 
+in old age. BMJ: British Medical Jornal , v. 327, p. 664 -67, 2003.  
+ 
+OLIVEIRA, A. P. N. Alcoolismo no idoso. 2016. 58 f. Dissertação (Mestrado) - Mestrado 
+Integrado em Medicina, Faculdade de Medicina da Universidade de Coimbra, Coimbra, 
+Portugal, 2016 . 
+  
+OLIVEIRA, B.; GONÇALVES, C.M. S.; LODOVICI, F.M.M. Idosos etilistas crônicos - 
+indicações para uma mudança de clave em seu atendimento. Revista Kairós Gerontologia , v. 
+16, n. 4, p. 261 -275, 2013.  
+ 
+OLIVEIRA, G. F.; LUCHESI, L. B. O discurso sobre o álcoo l na Revista Brasileira de 
+Enfermagem: 1932 -2007. Revista Latino -Americana de Enfermagem , Ribeirão Preto, v. 
+18, n. spe, p. 623 -633, mai./jun. 2010. Disponível em: 
+<http://www.scielo.br/pdf/rlae/v18nspe/a20v18nspe.pdf >. Acesso em: 15 Out. 2015.  
+ 
+OLIVEIRA,  J. C. A.; TAVARES, D. M. S. Atenção ao idoso na estratégia de Saúde da 
+Família: atuação do enfermeiro. Revista da Escola de Enfermagem da USP , v. 44,  n. 
+3, Set., 2010.  
+ 83 
+ 
+OLIVEIRA, J. B. et al. Alcohol screening instruments in elderly male: a population -based 
+survey in metropolitan São Paulo, Brazil. Revista Brasileira de Psiquiatria , v. 33, n. 1, mar. 
+2011. Disponível em: <http://repositorio.unesp.br/handle/11449 /12385>. Acesso em: 20 Ago. 
+2015.  
+ 
+OLIVEIRA, D. R. et al. Prevalence of frailty syndrome in old people in a hospital institution. 
+Rev Lat Am Enfermagem , São Paulo, v.21, n.4, p. 891 -98, 2013.  
+ 
+ORGANIZAÇÃO MUNDIAL DA SAÚDE. Classificação Internacional das D eficiências, 
+Incapacidades e Desvantagens (handicaps) : um manual de classificação das consequências 
+das doenças. Lisboa, 1989.  
+ 
+ORGANIZAÇÃO MUNDIAL DA SAÚDE. Relatório sobre a saúde no mundo. Saúde 
+mental: nova concepção, nova esperança. Genebra, Suíça , 2001. 
+ 
+ORGANIZAÇÃO MUNDIAL DA SAÚDE. Relatório mundial da saúde . Saúde mental: 
+nova concepção, nova esperança. Lisboa, 2002.  
+ 
+ORGANIZAÇÃO MUNDIAL DA SAÚDE. Saúde global e envelhecimento . Genebra, 
+Suíça , 2011.  
+ 
+ORGANIZAÇÃO MUNDIAL DA SAÚDE . Relatório Global s obre Álcool e Saúde - 2014 . 
+Genebra, Suíça, 2014.  
+ 
+ORGANIZAÇÃO PAN -AMERICANA DA SAÚDE (OPAS). Saúde nas Américas: 2007. 
+Washington, D.C.: Organização Pan -Americana da Saúde; 2007.  
+ 
+PAPALÉO NETO, M. O estudo da velhice: histórico, definição do campo e term os básicos. 
+In: FREITAS, E.V. et al. Tratado de geriatria e gerontologia . 2 ed. Rio de Janeiro: 
+Guanabara Koogan, 2006. p. 2 -12. 
+ 
+PERRACINI, M. R.; FLÓ, C. M.; GUERRA, R. O. Funcionalidade e envelhecimento. In: 
+PERRACINI, M.R; FLÓ, C. M. Fisioterapia: teor ia e prática. Funcionalidade e 
+envelhecimento. Rio de Janeiro: Guanabara Koogan, 2011. p. 3 -24. 
+ 
+PILLON, S. C.; LUIS, M. A. V. Modelos explicativos para o uso de álcool e drogas e a 
+prática da enfermagem. Revista Latino -Americana de Enfermagem , v. 12, n. 4 , p. 676 -682, 
+2004. Disponível em: <http://www.scielo.br/pdf/rlae/v12n4/v12n4a14.pdf>. Acesso em: 07 
+Set. 2015.  
+ 
+PILLON, S.C.et al. Perfil dos idosos atendidos em um centro de atenção psicossocial – álcool 
+e outras drogas. Escola Anna Nery : Revista Enferma gem, v. 14, n. 4, p. 742 -748, Out -Dez. 
+2010. Disponível em: < http://www.scielo.br/pdf/ean/v14n4/v14n4a13.pdf>. Acesso em: 13 
+Ago. 2015.  
+ 
+PILLON, S.C. Atitudes dos Enfermeiros com Relação ao Alcoolismo: Uma avaliação de 
+Conhecimentos. Revista Eletrônica de Enfermagem , v. 7, n. 03, p. 303 -307, 2005. 
+Disponível em: <http//www.fen.ufg.br>. Acesso em: 10 Set. 2015.  
+ 84 
+ 
+PINHO, R. J. Prevalência e fatores associados ao uso de álcool entre idosos do município de 
+São Paulo/SP, Estudo SABE. 2012. 127 f. Dissertação (Mes trado) - Universidade Estadual 
+Paulista Julio de Mesquita Filho, Faculdade de Medicina de Botucatu, 2012.  
+ 
+POMPILI, M., et al. Suicidal behavior and alcohol abuse. I nt J Environ Res Public Health , 
+v. 7, p. 1392 –431, 2010. Disponível em: 
+<http://www.ncbi.n lm.nih.gov/pmc/articles/PMC2872355/>. Acesso em: 17 Out. 2016  
+ 
+PUIG -NOLASCO, A; CORTAZA -RAMIREZ, L; PILLON, C. S. Consumo de alcohol entre 
+estudiantes Mexicanos de medicina. Revista Latino -Americana de Enfermagem , Ribeirão 
+Preto, v. 19, n. spe, 2011. Dispo nível em: <http://www.scielo.br/scielo.php?pid=S0104 -
+11692011000700008&script=sci_arttext>. Acesso em: 20 Ago. 2015.  
+ 
+PYNE, H.H.; CLAESON, M.; CORREIA, M. Gender dimensions of alcohol Consumption 
+and alcohol -related problems in Latin America and the Caribb ean. Washington, D.C.: 
+International Bank for Reconstruction and Development/The World Bank; 2002.  
+ 
+RAMOS, S. P.; WOITOWITZ, A. B. Da cervejinha com os amigos à dependência de álcool: 
+uma síntese do que sabemos sobre esse percurso. Revista Brasileira de P siquiatria , São 
+Paulo, v. 26, n. 1, p. 18 -22, mai. 2004. Disponível em: 
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516 -
+44462004000500006&lng=en&nrm=iso&tlng=pt>. Acesso em: 15 Set. 2014.  
+ 
+RAMOS, L.R. Growing old in São Paulo, Brazil: Assessm ent of Health status and family 
+support of the elderly of different socio -economic strata living in the community. 1987. 327 f. 
+Tese (Doutorado) London School of Hygiene and Tropical Medicine, Londres, 
+Inglaterra,1987.  
+ 
+RIBEIRO, P. L.; ANDRADE, A. G . Trans tornos Mentais Relacionados ao Uso de 
+Substâncias Psicoativas. In: Mario Rodrigues Louzã Neto e Hélio Elkis. (Org.). Psiquiatria 
+Básica. 2 ed. Porto Alegre: Artmed Editora S.A., 2007, p. 195 -210. 
+ 
+ROSENSTOCK, K.I. V; NEVES, M.J. Papel do enfermeiro da aten ção básica de saúde na 
+abordagem ao dependente de drogas em João Pessoa, PB, Brasil. Revista brasileira de 
+enfermagem , Brasília, v. 63, n. 4,. 2010. Disponível em: 
+<http://www.scielo.br/scielo.php?pid=S0034 -71672010000400013&script=sci_arttext>. 
+Acesso em:  16 Jun. 2016.  
+ 
+SÁ, A. N. P. et al. Conflitos familiares abordados na Terapia Comunitária Integrativa. Revista 
+Eletrônica de Enfermagem , Goiânia, v. 14, n. 4, p. 786 -93, 2012.  
+ 
+SAIDEL, M G. B. Representações sociais de membros de equipes de saúde da famíli a sobre o 
+uso problemático de álcool por idosos. 2010. 169 f. Dissertação (Mestrado) – Departamento 
+de Enfermagem, Universidade Federal de São Carlos, São Paulo, 2010.  
+ 
+SAIDE, O. L. Depressão e uso de drogas. Revista Hospital Universitário Pedro Ernesto , 
+UERJ, v. 10, n.  2, Jan./Mar., 2011.  
+ 85 
+ 
+SÁNCHEZ -GARCÍA, S. et al. Frailty among community‐dwelling elderly Mexican people: 
+Prevalence and association with sociodemographic characteristics, health state and the use of 
+health services. Geriatr Gerontol Int , Japão, v. 14, n. 2, p. 395 -402, 2013.  
+ 
+SANTOS , A. S., et al. Atividade Física, Álcool e Tabaco entre Idosos.  REFACS  (online), v. 
+2, n. 1, p. 06 -13, 2014.  Disponível em: 
+<http://www.uftm.edu.br/revistaeletronica/index.php/refacs/article/view/1142/996>. Acesso 
+em: 20 Jan.  2016.  
+ 
+SANTOS, J. R. P.; MARQUES, I. R.  Sistematização da assistência de enfermagem ao 
+paciente em síndrome da abstinência alcoólica no pronto socorro. Cogitare Enfermagem , 
+Curitiba, v. 10, n. 3, p.76 -83, dez. 2005. Disponível em: 
+http://ojs.c3 sl.ufpr.br/ojs2/index.php/cogitare/article/view/5399/3972>. Acesso em: 20 set. 
+2015.  
+ 
+SÃO PAULO (Estado). Secretaria da Saúde. Boletim do Instituto de Saúde Nº 47. 
+Envelhecimento & Saúde. São Paulo, SP, 2009. 103 p. Disponível em: 
+<http://www.saude.sp.gov. br/resources/instituto -de-saude/homepage/bis/pdfs/bis_n47.pdf>. 
+Acesso em: 12 Set. 2015.  
+ 
+SAUNDERS, P. A. et al. Heavy drinking as a risk factor for depression and dementia in 
+elderly men: findings from the Liverpool Longitudinal Community Study. Br J Psyc hiatry , 
+v. 159, p. 213 -6, 1991.  
+ 
+SECRETARIA DE ESTADO DA SAÚDE, Governo do Estado de São Paulo. HC traça mapa 
+do abuso de álcool em idosos de SP. 2010. Disponível em: 
+http://www.saude.sp.gov.br/ses/noticias/2010/marco/hc -traca -mapa -do-abuso -de-alcool -em-
+idosos-de-sp. Acesso em: Out. 2016.  
+ 
+SECRETARIA NACIONAL DE POLÍTICAS SOBRE DROGAS. O uso de substâncias 
+psicoativas no Brasil: módulo 1. – 9. ed. – Brasília: Secretaria Nacional de Políticas sobre 
+Drogas, 2016.  
+ 
+_______. Efeitos de substâncias psicoativas: módulo 2. – 9. ed. – Brasília: Secretaria Nacional 
+de Políticas sobre Drogas, 2016.  
+ 
+_______. Atenção integral na rede de saúde : módulo 5. – 9. ed. – Brasília : Secretaria Nacional 
+de Políticas sobre Drogas, 2016.  
+ 
+_______. Modalidades de tratamento e encam inhamento: módulo 6. – 9. ed. – Brasília: 
+Secretaria Nacional de Políticas sobre Drogas, 2016.  
+ 
+SENA, E L., et al. Alcoolismo no contexto familiar: um olhar fenomenológico. Texto 
+Contexto Enfermagem, Florianópol is, v. 20, n. 2, p. 310 -8, Abr./ Jun. 2011.  
+ 
+SENAD. I Levantamento Nacional sobre os Padrões de Consumo de Álcool na População 
+Brasileira. Secretaria Nacional Antidrogas. Brasília, DF. 2007. Disponível em: 
+<http://bvsms.saude.gov.br/bvs/publicacoes/relatorio_padroes_consumo_alcool.pdf. Acesso 
+em: 02 D ez. 2014.  
+ 86 
+ 
+SENAD. Prevenção do uso de álcool e outras drogas no ambiente de trabalho: conhecer para 
+ajudar. 3ª Ed. Brasília: Ministério da Justiça. Secretaria Nacional sobre Políticas sobre Drogas 
+– SENAD, 2012.  
+ 
+SENGER, A. E. V. et al. Alcoolismo e tabagi smo em idosos: relação com ingestão alimentar 
+e aspectos socioeconômicos. Revista Brasileira de Geriatria e Gerontologia , Rio de 
+Janeiro, v. 14,  n. 4, p. 713 -719, Out./Dez.  2011. Disponível em: 
+<http://dx.doi.org/10.1590/S1809 -98232011000400010>. Acesso e m: 06 Dez.  2015.  
+ 
+SILVA, S. É. D. et al. A educação em saúde como uma estratégia para enfermagem na 
+prevenção do alcoolismo.  Escola Ana Nery : Revista Enfermagem, Rio de Janeiro, v. 11, n. 4, 
+p. 699 -705, D ez. 2007. Disponível em: <http://www.scielo.br/pdf/ea n/v11n4/v11n4a23.pdf>. 
+Acesso em: 12 Ago. 2015.  
+ 
+SILVA, A. R. Fatores de risco e proteção para dependência química em idosos: desafios para 
+a psicologia da saúde. Psicologia , Nov. 2012. Disponível em: 
+<http://www.webartigos.com/artigos/fatores -de-risco -e-protecao -para-dependencia -quimica -
+em-idosos -desafios -para-a-psicologia -da-saude/98719/>. Acesso em: 07 de Abr. 2016.  
+ 
+SOARES, J.; VARGAS, D.; OLIVEIRA, M. A. F. Atitudes e conhecimentos de profissionais 
+de saúde diante do álcool, alcoolismo e do alcoolista:  levantamento da produção científica nos 
+últimos 50 anos. SMAD, Revista Eletrônica em Saúde Mental Álcool Drogas , v. 7, n. 1, p. 
+45-52, Jan./A br. 2011. Disponível em: < http://www.revistas.u sp.br/smad/article/view/38739 >. 
+Acesso em: 02 Dez. 2015.  
+ 
+SOMMER, I. et al. Alcohol consumption and bone mineral density in elderly women. Public 
+Health Nutrition , v. 16, n. 4, p. 704 –712, 2012.  
+ 
+SOROCCO, K. H.; FERRELL, S. W. Alcohol use among older adul ts. J Gen Psychol, v. 133, 
+n. 4, p. 453 –67, 2006. Disponível em: 
+<https://estudogeral.sib.uc.pt/bitstream/10316/33298/1/ALCOOLISMO.pdf>. Acesso em: 07 
+de Set. 2016.  
+ 
+SOUZA, E. R.; MINAYO, M. C. S. Inserção do tema violência contra a pessoa idosa nas 
+políti cas públicas de atenção à saúde no Brasil. Ciência & Saúde Coletiva , Rio de Janeiro, v. 
+15, n. 6, Set. 2010. Disponível em: <http://www.scielo.br/scielo.php?pid=S1413 -
+81232010000600002&script=sci_arttext>. Acesso em: 13 Ago. 2015.  
+ 
+SCHRAIBER LB. Equidade d e gênero e saúde: o cotidiano das práticas no Programa Saúde 
+da Família do Recife. In: Villela W, Monteiro S, organizadores. Gênero e saúde: Programa 
+Saúde da Família em questão. São Paulo: ABRASCO – UNFPA, 2005.  
+ 
+SPRICIGO, J.S; ALENCASTRE, M.B. O enferme iro de unidade básica de saúde e o usuário 
+de drogas: um estudo em Biguaçú -SC. Revista Latino -Americana de Enfermagem , 
+Ribeirão Preto, v. 12, n. spe, 2004. Disponível em: 
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104 -11692004000700019> 
+Aces so em: 10 Dez. 2014.  
+ 
+TAVARES, D. M. S.; DIAS, F. A. Distribuição espacial de idosos de acordo com menores 
+escores de qualidade de vida. Texto & contexto – enfermagem , v. 20, n. spe, p. 205 -2013, 87 
+ 
+2011. Disponível em: <http://www.scielo.br/scielo.php?pid=S0 104-
+07072011000500026&script=sci_arttext>. Acesso em: 20 Out. 2015.  
+ 
+TOWNSEND, Mary. Distúrbios relacionados a drogas. In:___. Enfermagem psiquiátrica: 
+conceitos de cuidados. Rio de Janeiro: Guanabara e Koogan, 2002. Cap. 24, p. 323 -359. 
+ 
+VARGAS D. A const rução de uma escala de atitudes frente ao álcool, ao alcoolismo e ao 
+alcoolista: um estudo psicométrico. [Tese]. Ribeirão Preto: Escola de Enfermagem de 
+Ribeirão Preto, Universidade de São Paulo; 2005.  
+ 
+VARGAS, D.; LABATE, R. C. Atitudes de enfermeiros de hospital geral frente ao uso do 
+álcool e alcoolismo. Revista brasileira de enfermagem , Brasília, v. 59, n. 1, Fev. 2006. 
+Disponível em: 
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S003471672006000100009&lng=en
+&nrm=iso>. Acesso em: 08 Jul. 2015.  
+ 
+VARGAS, D.; OLIVEIRA, M. A. F.; LUÍS, M. A. V. Atendimento ao alcoolista em serviços 
+de atenção primária: percepções e condutas do enfermeiro.  Acta Paulista de Enfermagem , 
+São Paulo, v. 23, n. 1, p. 73 -79, 2010. Disponível em: 
+<http://www.scielo.br/pdf/a pe/v23n1/12.pdf>. Acesso em: 10 Out. 2015.  
+ 
+VARGAS, D. Atitudes de enfermeiros frente as habilidades de identificação para ajudar o 
+paciente alcoolista. Revista Brasileira de Enfermagem , Brasília, v. 63, n. 2, p.190195, 2010. 
+Disponível em: 
+<http://www.sci elo.br/scielo.php?script=sci_arttext&pid=S003471672010000200004&lng=en
+&nrm=iso>. Acesso em: 11 jul. 2015.  
+ 
+VARGAS, D. Atitudes de estudantes de enfermagem frente questões relacionadas ao álcool, 
+alcoolismo e alcoolista. Acta Paulista de Enfermagem , São Pau lo, v. 24, n. 5, 2011.  
+Disponível em: 
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S010321002011000500007&lng=en
+&nrm=iso>. Acesso em: 09 Jul. 2015.  
+ 
+VARGAS, D.; BITTENCOURT, M. N. Álcool e alcoolismo: atitudes de estudantes de 
+enfermagem. Revis ta Brasileira de Enfermagem , Brasília, v. 66, n. 1, Fev. 2013. Disponível 
+em: <http://www.redalyc.org/articulo.oa?id=267028450013>. Acesso em: 06 Jul. 2015.  
+ 
+VARGAS, D. Validação de construto da Escala de Atitudes Frente ao Álcool, ao Alcoolismo 
+e a Pessoa s com Transtornos Relacionados ao Uso do Álcool. Revista de Psiquiatria 
+Clínica , v. 41, n. 4, p. 105 -110, 2014.  Disponível em: 
+<http://www.hcnet.usp.br/ipq/revista/vol41/n4/106.html>. Acesso em: 10 Out. 2015.  
+ 
+VERAS, R. Envelhecimento populacional contemp orâneo: demandas, desafios e inovações. 
+Revista de Saúde Pública , São Paulo, v. 43, n. 3, p. 548 -54, 2009. Disponível em: < 
+http://www.scielo.br/scielo.php?pid=S0034 -89102009005000025&script=sci_arttext>. 
+Acesso em: 22 Ago. 2015.  
+ 
+VIEBIG, R. F. et al. Cons umo de frutas e hortaliças por idosos de baixa renda na cidade de 
+São Paulo. Rev Saúde Pública, v. 43, n. 5, p. 806 -13, 2009.  
+ 88 
+ 
+ZANOTTI, D. Idosos caem no vício do crack . UNIAD -Unidade de pesquisa de álcool e 
+drogas. Set. 2013. Disponível em: 
+<http://www.un iad.org.br/desenvolvimento/index.php/blogs/dependencia -quimica/19386 - 
+idosos -caem -no-vicio -do-crack>. Acesso em: 07 Abr. de 2016.  
+ 
+WAGNER, G. A.  et al. Alcohol Use among Older Adults: SABE Cohort Study, São Paulo, 
+Brazil. PLoS One , v. 9, n. 1, p. e85548 , jan. 2014 . Disponível em: 
+<http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885713/>. Acesso em: 15 Dez. 2014.  
+ 
+WANG, Y. P.; ANDRADE, L. H. Epidemiology of alcohol and drug use in the elderly. Curr 
+Opin Psychiatry , v. 26, n. 4, p. 343 -348, jul. 2013. Disponíve l em: 
+<http://www.ncbi.nlm.nih.gov/pubmed/23689545>.  Acesso em: 02 Nov. 2015.  
+ 
+WASHTON, A.M.; ZWEBEN, J.E. Prática Psicoterápica eficaz dos problemas com álcool e 
+drogas . Porto Alegre: Artmed. 2009.  
+ 
+WECHSLER, H.; NELSON, T. F. Binge drinking and the Amer ican college student: what’s 
+five drinks? Review Psychology of Addictive Behaviors , v. 15, n. 4, p. 287 -291, 2001. 
+Disponível em: <http://archive.sph.harvard.edu/cas/Documents/Five_Drinks/five_drinks -
+1.pdf>. Acesso em: 09 Dez. 2014.  
+ 
+WORLD HEALTH ORGANIZAT ION. International guide for monitoring alcohol 
+consumption and related harm. Genebra: WHO; 2000. Disponível em: 
+<http://apps.who.int/iris/bitstream/10665/66529/1/WHO_MSD_MSB_00.4.pdf3>. Acesso 
+em: Out. 2016.  
+ 
+WORLD HEALTH ORGANIZATION. Global status repor t on alcohol and health 2011. 
+Genebra, Suíça: WHO, 2011.  
+ 
+WORLD HEALTH ORGANIZATION. Preventing suicide: a global imperative. Genebra: 
+WHO, 2014.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 89 
+ 
+APÊNDICE A - IDENTIFICAÇÃO E CARACTERÍSTICAS SOCIODEMOGRÁFICAS E 
+ECON ÔMICAS  
+ 
+IDENTIFICAÇÃO  
+ 
+Nome: _________________________________________ Registro: ____________________  
+Início da entrevista: ___________Término: _________ Data da coleta: ________________  
+Bairro: ___________ Endereço: ______________________________ Tel: _______________  
+Setor  Censitário: ______________________________________________________________  
+ 
+DADOS SÓCIODEMOGRÁFICOS E ECONÔMICOS  
+ 
+ 
+1) DATA DE NASCIMENTO: _____/______/______  
+Idade: (anos completos)....................................................................... ......................................  
+ 
+ATENÇÃO:  
+ O entrevistado deve ter 60 anos ou mais de idade. Solicite ao entrevistado um 
+documento de identificação  que mostre a data de nascimento.  
+ 
+ 
+2) SEXO.......................................................... ..............................................................................  
+1- Masculino   2- Feminino  
+ 
+3) QUAL O SEU ESTADO CONJUGAL?....................................................................................  
+1- Nunca se casou ou morou com com panheiro(a)  
+2- Mora com esposo(a) ou companheiro(a)              3 - Viúvo(a)  
+4 -Separado(a), desquitado(a) ou divorciado(a)      99 - Ignorado  
+ 
+4) ESCOLARIDADE:................................................................................................ ....................  
+Atenção: deverá ser anotado quantos anos estudou sem repetir a mesma série.  
+99- Ignorado  
+ 
+5) QUAL A SUA RENDA INDIVIDUAL:.......................................................................................  
+1 - Não tem renda      2 - Menos que 1 salário mínimo    3 - 1 salário mínimo  
+4 - De 1 a 3 salários mínimo 5 - De 3 a 5 salários mínimo 6 – mais de 5 salários mínimo  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 90 
+ 
+APÊNDICE B – TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO  
+ 
+TERMO DE ESCLARECIMENTO  
+ 
+Você está sendo  convidado a participar do estudo “Prevalência e Fatores Associados ao Uso de Álcool 
+entre Idosos da Zona Urbana do Município de Uberaba -MG”, os avanços na área da saúde ocorrem 
+através de estudos como este, por isso a sua participação é importante. O obje tivo deste estudo é verificar 
+a prevalência do abuso e provável dependência a substância alcoólica em idosos e descrever as 
+características sociodemográficas, econômicas, morbidades e indicativo de sintomas depressivos dos 
+idosos alcoolistas residentes na zona urbana do município de Uberaba -MG; e verificar a associação entre 
+o abuso e provável dependência do álcool com as variáveis: sexo, faixa etária, renda, escolaridade, 
+indicativo de sintomas depressivos e número de morbidades. Não será feito nenhum proc edimento que 
+lhe traga qualquer desconforto ou risco à sua vida. Você poderá ter todas as informações que quiser e 
+poderá não participar da pesquisa ou retirar seu consentimento a qualquer momento, sem prejuízo no seu 
+atendimento. Pela sua participação no estudo, você não receberá qualquer valor em dinheiro, mas terá a 
+garantia de que todas as despesas necessárias para a realização da pesquisa não serão de sua 
+responsabilidade. Seu nome não aparecerá em qualquer momento do estudo, pois você será identificad o 
+com um número.  
+ 
+TERMO DE CONSENTIMENTO LIVRE, APÓS ESCLARECIMENTO  
+ 
+Eu, ____________________________________, li e/ou ouvi o esclarecimento acima e compreendi para 
+que serve o estudo e qual procedimento a que serei submetido. A explicação que recebi escl arece os 
+riscos e benefícios do estudo. Eu entendi que sou livre para interromper minha participação a qualquer 
+momento, sem justificar minha decisão e que isso não afetará meu tratamento. Sei que meu nome não 
+será divulgado, que não terei despesas e não r eceberei dinheiro por participar do estudo.  Eu concordo 
+em participar do estudo.  
+ 
+ 
+Uberaba,   ............./ ................../................  
+ 
+ 
+__________________________________________              
+Assinatura do voluntário ou seu responsável legal                         
+Documento de identidade: __________________________  
+ 
+ 
+______________________________               _________________________________  
+Assinatura do pesquisador responsável                 Assinatura do pesquisador orientador  
+Mariana S ilva Freitas Guimarães                        Profª Dra. Darlene Mara dos Santos Tavares  
+ 
+ 
+Telefone de contato dos pesquisadores: (34) 3318 -5867  
+Em caso de dúvida em relação a esse documento, você pode entrar em contato com o Comitê Ética em 
+Pesquisa da Un iversidade Federal do Triângulo Mineiro, pelo telefone 3318 -5854.  
+ 
+ 
+ 
+ 91 
+ 
+ANEXO A - MORBIDADES AUTORREFERIDAS  
+ 
+6) O(a)  senhor(a)  no momento tem algum destes problemas de saúde e que pode ou não 
+interferir nas atividades da vida diária?  
+ 
+Problemas de saúde   
+ 
+NÃO  SIM   
+ 
+Ignorado  Interfere na vida  
+diária  Não Interfere  
+na vida diária  
+A) Reumatismo  1 2 3 99 
+B) Artrite/artrose  1 2 3 99 
+C) Osteoporose  1 2 3 99 
+D) Asma ou bronquite  1 2 3 99 
+E) Tuberculose  1 2 3 99 
+F) Embolia  1 2 3 99 
+G) Pressão alta  1 2 3 99 
+H) Má circulação (varizes)  1 2 3 99 
+I) Problemas cardíacos  1 2 3 99 
+J) Diabetes  1 2 3 99 
+K) Obesidade  1 2 3 99 
+L) Derrame  1 2 3 99 
+M) Parkinson  1 2 3 99 
+N) Incontinência urinária  1 2 3 99 
+O) Incontinência fecal  1 2 3 99 
+P) Prisão de ventre  1 2 3 99 
+Q) Problemas para dormir  1 2 3 99 
+R) Catarata  1 2 3 99 
+S) Glaucoma  1 2 3 99 
+T) Problemas de coluna  1 2 3 99 
+U)Problema renal  1 2 3 99 
+V) Sequela acidente/trauma  1 2 3 99 
+W) Tumores malígnos  1 2 3 99 
+X) Tumores benígnos  1 2 3 99 
+Y) Problema de  visão  1 2 3 99 
+Z) Outras (gripe, diarréia, dor...)  1 2 3 99 
+Especifique      
+ 
+7) Número de doenças autorreferidas........................................................................................... .... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 92 
+ 
+ANEXO B - MINI -EXAME  DO ESTADO MENTAL (MEEM)  
+ 
+8) Orientação para tempo  (1 ponto por cada resposta correta)  
+Em que ano estamos? _____  
+Em que mês estamos? _____  
+Em que dia do mês estamos? _____  
+Em que dia da semana estamos? _____  
+Em que estação do ano estamos? _____  
+Nota: ____  
+ 
+9) Orientação para local  (1 ponto por cada resposta correta)  
+Em que país estamos? _____  
+Em que estado vive? _____  
+Em que cidade vive? _____  
+Em que lugar estamos? _____  
+Em que andar estamos? _____            
+Nota:____  
+ 
+10) Memória Imediata  (1 po nto por cada palavra corretamente repetida)  
+"Vou dizer três palavras; queria que as repetisse, mas só depois que eu as disser todas;  
+procure ficar a sabê -las de cor".  
+Caneca ______  
+Tapete ______  
+Tijolo ______         
+Nota:____  
+ 
+11) Atenção e Cálculo  (Nos espaços abaixo acrescente 1 se a resposta for correta e 0 para resposta errada. Na 
+“Nota” coloque a  soma das respostas corretas).  
+ 
+a) "Agora peço -lhe que me diga quantos são 100 menos 7 e depois ao número encontrado volta a tirar 7 e repete 
+assim at é eu lhe dizer para parar".  
+100______ 93_____86_______ 79_______ 72______ 65                     
+Nota:_______  
+ 
+b) “Soletre a palavra MUNDO de trás para frente”  
+O____ D____ N____ U_____ M_____  
+Nota:  _______  
+ 
+Considere na Nota Final da questão 9 a maior Not a entre os itens a e b.  
+Nota Final:  _________  
+ 
+12) Evocação  (1 ponto por cada resposta correta.)  
+ "Veja se consegue dizer as três palavras que pedi há pouco para decorar".  
+Caneca ______  
+Tapete ______  
+Tijolo ______         
+Nota:____  
+ 
+13) Linguagem  (1 ponto por cada resposta correta)   
+a. "Como se chama isto? Mostrar os objetos:  
+Relógio ____  
+Lápis______         
+Nota:____  
+ 
+b. "Repita a frase que eu vou dizer: “Nem aqui, nem ali, nem lá"    
+Nota:____  
+ 
+c. "Quando eu lhe der esta folha de papel, pegue n ela com a mão direita, dobre -a ao meio e ponha sobre a mesa"; 
+dar a folha segurando com as duas mãos.  
+Pega com a mão direita____  93 
+ 
+Dobra ao meio ____  
+Coloca onde deve____        
+Nota:____  
+ 
+d. "Leia o que está neste cartão e faça o que  lá diz". Mostrar u m cartão com a frase bem legível, "FECHE OS 
+OLHOS"; sendo analfabeto lê -se a frase.                                                   
+Fechou os olhos____                           
+Nota:____                
+ 
+e. "Escreva uma frase inteira aqui". Deve ter  suj eito e verbo e fazer  sentido; os erros gramaticais não 
+prejudicam a pontuação.               
+Frase:  
+Nota:____        
+ 
+14)  Capacidade Construtiva Visual  (1 ponto pela cópia correta.)  
+Deve copiar um desenho. Dois pentágonos parcialmente sobrepostos; c ada um deve ficar com 5 lados, dois dos 
+quais intersectados. Não valorizar tremor ou rotação.  
+ 
+Nota:____  
+ 
+ 
+15) TOTAL (Máximo 30 pontos): _______  
+Considera -se com declínio cognitivo:  • analfabetos ≤ 13 pontos  
+• 1 a 11 anos de escolaridade ≤ 18  
+• com es colaridade superior a 11 anos≤ 26  
+ 
+16) Idoso apresentou declínio cognitivo, segundo o MEEM:....................................................  
+(1) Sim (2) Não  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+94 
+ 
+ANEXO C - ESCALA DE DEPRESSÃO GERIÁTRICA ABREVIADA  
+ 
+(O idoso deve responde r sozinho)  
+17) Para cada questão abaixo responda (circule) Não ou Sim. Em Total coloque a 
+pontuação final obtida pelo idoso.  
+ 
+ Questões  Não Sim 
+1 Você está basicamente satisfeito com sua vida?  1 0 
+2 Você deixou muitos de seus interesses e atividades?  0 1 
+3 Você sente que sua vida está vazia?  0 1 
+4 Você se aborrece com frequência?  0 1 
+5 Você se sente com bom humor a maior parte do tempo?  1 0 
+6 Você tem medo que algum mal vá lhe acontecer?  0 1 
+7 Você se sente feliz a maior parte do tempo?  1 0 
+8 Você sente que sua situação não tem saída?  0 1 
+9 Você prefere ficar em casa a sair e fazer coisas novas?  0 1 
+10 Você se sente com mais problemas de memória do que a maioria?  0 1 
+11 Você acha maravilhoso estar vivo?  1 0 
+12 Você se sente um inútil nas atuais circunstâncias?  0 1 
+13 Você se sente cheio de energia?  1 0 
+14 Você acha que a sua situação é sem esperanças?  0 1 
+15 Você sente que a maioria das pessoas está melhor que você?  0 1 
+TOTAL   
+ 
+Considere : A soma total de pontos maior que 5  é indicativo de sintomas depressivos.  
+ 
+18) Presença indicativo de sintomas depressivos:............................................................................. ...........  
+(1) Sim   (2) Não  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 95 
+ 
+ANEXO D - Michigan Alcoholism Screening Test – Geria tric Version  (MAST -G) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+96 
+ 
+ANEXO E - PARECER DO COMITÊ DE ÉTICA EM PESQUISA COM SERES 
+HUMANOS DA UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO  
+ 
+ 
+97 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

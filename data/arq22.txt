@@ -1,0 +1,2829 @@
+UNIVERSIDADE DO VALE DO RIO DOS SINOS - UNISINOS
+UNIDADE ACADÊMICA DE PESQUISA E PÓS-GRADUAÇÃO
+PROGRAMA DE PÓS-GRADUAÇÃO EM ENFERMAGEM
+NÍVEL MESTRADO PROFISSIONAL
+
+MARLA NEDEL SAUSEN
+
+TERAPIA COMUNITÁRIA INTEGRATIVA NO QUADRO DEPRESSIVO DE
+ADULTOS
+
+Porto Alegre
+2020
+MARLA NEDEL SAUSEN
+
+TERAPIA COMUNITÁRIA INTEGRATIVA NO QUADRO DEPRESSIVO DE
+ADULTOS
+
+Dissertação apresentada como requisito
+parcial para obtenção do título de Mestre
+em Enfermagem, pelo Programa de Pós-
+Graduação em Enfermagem da
+Universidade do Vale do Rio dos Sinos -
+UNISINOS
+
+Orientadora: Profa. Dr”. Priscila Schmidt Lora
+
+Porto Alegre
+2020
+ 
+
+ 
+
+S259t
+
+Sausen, Marla Nedel.
+Terapia comunitária integrativa no quadro depressivo de
+adultos / por Marla Nedel Sausen. — Porto Alegre, 2020.
+
+57 f.:il.;30 cm.
+
+Dissertação (mestrado) — Universidade do Vale do Rio dos
+Sinos, Programa de Pós-Graduação em Enfermagem, Porto
+Alegre, RS, 2020.
+
+Orientação: Prof2. Dr?. Priscila Schmidt Lora, Escola de Saúde.
+
+1.Enfermagem em saúde pública. 2.Cuidados primários de
+saúde. 3.Saúde mental. 4.Psicologia comunitária. 5.Interação
+social. 6.Depressão mental. 7.Psicoterapia de grupo. I.Lora,
+Priscila Schmidt. Il.Título.
+
+CDU 614.253.5
+614.253.5:616.89
+614.253.5:616.89-008.454
+
+ 
+
+Catalogação na publicação:
+Bibliotecária Carla Maria Goulart de Moraes — CRB 10/1252
+
+ 
+MARLA NEDEL SAUSEN
+
+TERAPIA COMUNITÁRIA INTEGRATIVA NO QUADRO DEPRESSIVO DE
+ADULTOS
+
+Dissertação apresentada como requisito
+parcial para a obtenção do título de
+Mestre em Enfermagem, pelo Programa
+de Pós-Graduação em Enfermagem da
+Universidade do Vale do Rio dos Sinos -
+UNISINOS
+
+Aprovado em (dia) (mês) (ano)
+
+BANCA EXAMINADORA
+
+Ilana Andretta — Universidade do Vale do Rio dos Sinos
+
+Rosália Figueiró Borges — Universidade do Vale do Rio dos Sinos
+
+Priscila Schmidt Lora — Universidade do Vale do Rio dos Sinos
+RESUMO
+
+O objetivo deste estudo foi implementar a Terapia Comunitária Integrativa em
+uma unidade básica de Saúde da Família, em adultos de 18 a 59 anos, de ambos os
+sexos, com diagnóstico de depressão, em uso de fluoxetina, como tratamento
+complementar ao medicamentoso e avaliar a eficácia da intervenção. Trata-se de
+um estudo do tipo quali-quantitativo, cujo cenário de investigação foi à região
+metropolitana do Rio Grande do Sul. Os dados foram coletados a partir do
+questionário de coleta de dados, Escala de Hamilton (HAM-D21), e Inventário de
+Depressão de Beck (BDI-II), avaliados antes e após a intervenção (n=20). O estudo
+incluiu mulheres com idade entre 40 e 59 anos, predomínio da raça branca (90%),
+50% com ensino fundamental incompleto, 85% em tratamento a mais de 1 ano; 75%
+com histórico de depressão anterior. A intervenção foi organizada em 8 sessões com
+frequência variável, 2 delas sem participantes; A Temática predominante foi conflitos
+familiares; nenhum paciente participou de todas as sessões, 50% não
+compareceram a nenhuma, 25% participaram de 1 a 2 sessões. No grupo
+participante, 10% participaram de 5 a 6 sessões. Apesar da baixa adesão à
+intervenção, 100% das participantes recomendaria a TCI para outras pessoas, ainda
+que, 50% afirmem que a terapia contribui pouco para a melhora do seu quadro
+depressivo no período. O apoio emocional relatado durante a terapia foi considerado
+bom ou ótimo por 100% do grupo. A sintomatologia apresentou redução nos escores
+após a intervenção; A eficácia avaliada (HAM-D21) não foi atingida e não houve
+
+casos de remissão.
+
+Palavras-chave: Depressão. Enfermagem. Atenção Primária em Saúde. Terapias
+Complementares.
+ABSTRACT
+
+The objective of this study was to implement the Integrative Community
+Therapy in a basic Family Health Unit, in adults between 18 and 59 years old, of both
+sexes, diagnosed with depression, using fluoxetine, as a complementary treatment to
+the medication and to evaluate the effectiveness of the intervention. This is
+qualitative and quantitative methods, whose investigation scenario was in the
+metropolitan region of Rio Grande do Sul. The data were collected from the data
+collection questionnaire, Hamilton Scale (HAM -D21), and Beck Depression Inventory
+(BDI-II), assessed before and after the intervention (n = 20). The study included
+women aged between 40 and 59 years, predominantly white (90%), 50% with
+incomplete elementary education, 85% in treatment for more than 1 year; 75% with a
+history of previous depression. The intervention was organized in 8 sessions with
+variable frequency, two of them without participants; the predominant theme was
+family conflicts; No patient participated in all sessions, 50% did not attend any, 25%
+participated in 1 to 2 sessions. In the participating group, In the participating group,
+10% participated in 5 to 6 sessions. Despite the low adherence to the intervention,
+100% of the participants would recommend TClIto other people, although 50% affirm
+that the therapy contributes little to the improvement of their depressive condition in
+the period. The emotional support reported during therapy was considered good or
+excellent by 100% of the group. The symptoms showed a reduction in the
+classification scores after the intervention; The evaluated efficacy (HAM-D21) was
+
+not achieved, and there were no cases of remission.
+
+Key-words: Depression.Nursing. Primary Health Care. Complementary Therapies.
+LISTA DE ILUSTRAÇÕES
+
+ 
+
+Figura 1 - Fluxograma de coleta e análise de dados ensaio quase-experimental....
+
+Figura 2 - Fluxograma de coleta de dados prevista inicialmente..
+
+  
+
+Figura 3 - Fluxograma de coleta de dado estudo quase experimental
+
+Quadro 1- Número de participantes (N) e temática escolhida durante as rodas de
+(07 RR RR RPPN RR 29
+
+Tabela 1 - Assiduidade (número de sessões de TCI|), por indivíduo, no período de 4
+MESES... irrestrita reeareme area rea tie raarea cereais cia raa tenente tener area renan ten tan ranraada 31
+Tabela 2 - Distribuição populacional por idade nos pacientes incluídos na
+intervenção... rca carter ea eae rea aa rea ra raa sia ra aaa sia aa tiara aerea 32
+Tabela 3 - Distribuição populacional por idade dos participantes ativos da TCI....... 32
+Tabela 4 - Diagnóstico de depressão (meses)... seara 34
+Tabela 5 - Escore atingido em (HAM D21) antes e após o estudo, por indivíduo..... 35
+Tabela 6 - Escore atingido em Escala de Hamilton (HAM-D 21), resultado final e
+
+número de sessões , por indivíduo.............. seara cas renerearenetten 36
+ACS
+APS
+BDHI
+CEP
+ESF
+HAM-D,
+IBGE
+MAC
+oMs
+PNPIC
+TCC
+TCI
+TCLE
+TDM
+UNISINOS
+WHO
+
+LISTA DE SIGLAS
+
+Agente Comunitário de Saúde
+
+Atenção Primária em Saúde
+
+Inventário de Depressão de Beck
+
+Comitê de Ética e Pesquisa CEP
+
+Estratégia de Saúde da Família
+
+Escala de Hamilton
+
+Instituto Brasileiro de Geografia e Estatística
+Medicina Complementar e Alternativa
+Organização Mundial de Saúde
+
+Política Nacional de Práticas Integrativas e Complementares
+Terapia Cognitiva Comportamental
+
+Terapia Comunitária Integrativa
+
+Termo de Consentimento Livre e Esclarecido
+Transtorno Depressivo Maior
+
+Universidade do Vale dos Sinos
+
+World Health Organization
+SUMÁRIO
+
+1 PROBLEMATIZAÇÃO........................ esmero treerere nenem 9
+
+ZOBJETIVOS....... seem tamem tema antera era rran rrenan 1
+2.1 Objetivo Geral
+2.2 Objetivos Específicos
+
+ 
+ 
+
+ 
+
+2.3. Justificativa ..
+
+3 FUNDAMENTAÇÃO TEÓRICA......... sussa remessas terrena remsraanss 13
+3.1 Depressão e Estado Atual da Prática .................resemesmenestesersaeremermarraes
+
+ 
+
+3.2 Utilizações de Escalas Paramétricas para Avaliação da Depressão
+
+ 
+
+3.3 Terapia Comunitária Integrativa (TCI)....
+4 METODOLOGIA... rnerearaereanretne cast aee recem cten ara same aten tena aa 19
+4.1 Delineamento ....
+
+4.2 Critérios de Elegibilidade
+4.2.1 Critérios de Inclusão...
+
+ 
+ 
+
+4.2.2 Critérios de Exclusão.
+4.3 Local do Estudo
+
+ 
+
+4.4 Tamanho e Características da Amostra.................... ie reeteereeereesrameemeese 20
+4.5 Coleta de Dados .......semanaseassemeaeesaereareasasrasmemeaemastarascennarastemaana starts mensasria tantas 21
+4.6 Considerações Éticas .............. rm rreeesemeeeeeresemeerertessemeereerresemeereerransa 23
+
+5 RESULTADOS... mecenato cena rranrea rrenan 24
+5.1 A Intervenção ................n ni iereteeeerereeaseemerentoamreneerenseemarameremsemeerserenssemees 24
+5.1.1 Processo de Intervenção de TCI Implantado na UBS........................... 24
+
+5.1.2 Avaliação da Intervenção... eres eeeeeareeearereeens 25
+
+5.1.3 Tratamento Conservador... teres 33
+
+5.2 Avaliação dos Resultados da Intervenção.................... 34
+
+[DE fo7 UE ET (o PR 37
+7 CONSIDERAÇÕES FINAIS... reeeeeeeeeeamrseeeemeremrsaesa 42
+[=] 3] 155 3 N [o] [e 43
+APÊNDICE A - TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO............ 50
+
+APÊNDICE B — QUESTIONÁRIO DE COLETA DE DADOS.................. 51
+APÊNDICE C — CARTA DE ANUÊNCIA....................
+APÊNDICE D — FLUXOGRAMA ENSAIO CLÍNICO
+
+ANEXO A- HAM-D 21...
+1 PROBLEMATIZAÇÃO
+
+A depressão vem aumentando em todo o mundo, sendo o transtorno que
+mais afeta a população mundial. Em 2015, a prevalência dos transtornos
+depressivos foi estimada em cerca de 4% da população global e 6% da população
+brasileira (OMS, 2017). A Classificação Estatística Internacional de Doenças e
+Problemas Relacionados à Saúde, 11º Revisão (CID-11), afirma que transtornos
+depressivos são caracterizados por humor depressivo (por exemplo, triste, irritável,
+vazio) ou perda de prazer acompanhada por outros sintomas cognitivos,
+comportamentais ou neurovegetativos que afetam significativamente a capacidade
+de funcionamento do indivíduo.
+
+Estima-se que a depressão será a doença mais comum no mundo até 2030
+(ABELHA,2014). Com base em amostra de 49.025 adultos (18 a 59 anos) da
+Pesquisa Nacional de Saúde 2013, verificou-se que 9,7% dos adultos brasileiros
+apresentaram depressão, e 3,9%, depressão maior. Cerca de 21,0% relataram
+humor depressivo e em 34,9% deles esse sentimento esteve presente por mais de
+sete dias. (BARROS et al. ,2017). Em uma metanálise que incluiu 23 estudos com
+a população brasileira adulta (idade entre 18 e 65 anos), a estimativa de depressão
+maior e outros transtornos depressivos foi de 14%, com prevalência
+significativamente maior entre as mulheres do que nos homens. (SILVA et al., 2014).
+
+Com o aumento da expectativa de vida na população brasileira, a fase de vida
+adulta ocupa cerca de 50% do total do percurso de vida de cada indivíduo, gerando
+a necessidade de estudar esse adulto, que encontra pela frente caminhos diversos a
+percorrer, vivendo constantemente o processo de saúde-doença em seu período
+mais produtivo (SOUZA, 2007).
+
+Com o intuito de oferecer opções terapêuticas para atender à população,
+transformando o modelo de saúde atual, e incorporando os saberes culturais locais,
+o atendimento humanizado e integral, o Ministério da Saúde publicou, em 2006, a
+Política Nacional de Práticas Integrativas e Complementares. (PNPIC-SUS,2006).
+
+A PNPIC tem por objetivo estimular mecanismos de prevenção de agravos e
+recuperação da saúde, ampliando a oferta e as opções terapêuticas para um novo
+modelo de atenção à saúde e cuidado aos usuários do SUS. (PENNAFORT ,2012).
+
+Entre as práticas integrativas já reconhecidas em portaria, podemos citar:
+
+Apiterapia, Aromaterapia, Arterapia, Ayurveda, Biodança, Bioenergética,
+10
+
+Constelação familiar, Cromoterapia, Geoterapia; Hopnoterapia; Homeopatia,
+Imposição de mãos, Medicina Tradicional Chinesa- Acupuntura, Meditação,
+Musicoterapia; Naturopatia, Osteopatia, Ozonioterapia, Plantas medicinais —
+fitoterapia, Quiropraxia, Reflexoterapia, Reiki, Shantala, Terapia Comunitária
+Integrativa, Terapia de florais, Termalismo social/crenoterapia e Yoga. (MINISTÉRIO
+DA SAÚDE, 2018).
+
+A Terapia Comunitária Integrativa (TCI) é uma prática de efeito terapêutico,
+destinada à prevenção na área da saúde e ao atendimento de grupos heterogêneos
+através do contato face-a-face, promovendo a construção de vínculos solidários,
+onde a comunidade busca resolver os problemas de forma coletiva, oferecendo um
+espaço aberto para a troca de experiências fortalecendo a criação de vínculos e o
+resgate da autonomia dos indivíduos por facilitar a transformação de carências em
+competências (BARRETO, 2008). Ainda, a TCI pretende ser um instrumento de
+construção de redes de apoio social ao passo em que as pessoas tendem a adoecer
+menos ao saberem que contam com suporte emocional contínuo, uma vez que se
+reúnem e socializam seus problemas, contando com a sensibilização do grupo.
+(GRANDESSO ,2007).
+
+Os terapeutas comunitários são profissionais de diferentes áreas que passam
+por curso de capacitação para desenvolver atividades de prevenção e inserção
+social de indivíduos em sofrimento psíquico leve. (PNPIC-SUS, 2006). O profissional
+de enfermagem atuando na atenção primária tem possibilidade de utilizar diversas
+estratégias para qualificar o cuidado, ampliando assim seu campo de atuação. Como
+por exemplo, através da inserção de práticas integrativas e complementares.
+(PENNAFORT 2012).
+
+Nesse cenário, a Estratégia de Saúde da Família (ESF), que tem como um de
+seus objetivos humanizar as práticas de saúde, busca a satisfação do usuário
+através do estreito relacionamento dos profissionais com a comunidade e estimula
+esta ao reconhecimento da saúde como um direito do cidadão, oferecendo um
+espaço adequado para o desenvolvimento da saúde mental. (SOUZA etal, 2011). E,
+baseado nesse contexto, surge o objetivo e o interesse dessa pesquisa.
+11
+
+2 OBJETIVOS
+
+2.1 Objetivo Geral
+
+Implementar a TCl em uma unidade básica de Saúde da Família, em adultos
+de 18 a 59 anos, de ambos os sexos, com diagnóstico de depressão, como
+
+tratamento complementar ao medicamentoso.
+
+2.2 Objetivos Específicos
+
+Avaliar os resultados da TCI como terapia complementar em pacientes com
+
+depressão em uso de fluoxetina.
+
+2.3. Justificativa
+
+Os transtornos mentais são responsáveis por aproximadamente 13% da carga
+global de doenças mundialmente. (MUNHOZ, 2012). A prevalência na população
+geral para transtornos depressivos tem alcançado números entre 4% e 10%,
+incidência maior em mulheres, sendo que uma a cada 20 pessoas é atingida por um
+episódio depressivo durante o curso da vida, e em cada 50 casos diagnosticados
+com a patologia, um necessita de intemação. Ainda se estima que 15% dos
+deprimidos graves cometem suicídio (CUNHA, 2012).
+
+No Rio Grande do Sul, a prevalência de depressão em 2009 foi de 16,1%
+havendo uma tendência de aumento da prevalência de depressão conforme o
+avanço da idade, com o risco mais elevado entre os adultos de 50 a 59 de idade,
+que apresentaram uma prevalência maior, quando comparados a adultos de 20 a 29
+anos. Além disso, quanto maior o grau de escolaridade e nível econômico, menor a
+probabilidade de ocorrência de depressão (CUNHA, 2012).
+
+A depressão, em alguns casos, resolve-se espontaneamente, embora boa
+parte das pessoas com transtornos mentais busque auxílio na atenção básica e
+apenas uma pequena proporção tem acesso a psicofármacos ou são encaminhados
+para serviços específicos de saúde mental. (MUNHOZ, 2012).
+
+Atividades em grupos operativos na Atenção Primária, estimulam a prática
+coletiva de problematização e a organização desses grupos como modalidade de
+12
+
+atenção coletiva é cada vez mais frequente, principalmente como prática edu cativa e
+preventiva no Sistema de Saúde. (MENEZES, 2016).
+
+A TCl atua como tecnologia leve de cuidado, promotora de qualidade de vida.
+(AZEVEDO, 2013). No contexto da Saúde da família, Jataí (2012), afirma que a TCI
+vem se consolidando como uma nova tecnologia de cuidado em saúde mental,
+constituindo-se em instrumento valioso de intervenção psicossocial na saúde
+pública. Através da TClI, estes profissionais e a comunidade envolvida podem
+compreender melhor a origem de seus problemas e desenvolver estratégias que
+permitem um direcionamento de ações para a promoção da saúde. (ROCHA,2013).
+
+O uso de terapias complementares no Sistema Único de Saúde merece uma
+profunda reflexão, especialmente quando se investiga o sentido de sua adoção na
+política nacional de um país como o Brasil. (TELESI JUNIOR, 2016). Habitualmente
+uma intervenção é considerada adequado quando os benefícios esperados excedem
+as consequências negativas por uma margem suficientemente ampla que torne
+válida sua realização. (APOSTOLO,2016).
+
+De acordo com Azevedo (2013), os estudos científicos publicados a respeito
+da TCI, que envolvem o cenário da Estratégia de Saúde da Família e comunidade
+correspondem 84% e apenas 4 % (número absoluto 02) são estudos quantitativos.
+Em 2015, em estudo na atenção básica nordestina, a prevalência de depressão foi
+estimada em 5% a 10% de todos os pacientes do município. (COSTA, 2015). Esse
+cenário justifica e sugere a necessidade de pesquisas de intervenção que avaliem o
+real impacto e eficácia das mesmas, especialmente a TCI que será alvo deste
+estudo, proporcionando evidências científicas para a elaboração e discussão da
+Política Nacional de Práticas Integrativas e Complementares.
+
+Diante do exposto, surge o seguinte problema de pesquisa: A implantação da
+Terapia Comunitária Integrativa, como terapia complementar a medicamentosa com
+Fluoxetina, pode influenciar a diminuição do sofrimento do adulto depressivo,
+em pacientes (18 aos 59 anos), de ambos os sexos, acompanhados em uma
+unidade básica de Saúde da Família?
+13
+
+3 FUNDAMENTAÇÃO TEÓRICA
+
+Neste capítulo, apresentam-se os achados da pesquisa bibliográfica referente
+
+aos temas deste estudo.
+3.1 Depressão e Estado Atual da Prática
+
+A depressão é um problema de saúde pública significativo e crescente, sendo
+uma condição heterogênea com uma variedade de apresentações e uma ampla
+variedade de sintomas associados, e estima-se que 60% dos atendimentos em
+saúde mental ocorram no cenário da atenção primária e 79% das prescrições de
+antidepressivos são realizadas por médicos que não são especializados em saúde
+mental. (PARK LT et al, 2019). A Atenção Primária em Saúde (APS) é o cenário de
+tratamento mais comum para a depressão. (FRANK RG et al,2003).
+
+Várias abordagens de tratamento podem ser usadas para gerenciar a
+depressão, como psicoterapia, medicina complementar e alternativa (MAC),
+exercícios e farmacoterapia. (QASEEM et al,2016). O tratamento pode ser
+caracterizado por 3 fases: aguda (6 a 12 semanas), continuação (4 a 9 meses) e
+manutenção (> 1 ano). (Kroenke ,2001). As intervenções psicológicas usadas para
+tratar a depressão incluem terapia de aceitação e compromisso, terapia cognitiva,
+terapia cognitivo-comportamental (TCC), terapia interpessoal e terapias
+psicodinâmicas. (QASEEM et al,2016).
+
+Embora as diretrizes de melhores práticas apontem que depressão moderada
+a grave deve ser abordada com farmacoterapia juntamente com terapias
+complementares, estudos qualitativos de pessoas deprimidas com uma doença
+crônica indicaram que tanto os pacientes quanto os profissionais de saúde preferem
+um tratamento psicossocial para a depressão em detrimento de um tratamento
+farmacológico. (APOSTOLO et al, 2016).
+
+Vários modelos clínicos de atendimento a depressão evidenciaram melhoras
+no quadro depressivo na APS, mas não se mostraram sustentáveis ao longo do
+tempo, recomendando atenção não apenas para o desenho de intervenções
+clínicas, mas também para os sistemas de cuidado em que as intervenções serão
+implementadas. (FRANK RG et al, 2003).
+14
+
+Em uma revisão sistemática de estudos com delineamento experimental
+avaliou-se a eficácia de intervenções não farmacológicas para idosos com
+transtornos depressivos, incluindo 23 estudos e 520 participantes, sugerindo que
+todas essas intervenções reduzem os sintomas depressivo: terapia comportamental
+cognitiva, treinamento de memória competitiva, terapia de grupo de reminiscências,
+terapia de adaptação de problemas e terapia de resolução de problemas em
+atendimento domiciliar. (QASEEM et al,2016).
+
+Em estudo semelhante em adultos, comparando os benefícios e malefícios
+dos antidepressivos de segunda geração e da medicina psicológica, complementar e
+alternativa (MAC) e de exercícios como intervenções de primeira e segunda etapa
+para pessoas com Transtomno Depressivo Maior - TDM, encontrou-se eficácia
+semelhante, sendo a TCC e os antidepressivas opções viáveis para o tratamento
+inicial do TDM. A TCC e antidepressivos apresentaram as seguintes taxas:
+risco relativo [RR], 0,90 [IC 95%, 0,76 a 1,07]) e taxas de remissão (RR, 0,98 [CI,
+0,73 a 1,32]). Nos ensaios, os antidepressivos apresentaram maiores riscos de
+eventos adversos do que a maioria das outras opções de tratamento
+(GARTLEHNER et al., 2016).
+
+As intervenções não farmacológicas, ou seja, terapias complementares, tem
+efeito positivo e podem ser úteis nas práticas (APOSTOLO et al, 2018;
+(GARTLEHNER et al., 2016), mas as evidências não são fortes o suficiente para
+produzir diretriz de melhores práticas em virtude do baixo número de estudos de
+intervenção.
+
+Esforços destinados a melhorar o tratamento da depressão em ambientes de
+atenção primária devem levar em conta o contexto organizacional e econômico no
+qual as escolhas de tratamento são feitas, ainda que, esse tipo de atendimento
+represente uma pequena porção de todos os serviços prestados por médicos de
+atenção primária. (FRANK RG etal,2003).
+
+3.2 Utilizações de Escalas Paramétricas para Avaliação da Depressão
+
+No quesito depressão, não se dispõe até hoje de parâmetros biológicos, ou
+fisiológicos que avaliem suas manifestações clínicas de modo definitivo ou
+conclusivo, por isso escalas de depressão surgem como instrumentos úteis para
+avaliação e gravidade, servindo para traduzir quadros clínicos em informações
+15
+
+objetivas e quantitativas. (GALLUCCI NETO, 2007). Em relação a escolha de
+instrumentos (escalas) de depressão em crianças/adolescentes e adultos,
+(BAPTISTA, 2016) aponta como principais escalas utilizadas a HAM-D, a HADS e o
+BDI, tanto em bases brasileiras como estrangeiras.
+
+A Escala de Avaliação de Depressão de Hamilton (HAM-D), criada por Max
+Hamilton et al. inicialmente era composta por 21 itens, mas o próprio autor sugeriu,
+que os quatro últimos itens (variação diuma, despersonalização/desrealização,
+sintomas paranoides e sintomas obsessivo-compulsivos) fossem retirados porque
+eram menos frequentes e contribuem para definir o tipo de depressão, e não sua
+intensidade. A versão da HAM-D mais utilizada atualmente é composta por 17 itens,
+pontuados em escala Likert que varia entre O a 2 ou O a 4, conforme a intensidade
+do sintoma e cujo tempo de aplicação varia em torno de 15 a 30 minutos. (FREIRE
+et al,2014)
+
+As escalas de avaliação da gravidade da depressão podem ser divididas em
+escalas de: auto avaliação; heteroavaliação e mistas, que envolvem autoavaliação e
+heteroavaliação. A primeira escala de heteroavaliação (aplicada por um observador)
+foi a Escala de Hamilton (HAM-D), no final da década de 50. (GALLUCCI NETO,
+2007).
+
+A Escala de Avaliação de Depressão de Hamilton (HAM-D) é considerada
+ainda o padrão-ouro para medir desfechos em ensaios clínicos que avaliam eficácia
+de tratamentos para depressão, apesar de ser alvo de críticas relacionadas à baixa
+confiabilidade interavaliadores do instrumento, ao sistema de pontuação e à falta de
+entrevista estruturada. (ARAÚJO, 2011)
+
+Preconiza-se a utilização da HAM-D para pacientes previamente
+diagnosticados como portadores de transtorno depressivo maior (TDM), sendo
+usada principalmente na graduação da intensidade dos sintomas depressivos e
+como parâmetro de comparação entre escalas de avaliação a depressão novas e ou
+modificações da própria. (GALLUCCI NETO, 2007).
+
+A escala HAM-D é amplamente utilizada no Brasil, tanto em pesquisas quanto
+na prática clínica. Em estudo realizado, na região Sul do Brasil, o escore médio de
+pontos na HAM-D foi de 17 pontos (dp = 6,63) e não foram encontradas diferenças
+significativas relacionadas a sexo, nível socioeconômico e anos de escolaridade.
+
+Identificou-se o ponto de corte (9 pontos) para discriminar a presença ou não de
+16
+
+sintomas de depressão pela análise da curva ROC, resultando em uma sensibilidade
+e especificidade de 90 e 91%, respectivamente. (FREIRE, 2014).
+
+Ainda segundo Freire (2014, na literatura, não há registro de pontos de corte
+determinados pelo autor da escala, aceitando-se, na prática clínica, escores acima
+de 25 pontos como característicos de pacientes gravemente deprimidos; escores
+entre 18 e 24 pontos, pacientes moderadamente deprimidos; e escores entre 7 e 17
+pontos, pacientes com depressão leve.
+
+3.3 Terapia Comunitária Integrativa (TCI)
+
+A TCl iniciou na comunidade do Pirambú, uma das maiores favelas de
+Fortaleza-CE, Brasil. O seu modelo terapêutico foi desenvolvido pelo Departamento
+de Saúde Comunitária da Faculdade de Medicina da Universidade do Ceará (UFC),
+sob a coordenação do Professor Dr. Adalberto de Paula Barreto. (BARRETO, 2008.)
+
+Atualmente, está implantada em alguns países como França e Suíça, com
+alguma experiência no Uruguai e Argentina aonde vem sendo desenvolvida por
+enfermeiras, além de estar presente em todos os estados brasileiros. No Brasil, está
+implantada em dezessete estados. A partir das experiências nos vários cantos do
+Brasil, constata-se que o mais importante é transformar o unitário em comunitário, o
+individual em coletivo. (JATAI, 2012).
+
+A TCl é uma prática de efeito terapêutico, destinada à prevenção na área da
+saúde e ao atendimento de grupos heterogêneos através do contato face-a-face,
+promovendo a construção de vínculos solidários, onde a comunidade busca resolver
+os problemas de forma coletiva. (BARRETO, 2008).
+
+O espaço de escuta, reflexão e troca de experiências, cria uma teia de
+relação social entre os participantes, na busca de soluções para os conflitos
+pessoais e familiares. (BARRETO, 2008.) Pode ser utilizada pelos profissionais de
+saúde no enfrentamento de situações de sofrimento originárias do cotidiano. Através
+da terapia, estes profissionais e as pessoas da comunidade envolvida podem
+compreender melhor a origem de seus problemas e desenvolver estratégias que
+permitem um direcionamento de ações para a promoção da saúde (ROCHA,2013).
+
+De acordo com a Portaria no- 849, de 27 de março de 2017, TCI é uma
+prática de intervenção nos grupos sociais e objetiva a criação e o fortalecimento de
+redes sociais solidárias. Aproveita os recursos da própria comunidade e baseia-se
+17
+
+no princípio de que se a comunidade e os indivíduos possuem problemas, mas
+também desenvolvem recursos, competências e estratégias para criar soluções para
+as dificuldades.
+
+Nesse sentido, a comunidade local tem recursos para lidar com as angústias
+do cotidiano; aos especialistas cabem as patologias, o que requer diagnóstico e
+intervenções específicas; e ao espaço da TCI cabe acolher o sofrimento, evitando
+sua medicalização. (AZEVEDO,2013).
+
+A TCl tem sido utilizada com frequência na Estratégia de Saúde da Família
+(ESF) pelos enfermeiros. (SOUZA, 2010). Atua como primeira instância de atenção
+básica, porque acolhe o sofrimento e possibilita direcionar melhor as demandas.
+Com isso, permite que só afluam para os níveis secundários de atendimento
+situações que exigem a intervenção complementar do especialista. (JATAI, 2012).
+
+A TCl é baseada em cinco pilares: pensamento sistêmico, teoria da
+comunicação, antropologia cultural, pedagogia de Paulo Freire e resiliência. Os
+indivíduos se posicionam em forma de roda, com atividades que duram uma hora e
+meia, seguindo cinco etapas: acolhimento, apresentação e escolha de tema que
+será partilhado, contextualização, problematização, encerramento com rituais de
+agregação e conotação positiva (músicas, poesias e práticas positivas). O Terapeuta
+conduz a roda, atuando como facilitador da partilha do grupo, sem criar
+dependências.
+
+Ao chegarem a roda, todos são acolhidos pelo terapeuta com palavras,
+atividades de boas-vindas e as regras da TCl: fazer silêncio, não dar conselhos, não
+julgar, falar de si, propor músicas, poemas, contos, histórias, fábulas, paródia que
+tenham relação com o tema em questão. Durante a etapa de partilha dos temas,
+qualquer participante pode falar brevemente qual é a sua angústia, sem contar
+segredos. Então o grupo escolhe por votação o tema a ser discutido. O Terapeuta
+lança um mote ligado aos sentimentos surgidos na contextualização, e abre a
+oportunidade para que pessoas discutam a temática, compartilhem suas
+experiências de superação. Na A etapa final um círculo de pessoas abraçadas é
+formado e os participantes lançam uma palavra ou frase que levam da roda.
+(BARRETO, 2008).
+
+A inserção de recursos culturais como música, jogos e brincadeiras facilitam a
+comunicação e a interação grupal, possibilitando um clima de respeito, e liberdade,
+
+contribuindo de forma a enriquecer e harmonizar o andamento das rodas de TCI,
+18
+
+pois prepara o grupo para a fala de seus problemas e ajuda a interação interpessoal.
+(OLIVEIRA, 2011).
+
+Salienta-se, que a TCI denota a possibilidade de aproximação dos
+profissionais de saúde e comunidade, com destaque para o profissional enfermeiro,
+sendo um instrumento que possibilita troca de experiências, trabalhando prevenção
+e promoção a saúde de forma significativa e principalmente, valorizando o saber
+popular. (JATAI,2012).
+19
+
+4 METODOLOGIA
+
+Nesse item serão descritos os aspectos relacionados ao desenvolvimento
+metodológico deste estudo em duas etapas, estabelecer o processo de implantação
+
+da TCl em uma UBS e os resultados desta terapia.
+
+4.1 Delineamento
+
+Estudo do tipo descritivo qualitativo-quantitativo.
+
+4.2 Critérios de Elegibilidade
+
+Os sujeitos do estudo foram adultos, de ambos os sexos, entre 18 a 59 anos,
+com diagnóstico de depressão, em uso de Fluoxetina, acompanhados em uma
+unidade de Estratégia de Saúde da Família, de um município da região
+metropolitana do Rio Grande do Sul.
+
+Utilizamos como conceito de fase adulta a pessoa na faixa etária de 18 a 59
+anos, levando-se como referência o Estatuto da Criança e do Adolescente (1990),
+que considera a adolescência até os 18 anos, e o Estatuto do Idoso (2003), que
+define a pessoa idosa aquela que tem 60 anos ou mais.
+(BRASIL,1990;BRASIL,2003).
+
+4.2.1 Critérios de Inclusão
+
+* Adultos de ambos os sexos, com diagnóstico de depressão na faixa etária de
+18a 59 anos, 11 meses e 29 dias;
+
+* Escore de no mínimo 9 na escala de Hamilton (HAM-D);
+
+* Fazer uso diário de antidepressivo Fluoxetina;
+
+* Ser morador do município, e cadastrado na unidade básica de saúde alvo
+deste estudo;
+
+* Ter participado de pelo menos uma sessão de TCI no período de 4 meses;
+
+* Possuir Termo de Consentimento Livre e Esclarecido (TCLE) assinado.
+20
+
+4.2.2 Critérios de Exclusão
+
+e Portadores de doença mental com diagnóstico definido, exceto
+depressão;
+
+* Mulheres em ciclo gravídico e puerperal até 24 meses após o parto.
+
+4.3 Local do Estudo
+
+O estudo foi conduzido em uma unidade básica de saúde habilitada como
+Estratégia de Saúde da Família, localizada na região metropolitana do Rio Grande
+do Sul. Incluímos na amostra 2 equipes de ESF, responsáveis pelo atendimento de
+5033 pessoas (novembro de 2019). O local abriga 3 equipes completas, uma delas
+excluída do estudo, pois estava com quadro profissional incompleto, inviabilizando o
+atendimento equivalente.
+
+O município possui população acima de 50 mil habitantes. O nome do
+município não será divulgado. A escolha do município deu-se pelo interesse em
+fortalecer e apoiara promoção a saúde mental em atenção primária, e pela
+escassez de levantamentos epidemiológica desta região.
+
+4.4 Tamanho e Características da Amostra
+
+O município alvo deste estudo não possui estimativa sobre número de
+pacientes depressivos. Estudos recentes apontam que a depressão tem alcançado
+números entre 3,9% e 16% na população. (CUNHA, 2012; BARROS, 2017;
+SILVA,2014). Esse cenário, bastante variado, dificulta a escolha de um padrão para
+cálculo amostral. Como trata-se de uma implantação de terapia complementar, com
+atividade em grupo, utilizamos como base referência a Portaria nº 761 (BRASIL,
+2006), que recomenda a abordagem cognitivo-comportamental em sessões em
+grupo de apoio, entre 10 a 15 participantes. O processo de coleta de dados e seu
+fluxo são descritos no item coleta de dados.
+
+Os usuários foram selecionados por disponibilidade. As etapas do estudo são
+executadas por profissionais distintos. A Escala de Hamilton (anexo A), preenchida
+pelo médico; A intervenção executada por uma das pesquisadoras e outras
+
+profissionais do município com mesmo nível de formação em TClI; A análise dos
+21
+
+dados oriundos dos formulários de coleta de dados executada pela pesquisadora em
+parceria com a orientadora PSL, após a finalização da intervenção.
+
+4.5 Coleta de Dados
+
+Os indivíduos selecionados pelas duas equipes da unidade, respeitando os
+critérios de elegibilidade, são acionados por telefone pela pesquisadora e
+informados sobre a existência da pesquisa, seus passos, riscos e benefícios.
+Convidados a comparecerem na UBS recebem as orientações, preenchem o Termo
+de Consentimento Livre e Esclarecido (TCLE) e de acordo com a disponibilidade dos
+usuários, recebem o agendamento de consulta médica, o Questionário de coleta de
+dados (apêndice B) para preenchimento em casa e devolução através do ACS.
+
+As consultas de avaliação médica antes da intervenção ocorrem no decorrer de
+julho e agosto de 2019, sendo executadas pelo mesmo médico, para evitar viés de
+avaliação. Este profissional é o responsável pela aplicação da Escala de Hamilton
+(anexo A) e o acompanhamento ao longo do processo. O treinamento fornecido pela
+pesquisadora consiste na leitura do questionário e discussão do manual de
+instruções da Escala de Hamilton denominado GRID-HAMD e adaptado por Araújo
+(2011).
+
+A escala de Hamilton é definida como padrão para avaliar os resultados da
+terapia. A resposta ao tratamento, e consequentemente sua eficácia, é definida
+como redução > 50% na gravidade medida na Escala de Depressão de Hamilton
+(HAM-D) e a remissão definida como escore da HAM-D <7. (QASEEM et all,2016).
+O acompanhamento médico durante o processo de intervenção não sofrerá
+mudanças, cabendo ao paciente agenda-lo conforme a sua necessidade e rotina da
+unidade.
+
+Inicialmente tratava-se de um ensaio clínico randomizado, com grupo controle.
+Ao passo que a Intervenção demonstrou a necessidade de abandono do grupo
+controle, conforme fluxo descrito no Apêndice D e na análise da intervenção, optou -
+se pela troca de método, para estudo quase experimental, mantendo os mesmos
+questionários de coleta de dados.
+
+A opinião dos usuários a respeito do atendimento médico e durante a terapia é
+avaliada através do apêndice B.
+22
+
+A avaliação final (pós intervenção), é disponibilizada apenas aos indivíduos
+com participação em pelo menos uma sessão de TCI. Estes receberam o
+questionário de coleta de dados (apêndice B) e o agendamento de sua consulta em
+casa, 10 dias após o término da intervenção. As consultas médicas podem
+ocorrer conforme a necessidade dos participantes até o dia 31/1219. São
+considerados para avaliação dos resultados apenas os indivíduos com pelo menos 2
+consultas médicas (pré e pós teste), 1 sessão de TCI ou mais, e questionários
+entregues. O processo de coleta e análise de dados segue o modelo Figura 1-
+
+Fluxograma de coleta e análise de dados ensaio quase-experimental.
+
+Figura 1 - Fluxograma de coleta e análise de dados ensaio quase-experimental
+
+ 
+
+Avaliados para elegibilidade
+
+ 
+
+ 
+
+Excluídos
+
+ 
+
+Seguimento
+
+ 
+
+Consulta Médica Inicial
+
+ 
+
+ 
+
+Preenchimento Questionário
+
+ 
+
+ 
+
+ 
+
+ 
+
+Excluídos
+
+ 
+
+ 
+
+ 
+
+ 
+
+Intervenção
+
+!
+
+ 
+
+Sessões de TCI
+
+Excluídos
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Seguimento
+
+j
+
+ 
+
+Consulta Médica Final
+I
+Preenchimento Questionário
+T
+Excluídos
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'
+
+Fonte: Elaborado pela autora, 2020
+23
+
+4.6 Considerações Éticas
+
+Esta pesquisa foi aprovada pelo Comitê de Ética em Pesquisa (CEP) da
+Universidade Vale Rio dos Sinos/UNISINOS, parecer 3.265.359/2019. Todos os
+princípios éticos serão respeitados em relação ao acesso e à análise dos dados,
+respeitando as normas de pesquisa em saúde mencionadas pela Resolução nº
+466/12 do Conselho Nacional de Saúde do Ministério da Saúde. (BRASIL, 2012).
+
+Assegurou-se o direito à confidencialidade dos dados e o cuidado na utilização
+das informações nos trabalhos escritos. O projeto não previu nenhuma forma de
+remuneração financeira para os participantes.
+
+A intervenção apresentou risco mínimo, envolvendo aspectos emocionais, não
+fornecendo nenhum risco eminente em relação a fármacos, visto que os pacientes já
+estavam em acompanhamento e tratamento com a medicação Fluoxetina.
+
+A terapia TCl já é realizada em alguns locais do município e até o momento
+não demonstrou nenhum evento adverso e é amplamente utilizada no país.
+
+O paciente pôde deixar o estudo a qualquer momento, com total respeito a sua
+liberdade. A participação em todas as sessões não foi obrigatória, sendo possível
+faltar a TCI, sem considerarmos abandono, desde que houvesse justificativa. O
+abandono foi considerado quando referido pelo paciente.
+
+Os benefícios esperados seriam a melhora do quadro depressivo dos
+pacientes, o atendimento próximo a residência, bem como a segurança dos
+profissionais quanto aos resultados da terapia complementar TCI e seu uso na
+Atenção Primária em Saúde.
+
+Os dados deste estudo serão divulgados em meios científicos sem que seja
+possível a identificação individual dos participantes ou do município. Todos os
+participantes foram informados de forma clara sobre os objetivos e métodos da
+pesquisa e assinaramo TCLE (APÊNDICE A).
+
+Os pacientes com sintomas relativos a algum transtorno mental na entrevista
+clínica do estudo principal são encaminhados para o serviço de saúde mental do
+
+município.
+24
+
+5 RESULTADOS
+
+Tratando-se de um estudo constituído por duas etapas: Implantação do
+
+processo de TC] e avaliação dos resultados.
+
+5.1 A Intervenção
+
+O processo de intervenção será descrito nas seguintes etapas: processo de
+
+intervenção, avaliação da eficácia da intervenção, tratamento conservador.
+
+5.1.1 Processo de Intervenção de TCI Implantado na UBS
+
+A terapia foi instituída no local de estudo como ação complementar ao
+tratamento medicamentoso com Fluoxetina em pacientes adultos com depressão. A
+duração da intervenção é de quatro meses, utilizando como base e inspiração a
+Portaria nº 761 (BRASIL, 2066), que orienta o Grupo de Tabagismo do Ministério da
+Saúde, e recomenda a abordagem cognitivo-comportamental em sessões em grupo
+de apoio, entre 10 a 15 participantes.
+
+A execução se dá pela coordenação de três profissionais de saúde de nível
+superior, com mesmo tempo de formação em TCI, intercalando-se em duplas
+durante o período, sendo um deles a pesquisadora. O esquema segue 4 sessões
+semanais, seguidas de 2 sessões quinzenais, com os mesmos participantes,
+seguidas de 2 mensais, totalizando 4 meses (8 sessões). As sessões de terapia
+ocorrem na ubs, com duração média de 75 minutos, variando conforme a
+necessidade do grupo. Cada integrante do grupo recebe as datas das sessões, e
+posteriormente é relembrado da mesma pelo ACS.
+
+As sessões ou rodas de terapia seguem o modelo recomendado por Barreto
+(2008), percorrendo as seguintes fases: Acolhimento; Escolha do tema;
+Contextualização; Problematização e Encerramento. No Acolhimento procura-se
+ambientar o grupo, em círculo, utilizando músicas, dinâmicas e celebrações de fatos
+positivos. As regras da Terapia também são acordadas nesse primeiro momento. Na
+escolha do tema, os problemas ou situações vivenciadas pelo grupo são expostos,
+havendo uma votação do tema a ser abordado. Na fase de Contextualização o tema
+
+escolhido é relatado pelo envolvido. Na problematização, os demais membros do
+25
+
+grupo possuem a liberdade de questionar a situação, tentando levar o envolvido a
+reflexão da origem do problema. O terapeuta conduz o processo de forma
+organizada, sem maiores interferências ou julgamentos. No Encerramento, é
+proporcionado um ambiente de reflexão interna, onde o terapeuta procura fazer
+conotações positivas a todos que se expuseram ou apresentaram seus sofrimentos,
+em uma ação de apoio comunitário. A roda é encerrada com todos em círculo,
+abraçados, estimulando que todos expressem em palavras as transformações que
+aquele encontro proporcionou.
+
+As dinâmicas e músicas escolhidas para a intervenção são pensadas para
+estimular a fala dos problemas vivenciados, a interação social, a demonstração de
+sentimentos e a confiança. Não seguem um modelo já testado e são oriundas da
+
+vivência pessoal da pesquisadora e os demais terapeutas.
+
+5.1.2 Avaliação da Intervenção
+
+Inicialmente o processo de seguimento desta pesquisa foi projetado e
+aprovado pelo CEP como um ensaio clínico randomizado, com o objetivo de
+implantara TCI em uma unidade básica de Saúde da Família, em adultos de 18 a 59
+anos, de ambos os sexos, com diagnóstico de depressão, como tratamento
+complementar ao medicamentoso após a intervenção complementar, em relação a
+outro grupo não exposto a terapia, ambos em uso de Fluoxetina. O processo de
+coleta de dados seguiria o caminho metodológico descrito na Figura 2 - Fluxograma
+
+de coleta de dados prevista inicialmente:
+26
+
+Figura 2 - Fluxograma de coleta de dados prevista inicialmente.
+
+ 
+
+Fonte: Elaborado pela autora, 2019
+
+O processo de desenvolvimento e execução da pesquisa demonstrou -se
+incompatível com a realidade local, ocasionando mudanças, descritas como parte
+integrante do processo de implementação e demonstradas na Figura - 3 Fluxograma
+de coleta de dado estudo quase experimental:
+27
+
+Figura 3 - Fluxograma de coleta de dado estudo quase experimental
+
+Avaliados para elegibilidade (n=44)
+T
+Oriundos do * Ensaio Clínico
+” Grupo Controle (n=8)
+” Grupo TCI (n=12)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Excluídos (n=24)
+”Y Não atendem aos critérios de inclusão (n=0)
+” Não compareceram a consulta médica (n=10)
+Y Desistiram de participar do estudo (n=14)
+
+Oriundos do Grupo Controle (n=8)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oriundos do Grupo TCI (n=12)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12Semanal (n=3) || 12Quinzenal (n=0) | | 1ºMensal (n=4)
+
+ 
+
+ 
+
+ 
+
+=22 sessão (n=8)
+
+ 
+
+2º Quinzena (n=3) | [ 2emensal(nc0)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+32 sessão (n=5)
+
+ 
+
+ 
+
+ 
+
+ 
+
+42 sessão (n=4) *mudança de método
+
+ 
+
+Y
+Perda de seguimento da TCI (n=12)
+Perda de seguimento Consulta médica (n=05)
+Perda de Devolução de Questionários (n= 02)
+
+v
+
+Pacientes Analisados (n=5)
+Questionários (n=8)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborado pela autora, 2019
+28
+
+As equipes da unidade de saúde selecionaram 44 indivíduos depressivos em
+uso de fluoxetina, 2 homens e 42 mulheres, todos preenchendo os critérios de
+inclusão e exclusão. A coordenadora da unidade sorteou, através de software, os
+pacientes em dois grupos de 15 indivíduos cada, entrando em contato com eles por
+telefone. Alguns pacientes (2), por comodidade e interesse pessoal, resolveram
+trocar de grupo, informando a coordenadora. Tal fato inviabilizou a confiabilidade na
+randomização, optando-se assim por alocá-los por disponibilidade. Os contatos
+foram refeitos e as primeiras 15 pessoas interessadas foram direcionadas ao grupo
+da TCI, as demais ficaram no grupo controle (15), o restante como reserva. Nenhum
+homem manifestou interesse pela TCI.
+
+As consultas médicas, de ambos os grupos foram agendadas com o mesmo
+médico. A avaliação inicial contou com desistências, 07 no controle e 3 na TCI.
+Estes preencheram a Escala e o questionário inicial (Apêndice B). O grupo controle
+foi orientado a manter sua rotina de consulta habitual; o grupo da TCI, a manter
+consultas de rotina e comparecer nas sessões de TCI, recebendo as datas das
+mesmas. Na véspera das sessões o ACS visitou a residência dos participantes e
+confirmou a presença dos mesmos.
+
+As sessões (intervenção) ocorreram nas quartas-feiras, às 18 horas, nas
+dependências da UBS, com duração média de 1h15min. No primeiro mês foram
+semanais (04), em seguida quinzenais (02) e posteriormente mensais (02). A
+intervenção iniciou na primeira semana de agosto de 2019 e finalizou na última de
+novembro de 2019. O período escolhido tentou excluir as férias escolares e o
+inverno rigoroso.
+
+As sessões ou rodas de TCI, seguiram o modelo recomendado por Barreto
+(2008) adaptado, visto que o idealizador não estipula número específico de
+participantes para as rodas e recomenda população variada. As sessões foram
+executadas pela pesquisadora MNS, com a colaboração de outros terapeutas
+municipais também capacitados na área, em dupla. Os terapeutas possuem mesmo
+nível e tempo de formação da pesquisadora.
+
+A primeira sessão de TCI contou com a participação de 03 pacientes, quietas e
+sofridas, com vivências ricas e semelhantes. Em virtude da baixa frequência do
+grupo de TCI na 1º sessão, a equipe de pesquisadores optou por chamar o grupo
+reserva, abandonar o grupo controle, convidando-os para a TCI. Optou-se também
+
+pela mudança de método, para estudo quase experimental. A segunda sessão teve
+29
+
+08 participantes (3 oriundos do grupo controle), a terceira 05; a quarta 04. Na etapa
+5º sessão (quinzenal) não houve participantes; na Sexta sessão 03. A Etapa mensal
+(7º sessão) 04 presentes e a 8º nenhum.
+
+As sessões foram realizadas sempre em dupla, com o apoio de 3 terapeutas.
+No Quadro 1 - Número de participantes (N) e temática escolhida durante as rodas de
+TCI, podemos verificar o tema escolhido pelo grupo durante as sessões.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quadro 1- Número de participantes (N) e temática escolhida durante as rodas de TCI.
+Sessão N Dinâmica Tema da Roda
+
+Sessão 1 3 Deixando-se levar Desequilíbrio entre dar e receber.
+Sessão2 | 8 Espelho Alcoolismo
+
+Sessão3 | 5 Herança transgeracional Conflitos familiares
+Sessão4 | 4 Desafiar sonhos Ansiedade, conflitos familiares
+Sessão5 | O não ocorreu não ocorreu
+
+Sessão 6 | 3 O que eu quero deixar Conflitos com parceiro
+Sessão7 | 4 Trenzinho carinhoso Auto imagem
+
+Sessão 8 | O não ocorreu não ocorreu
+
+Fonte: Elaborado pela autora, 2020
+A primeira sessão teve duração além do previsto, de aproximadamente 90
+
+ 
+
+minutos, e contou com a presença dos 3 terapeutas, e 3 pacientes. As cadeiras do
+ambiente foram posicionadas em círculo. Houve a acolhida dos mesmos, a
+explicação do funcionamento da intervenção, e a roda seguindo o modelo
+proposto. No acolhimento utilizou-se a dinâmica “Deixando-se levar”. Esta dinâmica
+envolve o exercício de deixar-se guiar pelo colega de olhos fechados pelo ambiente,
+e posteriormente troca-se de papel. Celebraram-se as conquistas e fatos
+importantes no mês havendo dificuldade na percepção de sua importância. O tema
+escolhido para problematização foi o equilíbrio entre dar e receber, com relatos
+marcantes em relação à sobrecarga de tarefas centrada na mulher, oriunda de
+
+filhos, pais e cônjuge. Neste encontro houve certa dificuldade do grupo em seguir o
+30
+
+modelo proposto por Barreto (2008), principalmente em relação a escolhe de apenas
+uma temática principal para contextualização, havendo uma necessidade constante
+em dar conselhos umas às outras, interrompendo o fluxo da roda. A demonstração
+de sentimentos, através de música, abraços e apoio emocional foi tímida.
+
+A segunda sessão ocorreu com mais naturalidade, contando com a
+participação de 8 pacientes, incluindo novatos. Destes, alguns desejando somente
+ouvir. A dinâmica do “Espelho” oportunizou que cada um relatasse o que via de
+positivo e negativo em sua aparência física e emocional. O tema escolhido foi o
+Alcoolismo, presente na vivência de 7 participantes. Como houve uma grande
+identificação com o tema, os relatos foram repletos de sentimento e apoio entre os
+participantes, com um encerramento dentro do tempo previsto (75min), rico em troca
+de experiências.
+
+A terceira sessão previa uma dinâmica para estimular a troca de abraços, mas
+foi substituída. Logo que os pacientes chegaram (5), sentiram a necessidade de
+continuar com a temática anterior (alcoolismo). Seguimos a roda, e como
+acolhimento executamos a dinâmica “Herança Transgeracional, na qual os
+participantes contam o que trazem de positivo e negativo de seus pais, e o que
+estão repetindo. Duas participantes são casadas com alcoolistas, assim como eram
+suas mães. O tema escolhido foi conflitos familiares entre pais e filhos, com relatos
+sobre discordância e aceitação de escolhas, dificuldades financeiras e de convívio.
+
+A quarta sessão contou com 4 participantes, com o tema inicial ansiedade com
+as questões do dia a dia, mas terminou retomando o tema dos conflitos familiares. A
+dinâmica “Desafiar Sonhos” proporcionou falar sobre os planos de vida de cada um.
+O encerramento após a roda contou com uma demonstração de exercício de
+meditação guiada.
+
+A quinta sessão, primeira quinzenal, não teve participantes, o dia estava frio e
+chuvoso. Esta foi encerrada após 20 minutos de espera.
+
+A sexta sessão contou com três participantes, sendo uma novata. O tema
+escolhido foi o conflito com o parceiro, e teve ligação clara com a dinâmica proposta,
+“O que eu quero deixar”, fazendo com que os participantes falassem sobre os
+hábitos negativos que necessitavam abandonar. Os relatos foram extremamente
+sofridos, inclusive com queixa de violência doméstica física e emocional,
+
+necessitando de um encerramento com prática de respiração. O apoio emocional no
+31
+
+grupo foi intenso e resultou em encaminhamento ao serviço de assistência social e
+atendimento psicológico.
+
+A sétima sessão ocorreu sem episódios de choro, comum às demais. O
+acolhimento contou com uma dinâmica “Trenzinho carinhoso” na qual os
+participantes ficam em círculo, cantam e fazem massagem uns nos outros. O tema
+escolhido para a roda foi autoimagem, com predomínio das queixas relacionadas a
+sobrepeso.
+
+Na oitava e última sessão, assim como a quinta não houve participantes. A
+temperatura estava agradável. Assim novamente foi encerrada após 30 minutos de
+espera.
+
+Após o término dessa etapa, procedeu-se à análise dos resultados da
+intervenção. Os conflitos familiares e ou com o parceiro estiveram presentes em
+50% dos encontros (3), e se considerarmos o alcoolismo como integrante dessa
+problemática, teremos 66,6% das temáticas de roda.
+
+O grupo selecionado para TCI (20) apresentou alta taxa de desistência (50%)
+entre a fase inicial e a última sessão de intervenção. Somente 10 pacientes
+compareceram em pelo menos 1 sessão. A participação na TCI foi estimulada
+através de encaminhamento médico, não sendo obrigatória a participação em todas
+as sessões, mas de certa forma influenciada.
+
+Nenhum paciente participou de todas as sessões, 50% não compareceram a
+nenhuma, 25% participaram de 1 a 2 sessões. No grupo participante (10) 10%
+participaram de 5 a 6 sessões. O aumento de pacientes na segunda sessão deve-se
+a troca de método.
+
+Tabela 1 - Assiduidade (número de sessões de TCI), por indivíduo, no período de 4 meses.
+
+ 
+
+ 
+
+Número de Sessões N Ya
+O sessões 10 50,00%
+1a2sessões 5 25,00%
+3a4 sessões 3 15,00%
+5a 6 sessões 2 10,00%
+7a8sessões 0 0,00%
+Total 20 100,00%
+
+ 
+
+Fonte: Elaborado pela autora, 2020
+32
+
+No grupo incluído para intervenção (n=20), 85% dos indivíduos possuem
+idade entre 40 e 59 anos, com predomínio na faixa etária dos 50 a 59 anos (45%) e
+apenas 5% abaixo de 30 anos.
+
+Tabela 2 - Distribuição populacional por idade nos pacientes incluídos na intervenção.
+
+ 
+
+ 
+
+Idade N %
+18 a 29 anos 1 5,00%
+30 a 39 anos 3 15,00%
+40 a 49 anos 08 40,00%
+50 a 59 anos 09 45,00%
+
+Total 20 100,00%
+
+ 
+
+Fonte: Elaborado pela autora, 2020
+
+Se analisarmos o grupo novamente, com a exclusão dos desistentes (0
+sessões), teremos um perfil de participantes (n=10) com 80% acima de 40 anos,
+
+10% abaixo de 30 anos, com maior desistência na faixa etária dos 50 a 59 anos.
+
+Tabela 3 - Distribuição populacional por idade dos participantes ativos da TCI
+
+ 
+
+ 
+
+Idade N %
+18 a 29 anos 1 10,00%
+30 a 39 anos 1 10,00%
+40 a 49 anos 4 40,00%
+50 a 59 anos 4 40,00%
+
+Total 10 100,00%
+
+ 
+
+Fonte: Elaborado pela autora, 2020
+
+Em relação à cor da pele, 18 mulheres definiram-se como brancas (90%) e 2
+como pretas, totalizando 10%. A escolaridade predominantemente é ensino
+fundamental, sendo 50% fundamental incompleto, ensino médio completo (15%),
+ensino médio incompleto (10%) e ensino superior (5%).
+
+O tabagismo ou uso de álcool regularmente foi negado por 95% do grupo,
+mas o tema alcoolismo esteve presente em pelo menos uma roda de terapia como
+
+tema principal, e relacionado em pelo menos duas.
+33
+
+A jornada de trabalho e a interferência ou não no quadro depressivo também
+foram avaliados, 55% pessoas (11) não trabalham; 5% (1) tem jornada de trabalho
+variada; e 30% (6) trabalham 40 horas semanais. Os pacientes que trabalham não
+identificam o trabalho ou a ausência dele como tendo uma interferência
+significativamente no seu quadro depressivo.
+
+Analisando especificamente o grupo que não trabalha, 50% não respondeu o
+questionamento; 25% afirmaram que o trabalho ou a ausência dele interfere no
+quadro depressivo e 15% não interfere. Tais dados nos despertam o
+questionamento sobre a possibilidade de o preconceito social com o desemprego
+interferir na percepção e ou negação da relação causal entre depressão e trabalho.
+O salário ou a renda financeira não apresentaram associação com o quadro
+
+depressivo, 50% afirma que interfere, e outros 50% negam tal associação.
+
+5.1.3 Tratamento Conservador
+
+A rotina de atendimento médico durante a intervenção não foi alterada,
+ficando a critério clínico e do paciente. Inicialmente prevista como mensal, foi
+extremamente variada (critério clínico), impossibilitando uma padronização
+estatística, e necessitando um estudo isolado.
+
+Como rotina na ubs, receitas de antidepressivo são renovadas a cada 2
+meses, queixas clínicas pontuais são avaliadas em acolhimento. As consultas de
+retorno são avaliadas individualmente pelo médico. Atendimentos com psicólogo e
+psiquiatra são oferecidos no CAPS (Centro de Atenção Psicossocial) e necessitam
+de encaminhamento clínico, não havendo histórico de atividades em grupo voltadas
+para depressão no local, ou estatísticas anteriores ao estudo.
+
+A ESF possibilita maior aproximação entre usuário, profissional e a
+comunidade. Essa proximidade é um importante recurso, principalmente no que se
+refere ao enfrentamento dos agravos vinculados ao sofrimento psíquico, que vêm se
+mostrando frequentes, e ainda pouco tratados (PEREIRA et al., 2007).
+
+Um dos questionamentos avaliados na Tabela 4 - Diagnóstico de depressão
+(meses), foi “Há quanto tempo você sabe que tem depressão? ”, 85% da amostra
+(17), responderam a mais de 1 ano, 5% a mais de 6 meses (1) e 10% (2), não
+responderam, mesmo estando em uso de medicação e em acompanhamento
+regular.
+34
+
+Tabela 4 - Diagnóstico de depressão (meses).
+
+ 
+
+ 
+
+Tempo N Yo
+Não respondeu 2 10,00%
+Menos de 1 mês o 0,00%
+Mais de 3 meses 0 0,00%
+Mais de 6 meses 1 5,00%
+Mais de 12 meses. 17 85,00%
+Total 20 100,00%
+
+ 
+
+Fonte: Elaborado pela autora, 2020
+
+O tempo de uso de fluoxetina é distribuído em 65% (13) usam a medicação a
+mais de 1 ano, 10% a 6 meses e 25% a 3 meses, sendo que 75% das mulheres já
+apresentou depressão anteriormente e 65% já teve algum familiar com o mesmo
+
+quadro depressivo.
+
+5.2 Avaliação dos Resultados da Intervenção
+
+Neste estudo avaliamos a redução sintomatológica e a melhora ou não no
+quadro de depressão através da Escala de Avaliação de Depressão de Hamilton
+(HAM-D), contida no formulário de coleta de dados (anexo A) aplicada antes e após
+a intervenção. Utilizamos HAM —D 21. A opinião dos usuários sobre a intervenção é
+apontada pelo questionário de coleta de dados pós intervenção. Lembramos que o
+número reduzido de pacientes (5), que concluíram todas as etapas, não permite uma
+significância estatística, mas pode apontar caminhos futuras pesquisas.
+
+A taxa de desistência da intervenção total (incluindo consultas médicas e TC!)
+foi de 75% entre a fase inicial e final, somente 5 dos 20 pacientes concluíram todas
+as etapas, fortemente influenciada pelo não comparecimento em consulta médica. A
+primeira consulta médica que previa inicialmente a avaliação de 30 pacientes,
+contou com apenas 20 usuários, com taxa de comparecimento de 66,6%. Ao longo
+do estudo e do processo de acompanhamento médico, a desistência entre avaliação
+inicial e final foi de 75%.
+
+As sessões de TCI apresentaram desistência antes da 1º sessão de 50%,
+mantendo o mesmo índice ao longo do processo, 25% de participação em 1 a 2
+35
+
+sessões, e 10% acima de 5 rodas. Em relação às faltas e ou abandono da terapia,
+50% das pacientes atribuem ao fato de não gostarem de expor seus sentimentos em
+grupo, seguido pela falta de tempo (25%), horário das sessões incompatível
+(12,5%), não vejo necessidade, estou bem (12,5%).
+
+Apesar da baixa adesão à intervenção, 100 % das participantes recomendaria
+a terapia (TC|) para outras pessoas, ainda que, 50% afirmem que a terapia contribui
+pouco para a melhora do seu quadro depressiv. No que diz respeito à frequência
+das sessões, houve uma paridade, 37,5% prefere semanal e outros 37, 5%
+quinzenal.
+
+O apoio recebido pela família, não especificando cônjuge ou filhos era
+considerado bom por 60% e posteriormente passou a 50%. O apoio emocional
+fornecido pela equipe de terapeutas durante a TCI foi apontado como bom pela
+totalidade (100%) dos indivíduos, havendo inclusive uma melhora nos índices de
+apoio emocional em atendimento individual durante as consultas médicas, que
+passou de 75% para 100% após a intervenção.
+
+A sintomatologia dos pacientes, e consequentemente a evolução dos escores
+de sintomas depressivos atingidos em HAM D21, foram classificados de acordo com
+Moreno (1998) em depressão mínima, 7-17; moderados, 18-24; e graves (25 ou
+mais), possibilitando avaliar uma melhora ou não no quadro geral dos pacientes
+
+após a intervenção.
+
+Tabela 5 - Escore atingido em (HAM D21) antes e após o estudo, por indivíduo.
+
+ 
+
+ 
+
+Paciente Escore inicial Classificação Inicial Escore final Classificação Final
+1 26 Depressão Grave 10 Depressão Mínima
+2 12 Depressão Mínima 13 Depressão Mínima
+3 33 Depressão Grave 16 Depressão Mínima
+4 12 Depressão mínima 10 Depressão Mínima
+5 25 Depressão Grave 16 Depressão Mínima
+
+ 
+
+Fonte: Elaborado pela autora, 2020
+36
+
+A Tabela 5 - Escore atingido em (HAM D21) antes e após o estudo, aponta
+uma redução sintomatológica importante. Inicialmente 40% dos pacientes
+apresentavam quadro depressivo mínimo e 60% grave. Após a intervenção 100%
+apresentou classificação depressão mínima.
+
+Os escores iniciais do grupo apresentam índices elevados em HAM-D 21,
+variando entre 12 e 26, com mediana 25. Na fase final os valores variaram de 10 a
+16 com mediana 13. Essa diferença entre os dois momentos, mesmo não sendo
+estatisticamente significativa apresenta uma tendência à diferença (Related —
+Samples Wilcoxon Signed-Rank test P=0,08).
+
+O escore (HAM-D 21) monitorado antes e após a intervenção pode ser
+observado na Tabela 6 - Escore atingido em Escala de Hamilton (HAM-D 21),
+
+resultado final e número de sessões, por indivíduo.
+
+Tabela 6 - Escore atingido em Escala de Hamilton (HAM-D 21), resultado final e número de sessões ,
+por indivíduo.
+Paciente HAM-D inicial -HAM-D final Resultado Final (h) Nº sessões
+
+ 
+
+ 
+
+1 26 10 -61,54% 1
+2 12 13 3,85% 3
+3 33 16 -65,38% 1
+4 12 10 -7,69% 5
+5 25 16 -34,62% 5
+
+ 
+
+Fonte: Elaborado pela autora, 2020
+
+Levando em consideração os parâmetros de redução apontados por QASEEM
+et all (2016), a eficácia é de 30,57%. Apenas 2 pacientes atingiram redução > 50%
+na gravidade medida na Escala de Depressão de Hamilton (HAM-D), não havendo
+nenhuma remissão. Os pacientes com redução (1 e 3), só participaram de 1 sessão
+de TCI, fato esse, que impossibilita considerar a TCI como fator significante para o
+
+desfecho.
+37
+
+6 DISCUSSÃO
+
+O efeito de uma intervenção psicoterápica pode ocorrer pela interação de
+variáveis relacionadas ao paciente, ao terapeuta e à relação estabelecida entre eles,
+seu plano de tratamento deve incluir os aspectos individuais do paciente, as
+características do quadro psicopatológico apresentado por ele e a utilização de
+técnicas efetivas avaliando sua efetividade e eficácia, podendo compreender, como
+se dá a mudança no decorrer do tratamento e identificar os mecanismos de ação
+terapêutica. (PEUKER et al..2009)
+
+A experiência da TCl em uma cidade no nordeste brasileiro, com grupos não
+específicos e de todas as idades, demonstrou boa adesão pela comunidade local e
+pelos profissionais de saúde, consolidando-se numa estratégia na atenção básica de
+saúde, com destaque para o enfermeiro, representando uma ferramenta de
+integração e consolidação na formação de vínculos e da coletividade social,
+fomentando ações capazes de transformar a realidade local. (JATAÍ, 2012)
+
+Nesse sentido aintervenção possibilita uma estratégia inovadora de
+atendimento complementar ao paciente depressivo mais próximo de sua residência,
+em horário diferenciado, já que se trata de uma população adulta em fase produtiva.
+O idealizador da TCI, Barreto (2008) estimula rodas de terapia com populações de
+todas as idades e saberes. A utilização da TCI em pacientes depressivos trata-se
+de uma iniciativa na busca da diminuição do sofrimento mental em atenção primária
+utilizando recursos existentes, testando uma prática já recomendada pelo Ministério
+da Saúde, mas ainda sem estudos específicos.
+
+A falta de clareza a respeito de como uma intervenção desse tipo deveria ser
+implementada, visto que não possui estudo semelhante, reforça o que foi apontado
+por Burns,(1997), que destaca a importância e a necessidade da realização de
+estudos de intervenção na Enfermagem em diferentes cenários da prática clínica.
+
+A implantação da TCI como estratégia de saúde terapia complementar na
+atenção primária ocorreu como previsto, o esquema de 4 sessões semanais,
+seguidas de 2 sessões quinzenais, com os mesmos participantes, seguidas de 2
+mensais, totalizando 4 meses (8 sessões) foi executado, contudo 2 sessões foram
+canceladas por falta de participantes.
+
+As rodas seguiram o modelo Recomendado por Barreto (2008), com
+
+dificuldade de execução apenas na primeira sessão. As sessões de terapia
+38
+
+ocorreram na ubs, com duração média de 75 minutos, e tempo máximo de 1h30min.
+A Temática predominante foi conflitos familiares e se considerarmos o alcoolismo
+como integrante dessa problemática, teremos 66,6%. A ansiedade foi tema de uma
+roda.
+
+O processo de implantação da TCI no nordeste (Jataí, 2012), envolvendo
+população saudável apresentou inicialmente uma pequena quantidade de pessoas
+presentes nas rodas, posteriormente chegando a 25 participantes, entre adultos,
+idosos e crianças. No grupo depressivo (TCl|), houve alta taxa de desistência (50%)
+antes da 1º sessão (O sessões), 25% participaram de 1 a 2 sessões e 10%
+participaram de 5 a 6 sessões.
+
+A intervenção contou com a participação apenas do sexo feminino, não
+havendo interesse masculino na TCI, fato este, que necessita maiores estudos. A
+distribuição populacional correspondeu a 85% na faixa etária entre 40 e 59 anos,
+com predomínio entre 50 a 59 anos (45%) e apenas 5% abaixo de 30 anos. A cor
+da pele apresentou predomínio de mulheres brancas (90%) e minoria preta (10%).
+Esse dado é semelhante ao encontrado na zona da mata mineira, onde mulheres
+com cor da pele branca apresentaram maior prevalência de depressão em
+comparação às mulheres com cor da pele preta. (GONÇALVES et al, 2018).
+
+Para Gonçalves et al. (2018), quanto menor a escolaridade, maior a
+probabilidade de ocorrência de depressão. No grupo avaliado, a maioria (70%),
+apresenta ensino fundamental, sendo 50% fundamental incompleto, ensino médio
+completo (15%), ensino médio incompleto (10%) e ensino superior (5%).
+
+O tabagismo ou uso de álcool regularmente foi negado por 95% do grupo.
+Embora exista esse cenário, este estudo, assim como o de Gonçalves et al. (2018),
+não encontraram a confirmação dessa associação. Para Rondina (2007), os
+fumantes deprimidos podem fumar para aliviar seus sentimentos negativos, havendo
+forte evidência de co-morbidade entre tabagismo e transtornos depressivos.
+
+A jornada de trabalho e a interferência ou não no quadro depressivo também
+foram avaliados, 55% não trabalham; 5% tem jornada de trabalho variada; e 30%
+atuam 40 horas semanais. 100% dos pacientes que trabalham, consideram que o
+trabalho ou a ausência dele não interfere significativamente no seu quadro
+depressivo. Esse resultado contraria o estudo (GONÇALVES, 2018) que observou
+
+que estar trabalhando contribui para a depressão.
+39
+
+Em relação ao tratamento da depressão, 85% responderam que tratam a
+doença a mais de 1 ano, 5% a mais de 6 meses e 10%, não responderam, mesmo
+estando em uso de medicação e em acompanhamento regular. Costa (2015), em
+seu estudo sobre ambulatórios de atenção primária percebeu que apenas um em
+cem pacientes, cita como motivo da consulta a depressão, sendo que em até 50%
+das vezes o problema não é detectado pelos profissionais. Gonçalves et al (2018),
+detectou que 53% das mulheres pesquisadas não relataram ter apresentado ou ter
+sido diagnosticadas com depressão quando questionadas. O mesmo autor ainda
+levanta a possibilidade do preconceito do paciente em relação ao diagnóstico de
+depressão e descrença quanto ao tratamento.
+
+De acordo com Arantes (2007), os clínicos gerais atuantes na ESF falham na
+detecção do transtorno em mais de 50% dos casos, e provêm tratamento para
+apenas um terço deles, sendo que antidepressivos são prescritos frequentemente
+por períodos curtos de tempo, observando-se uma pior evolução. Nesse contexto, o
+tempo de uso de fluoxetina na amostra analisada foi de 65% de uso a mais de 1
+ano, 10% a 6 meses e 25% a 3 meses.
+
+O enfermeiro geralmente é o primeiro profissional a atender o paciente
+depressivo, ocupando papel singular no acolhimento do caso novo e da recidiva.
+Nesse sentido, SILVA et al., (2003) em sua pesquisa com enfermeiros atuantes na
+ESF, identificou que entre 20 a 50% das pessoas atendidas por eles têm depressão.
+Entretanto, apenas 17,8% dos enfermeiros entrevistados encaminharam 10% dos
+casos.
+
+Em estudo de coorte prospectivo realizado pelo Departamento Nacional de
+Estatísticas do Canadá, 585 pacientes com 16 anos ou mais, que tinham depressão,
+(55,3%) experimentaram episódios de repetição no período até 2006 e 2007. Os
+fatores preditores independentes dessa recorrência foram o cigarro (odds ratio [OR]
+= 2,7; intervalo de confiança, IC de 95%: 1,5-4,7), a sensação de pouco ou nenhum
+controle sobre as circunstâncias da vida (OR = 1,1; IC de 95%: 1,03-1,2), e histórico
+de depressão (OR 3,5; [C95% 1,95-6,27) foram preditores significativos (p <0,05) de
+episódios repetidos de depressão. (COLMAN et al.,2011).
+
+A depressão é vista como uma doença mental crônica e recorrente que
+carrega um alto fardo, cuja realidade para a maioria das pessoas com depressão é o
+acesso a cuidados especiais problemático e escassas opções de tratamento além
+da psicofarmacologia. (KURDYAK, 2011)
+40
+
+No grupo alvo da TCI, 75% das mulheres já apresentou depressão
+anteriormente e 65% já teve algum familiar com o mesmo quadro. Em pesquisa mais
+recente com a população Alemã, os dados de recorrência de depressão persistem,
+quase metade (48,4%) dos participantes deprimidos no início do estudo também
+relataram sintomas depressivos elevados, cinco anos depois, com uma tendência
+maior, embora não significativa, entre as mulheres. (TIBUBUS, 2019).
+
+Pessoas com depressão grave e recorrente precisam de acesso a estratégias
+abrangentes para ajudar a gerenciar o risco real de má qualidade da saúde, carga
+de doenças relacionadas à vida e à depressão. (KURDYAK, 2011). Nesse sentido, a
+avaliação da efetividade e eficácia da TCI é de suma importância, contudo, o
+número reduzido de pacientes (5) avaliados e que concluíram todas as etapas da
+pesquisa não possibilitou uma amostra significativa, o que enfraquece o poder do
+desenho e ameaça sua validade.
+
+As sessões de TCI apresentaram desistência antes da 1 sessão de 50% e
+somente 10% participou de mais de 5 rodas. A primeira consulta médica que previa
+inicialmente a avaliação de 30 pacientes, contou com apenas 20 usuários, com taxa
+de comparecimento de 66,6%. Ao longo do estudo e do processo de
+acompanhamento médico, a desistência entre avaliação inicial e final foi de 75%. Em
+relação às faltas e ou abandono da terapia, 50% das pacientes atribuem ao fato de
+não gostarem de expor seus sentimentos em grupo, seguido pela falta de tempo
+(25%), horário das sessões incompatível (12,5%), não vejo necessidade, estou bem
+(12,5%). No nordeste brasileiro (Jataí, 2012), as justificativas para não participação
+foram falta de tempo, estavam dormindo ou desinteresse. Uma das hipóteses que
+podemos levantar é que pacientes depressivos podem ter uma dificuldade maior de
+expressar seus sentimentos em relação a uma população saudável.
+
+No que diz respeito à frequência das sessões, houve uma paridade, 37,5%
+prefere semanal e outros 37, 5% quinzenal, contudo a assiduidade foi maior na
+semanal.
+
+O apoio social é um conceito multidimensional que se refere amplamente à
+assistência emocional, instrumental ou informativa recebida de outras pessoas
+(HOUSE,1988). Nesse contexto, apesar da baixa adesão à intervenção, 100%
+recomendaria a terapia (TCI) para outras pessoas, ainda que 50% afirmem que a
+
+terapia contribui pouco para a melhora do seu quadro depressivo no período.
+41
+
+Em uma revisão sistemática mais abrangente envolvendo 100 artigos, a fonte
+de apoio social mais consistentemente associada à proteção contra a depressão em
+adultos foi o apoio conjugal, seguido pelo apoio da família, amigos e crianças.
+(GARIEPY, 2016).
+
+O apoio recebido pela família, não especificando cônjuge ou filhos era
+considerado bom por 60% e posteriormente passou a 50%. A diminuição pode estar
+associada ao processo de reflexão vivenciado durante as rodas, que abordou
+inclusive heranças transgeracionais. O apoio emocional fornecido pela equipe de
+terapeutas durante a TCI foi apontado como bom pela totalidade (100%) dos
+indivíduos, havendo inclusive uma melhora nos índices de apoio emocional em
+atendimento individual durante as consultas médicas, que passou de 75% para
+100% após a intervenção.
+
+A sintomatologia, avaliada pelo escore de classificação de sintomas
+depressivos em HAM D21, apresentou redução. Inicialmente 40% dos pacientes
+apresentavam quadro depressivo mínimo e 60% grave. Após a intervenção 100%
+apresentou depressão mínima.
+
+A resposta ao tratamento e sua eficácia, definida por Qaseem et al. (2016),
+definida como redução > 50% na gravidade medida na Escala de Depressão de
+Hamilton (HAM-D) não foi atingida, apresentando índice de 30,77% de redução, não
+havendo caso de remissão, definida como escore da HAM-D <7, pelo mesmo autor.
+
+A melhora no quadro depressivo é um fator importante e desejado,
+demonstrado pela diminuição no escore de Hamilton, contudo pode estar
+relacionada ao uso de fluoxetina, a vivência pessoal de cada paciente, ao
+acompanhamento e maior vínculo com a equipe durante a intervenção, bem como
+
+fatores externos não avaliados e que necessitam maiores estudos.
+42
+
+7 CONSIDERAÇÕES FINAIS
+
+O cuidado à saúde mental em atenção primária é um caminho em construção,
+negligenciado em alguns momentos, mas repleto de importância. Seu fracasso
+repercute diretamente na inviabilidade da atenção integral à saúde e no bem-estar
+do indivíduo. O contexto e a diversidade cultural de cada região, as particularidades
+de seus moradores, suas mazelas e seus sofrimentos interferem diretamente na
+qualidade de vida e na maneira que o cuidado deve ser prestado.
+
+Equipes de atenção primária em saúde devem buscar o aprimoramento
+constante de suas práticas, readaptando a rotina de atendimento conforme a
+avaliação da eficácia e significância das mesmas, incentivando a investigação de
+agravos como a depressão. A Enfermagem, com seu conhecimento de gestão e
+gerenciamento de serviços pode contribuir para transformar a saúde mental,
+valorizando e introduzindo práticas complementares ao tratamento médico,
+baseadas em evidência. Grupos de saúde que permitam atender maior número de
+pessoas, com bons resultados, parece ser um caminho promissor.
+
+A Terapia Comunitária Integrativa (TCl) é um exemplo de terapia
+complementar em processo de crescimento no país, e como percebemos nesse
+estudo, pode contribuir para o aumento do vínculo entre equipe e paciente. Sua
+indicação em larga escala como tratamento complementar ao medicamentoso não
+foi comprovada e necessita maiores estudos de eficácia, mas certamente contribui
+para o cuidado integral que vai além da queixa-conduta, contribuindo para a
+diminuição da sintomatologia presente na depressão e aumento no vínculo entre
+equipe e paciente.
+
+Espera-se que este estudo possa contribuir para a discussão de novas
+práticas de tratamento complementar a depressão na atenção primária e, desse
+modo, fornecer evidências para a formulação de políticas públicas que contemplem
+a saúde mental e estimulem o vínculo equipe paciente, contribuindo com seu bem-
+
+estar.
+43
+
+REFERÊNCIAS
+
+ABELHALL.. Depression, a matter os public health. Cadernos de Saúde Coletiva,
+v.22,n3,p.223-223,2014.
+
+APOSTOLO J, BOBROWICZ-CAMPOS E, RODRIGUES M, Castro |, CARDOSO D
+(2016) The effectiveness of non-pharmacological interventions in older adults with
+depressive disorders: a systematic review. Int J Nurs Stud 58:59-
+
+70. https://doi.org/10.1016/.ijnurstu.2016.02.006
+
+ARANTES, D.V. Depressão na atenção primária à saúde. Revista Brasileira de
+Medicina. 2007;2(8):261-270.
+
+ARAÚJO RHS. Adaptação transcultural da GRID Hamilton Rating Scale for
+Depression (GRIDHAMD) para o português brasileiro e avaliação do impacto de um
+treinamento sobre aconfiabilidade interavaliadores [dissertação]. Salvador (BA):
+Universidade Federal da Bahia, 2011. Disponível em:
+hitps://repositorio.ufba.br/ri/handle/ri/9417 Acesso em 08/01//2019
+
+ARGIMON, Irani Iracema de Lima et al . Aplicabilidade do Inventário de Depressão
+de Beck-ll em idosos: uma revisão sistemática. Aval. psicol., Itatiba, v. 15, n. spe,
+p. 11-17, ago. 2016. Disponívelem
+
+<http://pepsic.bvsalud org/scielo.php?script=sci arttext&pid=S1677-
+047120160003000038&Ing=pt&nrm=iso>. acessos em 10 dez. 2019.
+
+ARGIMON IIL, Terroso LB, Barbosa AS, Lopes RMF. Intensidade de sintomas
+depressivos em adolescentes através da escala de depressão de Beck (BDI-II).
+Acad Paul Psicol. 2013 Dez;33(85):354-72.
+
+AZEVEDO ESB, Cordeiro RC, Costa LFP, Guerra CS, Ferreira Filha MO, Dias MD.
+Pes-quisas brasileiras sobre terapia comunitária integrativa. Rev Bras Pesq Saúde.
+2013; 15(3):114-20. Disponível em: http://periodicos.ufes.
+br/RBPS/article/download/6333/4667. Acesso em 09 jan 2019.
+
+BAHLS, Saint-Clair. Aspectos clínicos da depressão em crianças e adolescentes:
+clinical features. J. Pediatr. (Rio J.), Porto Alegre, v. 78, n.5, p. 359-366, Oct.
+2002. Available from
+
+<http://Iwww .scielo.br/scielo.php?script=sci arttext&pid=S0021 -
+75572002000500004&Ing=en &nrm=iso>. access on 09 July 2018.
+http://dx.doi.org/10.1590/S0021-75572002000500004.
+
+BAPTISTA, Makilim Nunes; BORGES, Lisandra. Revisão integrativa de instrumentos
+de depressão em crianças/adolescentes e adultos na população brasileira. Aval.
+psicol., Itatiba , v. 15, n. spe, p. 19-32, ago. 2016. Disponível em
+<http://pepsic.bvsalud.org/scielo.php?script=sci arttext&pid=S1677-
+04712016000300004&Ing=pt&nrm=iso>. acessos em 21 jun. 2018.
+
+BARRETO AP. Terapia comunitária: passo a passo. Fortaleza: LCR; 2008.
+44
+
+BARROS, MBA, Lima MG, Azevedo RCS, Medina LBP, Lopes CS, Menezes PR, et
+al. Depressão e comportamentos de saúde em adultos brasileiros —- PNS 2013. Rev
+Saude Publica. 2017;51 Supl 1:8s.
+
+BECK,A. T., STEER,R. A., & BROWN, G. K. (1996). Manual forthe Beck
+Depression Inventory-ll. San Antonio, TX: Psychological Corporation.
+
+BRASIL. CONSELHO NACIONAL DE SAÚDE, Ministério da Saúde. Relatório Final
+da IV Conferência Nacional de Saúde Mental. Brasília: Ministério da Saúde; 2010.
+
+BRASIL. Ministério da Saúde (BR). Secretaria de Atenção à Saúde. Departamento
+de Atenção Básica. Política Nacional de Práticas Integrativas e Complementares no
+SUS- PNPIC-SUS. Brasília; 2006b
+
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de
+Atenção Básica. Práticas integrativas e complementares: plantas medicinais e
+fitoterapia na Atenção Básica/Ministério da Saúde. Brasília, DF, 2012.
+
+BRASIL. Política nacional de práticas integrativas e complementares (PNPIC ) no
+Sistema Unico de Saúde. Portaria nº 702 (21 de março de 2018). Disponível em:
+http://bvsms.saude.gov.br/bvs/sau delegis/gm/2018/prtO702 22 03 2018.html.
+Acesso em: 21 maio 2018.
+
+BRASIL. Portaria n. 849, de 27 de março de 2017. Incluia Arteterapia, Ayurveda,
+Biodança, Dança Circular, Meditação, Musicoterapia, Naturopatia, Osteopatia,
+Quiropraxia, Reflexoterapia, Reiki, Shantala, Terapia Comunitária Integrati-
+Disponível em: <
+http://dab.saude.gov.br/portaldab/biblioteca.php?conteudo=legislacoes/pnpics>.
+Acesso em 09/07/2018.
+
+ 
+
+BRASIL. Portaria n. 849, de 27 de março de 2017. Inclui a Arteterapia, Ayurveda,
+Biodança, Dança Circular, Meditação, Musicoterapia, Naturopatia, Osteopatia,
+Quiropraxia, Reflexoterapia, Reiki, Shantala, Terapia Comunitária Integrati-
+Disponível em: <
+
+http://dab saude .gov.br/portaldab/biblioteca.php?conteudo=legislacoes/pnpics>.
+Acesso em0 9 jul 2018.
+
+ 
+
+BRASIL. Portaria n. 971, de 03 de maio de 2006. Aprova Política Nacional de
+Práticas Integrativas e Complementares (PNPIC) no Sistema Único de Saúde. 2006.
+Disponível em:
+
+http://dab.saude .gov.br/portaldab/biblioteca.php?conteudo=legislacoes/pnpics .
+
+ 
+
+BRASIL. PORTARIA Nº 761, DE 21 DE JUNHO DE 2016. Tratamento do tabagismo,
+dependência à nicotina. Disponível em: <
+
+https:/Avww inca .gov.br/search/conteudo/Portaria%20n %C2W%BAY%20761>. Acesso
+em 04/01/2019
+
+ 
+
+BURNS N, GROVE, SK. The practice of nursing research: conduct, critique, and
+utilization. 3rd ed. Philadelphia: Saunders; 1997.
+45
+
+CARVALHO MAP, Ferreira Filha MO, Miranda FAN, Dias MD. Contribuições da
+terapia comunitária integrativa para usuários dos Centros de Atenção Psicossocial
+(CAPS): do isolamento à sociabilidade libertadora. Cad Saúde Pública. 2013 [citado
+2015 jan 10];29(10):2028-38. Disponível
+
+em: http:/Avww .scielo.br/pdf/csp/v29n 10/219v29n10.pdf. Classificação de Doenças
+em Português; 1995.
+
+ 
+
+CUNHA, J. (2001). Manual da versão em português das Escalas Beck. São Paulo:
+Casa do Psicólogo.
+
+CUNHA, Ricardo Vivian da; BASTOS, Gisele Alsina Nader; DUCA, Giovâni Firpo
+Del. Prevalência de depressão e fatores associados em comunidade de baixa renda
+de Porto Alegre, Rio Grande do Sul. Rev. bras. epidemiol., São Paulo, v. 15, n.2,
+p. 346-354, Jun 2012. Disponívelem
+
+http:/Awww .scielo.br/scielo.php?script=sci arttext&pid=S1415-
+
+790X20120002000128&Ing=en&nrmziso . Acesso em 10 Jan. 2019.
+
+COLMAN, |, NaickerK , ZengY , Ataullahjan A, Senthilselvan A, Patten
+SB. Predictors of long-term prognosis of depression. CMAJ 183, 1969-1976,
+
+https://doi.org/10.1503/cmaj. 110676 (2011). Disponível em:
+https:/Avww .ncbi.nlm.nih.gov/pubmed/22025655. Acesso em: 07 mar 2019.
+
+ 
+
+ 
+
+ 
+
+COSTA TS. Rastreamento de sintomas depressivos em usuários assistidos pela
+Estratégia de Saúde da Família em um município de pequeno porte no nordeste
+brasileiro [tese]. São Paulo: Faculdade de Ciências Médicas da Santa Casa de São
+Paulo; 2015. Disponível em:http:/Awww femsantacasasp.edu .briwp-
+content/uploads/dissertacoes-e-teses/ciencias-da-sau de/doutorado/2015/2015-
+Tarciana-Sampaio-Costa-DO.pdf . Acesso em: 19 fev 2020.
+
+ 
+
+FRANK RG, Huskamp HA, Pincus HA. Aligning incentives in the treatment of
+depression in primary care with evidence-based practice. Psychiatr Serv
+2003;54:682-687. Disponível em:
+https://ps.psychiatryonline.org/doi/full10.1176/appi.ps.54.5.682 . Acesso em: 07 mar
+2019.
+
+ 
+
+FREIRE, Manoela Ávila et al . Escala Hamilton: estudo das características
+psicométricas em uma amostra do sul do Brasil. J. bras. psiquiatr. Rio de Janeiro, v.
+63, n.4, p. 281-289, Dec. 2014. Disponível em:
+
+http:/Avww scielo.br/scielo.php?script=sci arttext&pid=S0047-
+20852014000400281 &Ing=en &nrmziso Acesso em: 08 Jan. 2019.
+http://dx.doi.org/10.1590/0047-2085000000036.
+
+ 
+
+GALHARDO Vac, Mariosa MAS, Takata JPL. Depressão e perfil sociodemográfico e
+clínico de idosos institucionalizados sem déficit congnitivo. VER. Med. Minas Gerais.
+2010;20(1);16-21.
+
+GALLUCCI NETO, José; CAMPOS JÚNIOR, Miguel Siqueira; HÚBNER, Carlos von
+Krakauer. Escala de Depressão de Hamilton (HAM-D): revisão dos 40 anos de sua
+utilização. Revista da Faculdade de Ciências Médicas de Sorocaba, [Sl], v. 3,n.1,
+p. 10-14, maio 2007. ISSN 1984-4840. Disponível em:
+
+<hitp:/revistas pucsp.br/'RFCMS/article/view/259>. Acesso em: 08 jan. 2019.
+
+ 
+46
+
+GARIEPY, G., Honkaniemi, H. e Quesnel-Vallee, A. Social support and protection
+from depression: systematic review of currentfindings in Westemn countries. BrJ
+Psychiatry 209, 284-293, Disponível em: https://doi.org/10.1192/bjp.bp.115.169094
+(2016). Acesso em 26 dez 2019.
+
+GORESTEIN, C., PANG, W. Y., ARGIMON, |. L., & WERLANG, B. S. G. (2011).
+Inventário Beck de Depressão-ll. Manual. São Paulo, SP: Casa do Psicólogo.
+
+GARTLEHNERG, GaynesBN, AmickHR, AsherGN, MorganLC, Coker-
+SchwimmerE. et al. Comparative benefits and harms of antidepressant,
+psychological, complementary, and exercise treatments for major depression: an
+evidence report for a clinical practice guideline ffom the American College of
+Physicians. Ann Intem Med.2016. Disponível em: http://annals.org/aim/article-
+abstract/2490525/comparative-benefits-harms-antidepressant-psychological-
+complementary-exercise-treatments-major-depression?doi=10.7326%2fM15-1813
+Acesso em: 08 jan 2019
+
+ 
+
+ 
+
+GRANDESSOM. Terapia comunitária: uma prática pós-moderna crítica:
+considerações teórico-metodológicas. São Paulo: Casa do Psicólogo; 2007.
+
+GROLLI, Verônica; WAGNER, Marcia Fortes; DALBOSCO, Simone Nenê Portela.
+
+Sintomas Depressivos e de Ansiedade em Adolescentes do Ensino Médio. Revista
+de Psicologia da IMED, Passo Fundo, v.9, n. 1, p. 87-103, nov. 2017. ISSN 2175-
+5027. Disponível em:
+
+<https://seer.imed.edu .br/index.php/revistapsico/article/view/2123>. Acesso em: 21
+jun. 2018.
+
+ 
+
+GUERRA, Thaís de Rezende Bessa et al . Methods of Screening for Depression in
+Outpatients with Heart Failure. Int. J. Cardiovasc. Sci., Rio de Janeiro, v. 31,n.4,
+p. 414-421, Aug. 2018. Available from
+
+<http:/Awww .scielo.br/scielo.php?script=sci arttext&pid=S2359-
+564720180004004148&Ing=en &nrmziso>. access on 10 Dec. 2019. Epub July 02,
+2018. http://dx.doi.org/10.5935/2359-4802.20180037.
+
+ 
+
+HOUSE, JS, Umberson, D, Landis, KR. Structures and processes of social support.
+Annu Rev Sociol 1988; 14: 293-318. Disponível em:
+
+https:/Avww .annualreviews.org/doi/abs/10.1146/annurev.so.14.080188.001453
+Acesso em: 26 dez 2019.
+
+IBGE - Pesquisa Nacional por Amostra de Domicílios contínua 2012 2017(PNAD)
+2017. Disponível em: https:/Awww ibge.gov br/estatisticas-
+novoportal/sociais/trabalho/17270-pnad-continua.html?=&t=downloads . Acesso em:
+21 maio 2018.
+
+ 
+
+JATAI, José Martins; SILVA, Lucilane Maria Sales da. Enfermagem e a implantação
+da Terapia Comunitária Integrativa na Estratégia Saúde da Família: relato de
+experiência.Rev. bras. enferm., Brasília, v. 65, n.4, p. 691-695, Aug. 2012
+
+. Disponível em <http:/Awww .scielo.br/scielo.php?script=sci arttext&pid=S0034-
+71672012000400021 &Ing=en &nrm=iso>. Acesso em: 28 Jun 2018.
+
+ 
+47
+
+KANTORSKI LP, Coimbra VCC, Demarco DA, Eslabão AD, Nunes CK, Guedes AC.
+A importância das atividades de suporte terapêutico para o cuidado em um Centro
+de Atenção. Journal of Nursing Health 2011; 1:4-13.
+
+KELLER MB. Remissão versus resposta: o novo padrão ouro de tratamento
+antidepressivo. J Clin Psychiatry. 2004; 65 (Supl 4): 53-9. Disponível em:
+hitps:/Avww .ncbi.nlm.nih.gov/pubmed/20447651/ Acesso em: 13 fev 2019
+
+KROENKEK, SPITZER RL, WILLIAMS JB. The PHQ-9: validity of a brief
+depression severity measure .J Gen Intern Med. 2001 Sep. 6(9):606-13. Disponível
+em: https://www.ncbi nim.nih.gov/pubmed/11556941 acesso em 08 jan 2019
+
+ 
+
+KURDYAK P, CAIRNEY J. Predicting recurrence of depression. CMAJ November 22,
+2011 183 (17) 1955-1956; Disponível https://doi.org/10.1503/cmaj. 111664. Acesso
+em 26 dez 2019.
+
+LEITE de Souza, Gleci Mery, de Castro Silva, Priscilla Maria, Braga de Azevedo,
+Elisângela, de Oliveira Ferreira Filha, Maria, Leite da Silva, Vagna Cristina, Limeira
+Espinola, Lawrencita, A Contribuição Da Terapia Comunitária No Processo Saúde —
+Doença. Cogitare Enfermagem [en linea] 2011, Disponivel em
+
+:<http:/Awww redalyc.org/articulo.0a?id=483648969013. Acesso em: 21 maio 2018.
+
+ 
+
+MENEZES, Kênia Kiefer Parreiras de; AVELINO, Patrick Roberto. Grupos operativos
+
+na Atenção Primária à Saúde como prática de discussão e educação: uma
+
+revisão. Cad. Saúde Colet., Rio de Janeiro, v. 24,n. 1, p. 124-130, Mar. 2016
+Disponível <http:/Awww.scielo.br/scielo.php?script=sci arttext&pid=S1414-
+
+462X2016000100124&Ing=en&nrm=iso>. Acesso em: 28 Jun 2018.
+
+ 
+
+MORENO RA, MORENO DH. Escalas de depressão de Montgomery & Asberg
+(MADRS) e de Hamilton (HAM-D). Rev Psiquiatr Clin. 1998;25:262-72.
+
+MUNHOZ, Tiago Neuenfeld. Prevalência e fatores associados à depressão em
+adultos: estudo de base populacional. 2012. 137 f. Dissertação (Mestrado em
+Medicina) - Universidade Federal de Pelotas, Pelotas, 2012. Disponível
+
+em: hitp://guaiaca.ufpel.edu.br:8080/handle/123456789/1944 Acesso em: 10jan
+2019
+
+ 
+
+OLIVEIRA, Danielle Samara Tavares de; FERREIRA FILHA, Maria de Oliveira.
+Contribuição dos recursos culturais para a terapia comunitária in tegrativa na visão
+do terapeuta. Rev. Gaúcha Enferm. (Online), Porto Alegre, v. 32, n.3, p. 524-
+530, Sept. 2011. Disponível em:
+
+<http://www .scielo.br/scielo.php?script=sci arttext&pid=S1983-
+
+14472011000300013&Ing=en &nrmziso>. Acesso
+em 15 Feb. 2019. http://dx.doi.org/10.1590/81983-14472011000300013.
+
+ORGANIZAÇÃO MUNDIAL DE SAUDE. Classificação Estatística Internacional de
+Doenças e Problemas Relacionados à Saúde, 11º revisão. Disponível em:
+https:/ficd.who.int/dev11/l-m/en&fhttp://id who.int/icd/entity/1563440232 Acessado
+em: 13 de fevereiro de 2019.
+48
+
+ORGANIZAÇÃO MUNDIAL DE SAUDE. Derpession. Genebra: OMS, 2017.
+Disponível em: <http:/Avww who. int/mediacentre/factsheets/fs369/en/>. Acessado
+em: 21 de junho de 2018.
+
+ 
+
+PARANHOS, Mariana Esteves; ARGIMON, Irani Iracema de Lima; WERLANG,
+Blanca Susana Guevara. Propriedades psicométricas do Inventário de Depressão de
+Beck-ll (BDI-II) em adolescentes. Aval. psicol., Porto Alegre, v. 9,n.3, p. 383-392,
+dez. 2010. Disponívelem
+
+<http://pepsic.bvsalud .org/scielo.php?script=sci arttext&pid=S1677-
+047120100003000058&Ing=pt&nrm=iso>. acessos em 10 dez. 2019.
+
+PARK, LT; ZARACATE, CA Jr. Depression in Primary Care Setting. New England
+Journal os Medicine, 2019. ; 380:559-568 Disponível em:
+
+https:/Avww .nejm.org/doi/full/10.1056/NEJMcp1712493. Acesso em: 07 de março de
+2019.
+
+ 
+
+ 
+
+PEREIRA, Maria Alice Ornellas et al . Saúde mental no Programa de Saúde da
+Família: conceitos dos agentes comunitários sobre o transtorno mental. Rev. esc.
+enferm. USP, São Paulo, v. 41,n.4, p. 567-572, Dec. 2007. Available ffom
+<http:/Awww .scielo.br/scielo.php?script=sci arttext&pid=S0080-
+62342007000400005&Ing=en &nrm=iso>. access on 19 Feb. 2020.
+https://doi.org/10.1590/S0080-62342007000400005.
+
+ 
+
+PENNAFORTYV, Freitas C, Bessa M. Práticas integrativas e o empoderamento da
+enfermagem. REME - Rev Min Enferm. 2012; 2(16):289-95.
+
+PEUKER, Ana Carolina et al. Avaliação de processo e resultado em psicoterapias:
+uma revisão. Psicol. estud., Maringá, v. 14,n.3, p. 439-445, Sept. 2009.
+Available from <http:/Awww .scielo.br/scielo.php?script=sci arttext&pid=S1413-
+73722009000300004&Ing=en &nrm=iso>. access on 02 Mar. 2020.
+
+ 
+
+QASEEMA, BARRY MJ, KANSAGARA D, for the Clinical Guidelines Committee of
+the American College of Physicians. Nonpharmacologic Versus Pharmacologic
+Treatment of Adult Patients With Major Depressive Disorder: A Clinical Practice
+Guideline Fromthe American College of Physicians. Ann Inte Med. ;164:350-359.
+2016 Mar 01. doi: 10.7326/M15-2570 Disponível em:
+http://annals.org/aim/fullarticle/2490527/nonpharmacologic-versus-pharmacologic-
+treatment-adult-patients-major-depressive-disorder-clinical Acesso em 08 jan 2019.
+
+ 
+
+ 
+
+REPPOLD,C. Tozzi; HUTZ, Claudio Simon. Prevalência de indicadores de
+depressão entre adolescentes no Rio Grande do Sul. Aval. psicol., Porto Alegre, v.
+2,n.2,p. 175-184, dez. 2003. Disponível em
+<http://pepsic.bvsalud org/scielo php?script=sci arttext&pid=S1677-
+04712003000200008&Ing=pt&nrm=iso>. Acesso em 21 jun. 2018
+
+ 
+
+ROCHA, lanine Alves da etal . Terapia comunitária integrativa: situações de
+
+sofrimento emocional e estratégias de enfrentamento apresentadas por usuários.
+
+Rev. Gaúcha Enferm., Porto Alegre, v. 34, n.3, p. 155-162, Sept. 2013
+Disponível em: <http:/Avww .scielo.br/scielo.php?script=sci arttext&pid=S1983-
+
+14472013000300020&Ing=en &nrm=ziso>. Acesso
+em 28 Jun 2018. http://dx.doi.org/10.1590/S1983-14472013000300020.
+
+ 
+49
+
+RONDINA, Regina de Cássia; GORAY EB, Ricardo; BOTELHO, Clóvis.
+Características psicológicas associadas ao comportamento de fumar tabaco. J. bras.
+pneumol., São Paulo, v. 33,n.5, p. 592-601, Oct. 2007. Available from
+<http://www .scielo.br/scielo.php?script=sci arttext&pid=S1806-
+
+371320070005000168&Ing=en&nrmziso>. access on 23 Dec. 2019.
+http://dx.doi.org/10.1590/S1806-37132007000500016.
+
+ 
+
+Sá, A., Rocha, |., Moraes, M., Braga, L., Ferreira Filha, M., & Dias, M. (2012).
+Conflitos familiares abordados na terapia comunitária integrativa. Revista Eletrônica
+
+De Enfermagem, 14(4), 786-93. https://doi.org/10.5216/ree.v14i4.15695
+
+SALLE, E., Rocha, N. S., Rocga, T. S., Nunes C.& Chaves, M.L. F. (2012). Escalas
+psicométricas como instrumentos de rastreamento para depressão em estudantes
+do ensino médio. Revista Psiquiatria Clinica, 29(1), 24-27
+
+SHARPE VA, Faden Al. Appropriateness in patient care: a new conceptual
+framework. The Mildbank Quarterly 1996;74(1):115-138.
+
+SILVA, Marli Appel da; WENDT, Guilherme Welter; ARGIMON, Irani lracema de
+Lima. Inventário de depressão de beck Il: análises pela teoria do traço latente. Aval.
+psicol., Itatiba, v. 17,n.3, p. 339-350, 2018. Disponível em
+<http://pepsic.bvsalud.org/scielo.php?script=sci arttext&pid=S1677-
+
+047120180003000088&Ing=pt&nrm=iso>. acessos em 20 fev. 2020.
+http://dx.doi.org/10.15689/ap.2018.1703.14651.07.
+
+ 
+
+SILVA, MT;GALVAO, TF;MARTINS,SS;PEREIRA,MG. Prevalence os depression
+morbidity among Brazilian adults: a systematic review and meta-analysis. Rev Bras
+Prisquiatr.2014;36(3):262-70.
+
+SOUZA GML, Silva PMC, Azevedo EB, Ferreira FilhaMO, Silva VCL, Espínola LL. A
+contribuição da terapia comunitária no processo Saúde-doença. Cogitare Enferm.
+2011; 16(4):682-8.
+
+TELESI JUNIOR, Emílio. Práticas integrativas e complementares em saúde, uma
+nova eficácia para o SUS. Estud.av., São Paulo, v. 30,n. 86, p. 99-112, Apr.
+2016. Available from
+
+<http:/www scielo.br/scielo.php?script=sci arttext&pid=S0103-
+40142016000100099&Ing=en &nrm=ziso>. access on 04 Jan. 2019.
+
+TIBUBUS, A.N., BRAHLER, E, ERNST, M. et al. Course of depressive symptoms in
+men and women: differential effects of social, psychological, behavioral and somatic
+predictors. Sci Rep 9, 18929 (2019). Disponível em:10.1038/s41598-019-55342-0
+Acesso em:26 dez 2019.
+
+VIACAVA, F. etal . Avaliação de Desempenho de Sistemas de Saúde: um modelo
+de análise. Ciênc. saúde coletiva, Rio de Janeiro, v. 17,n.4, p. 921-934, Apr.
+2012. Disponível em:
+
+<http://www .scielo.br/scielo.php?script=sci arttext&pid=S1413-
+81232012000400014&Ing=en &nrmziso>. accesso em 10 Jan. 2019.
+50
+
+APÊNDICE A - TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
+
+TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
+
+Eu Maria Nedel Sausen aluna do mestrado profissional de enfermagem da
+UNISINOS estou desenvolvendo o projeto de pesquisa "Terapia Comunitária
+Integrativa no Quadro Depressivo de adultos" sob orientação da Prof? Drº Priscila
+Schmidt Lora. Esse projeto tem por objetivo Implementar a Terapia Comunitária
+Integrativa em uma unidade básica de Saúde da Família no município, voltado para
+adultos depressivos de 18 a 59 anos, de ambos os sexos, como tratamento
+complementar ao medicamentoso e avaliar a sua eficácia como tecnologia de saúde.
+Os benefícios esperados a longo prazo são a melhora no quadro de depressão dos
+pacientes. Além de ser um tratamento complementar, você estará em constante
+acompanhamento com o seu médico e a sua equipe de saúde, mantendo o uso da
+sua medicação de rotina.
+
+Você está sendo convidado (a) a participar desta pesquisa. Você responderá a um
+questionário sobre a sua saúde e seu tratamento. Esse formulário será respondido
+durante um atendimento na unidade de saúde.
+
+Esta pesquisa oferece riscos mínimos ligados algum desconforto emocional em
+responder às perguntas ou participar das sessões da terapia comunitária integrativa.
+Sua participação é livre e você poderá se retirar das sessões a qualquer momento
+sem nenhum prejuízo para sua pessoa. Todos os resultados obtidos serão
+confidenciais e ficarão sob a responsabilidade da pesquisadora Marla Nedel Sausen
+que irá garantir o anonimato das suas informações. Esse documento será assinado
+em duas vias ficando uma em suas mãos e a outra com a pesquisadora.
+
+Caso surjam perguntas sobre este estudo, você poderá chamar os pesquisadores
+Integrantes da equipe de pesquisa pelo telefone (51) 3598 9221, com Marla Nedel
+Sausen
+
+Data / /
+
+ 
+
+Assinatura do Participante Assinatura do Pesquisador Responsável
+51
+
+APÊNDICE B - QUESTIONÁRIO DE COLETA DE DADOS
+
+PRIMEIRA AVALIAÇÃO (PRÉ TESTE):
+
+As perguntas abaixo serão executadas na primeira avaliação do paciente,
+reforçando ao paciente que haverá novo questionário após o estudo.
+
+Data:
+
+Dados do Paciente:
+
+Iniciais do nome:
+
+Idade: Sexo: ( )Feminino, ( )JMasculino.
+
+Cor da pele: ( )Branca, ( )Preta, ( )Parda.
+
+Escolaridade: ( Jensino fundamenta incompleto, ( Jensino fundamenta completo,
+
+( Jensino médio incompleto, ( Jensino médio completo, ( Jensino superior
+
+Informações sobre diagnóstico e tratamento:
+
+“A quanto tempo você sabe que tem depressão? ” ( Jmenos de 1 mês, ( Jmais de 3
+meses, ( Jmais de 6 meses, ( Ja mais de 1 ano.
+
+“A quanto tempo você usa a fluoxetina? ”( Jmenos de 1 mês, ( Jmais de 3 meses,
+
+( Jmais de 6 meses, ( Ja mais de 1 ano.
+
+Abaixo, as perguntas serão com respostas utilizando-se a escala Likert e
+posteriormente dicotomizado em não/ruim/regular/pouco e sim/ bom/ótimo/muito;
+
+Informações Psicossociais:
+O Sr. (a). Já teve depressão anteriormente? ( )Sim, ( )Não
+Alguém na sua família já teve depressão? ( )Sim, ( )Não
+
+Situação financeira:
+
+“Você considera que o seu salário ou sua renda financeira interferem no seu quadro
+depressivo?
+
+( )Não/Pouco/Regular ( )Sim/Bom/Muito/Ótimo.
+
+Informações comportamentais:
+
+O Srr. (a). Fuma, bebe, ou usa drogas regularmente? ( )Sim, ( )Não.
+
+Suporte social familiar:
+
+“Em relação ao seu quadro depressivo, você se sente apoiada pela sua família?
+( )Não/Pouco/Regular ( )Sim/Bom/Muito/Ótimo.
+
+Suporte social profissional em atendimento individual, antes do estudo:
+“Como você a avalia o apoio emocional, fornecido durante as consultas médicas até
+agora, antes de participar do estudo?
+
+A seguir aplicaremos a Escala de Avaliação da Depressão — Escala de Hamilton
+(HAM-D 21 itens), contidano Anexo A.
+52
+
+SEGUNTAETAPA (PÓS TESTE): Data:
+
+As perguntas abaixo serão executadas somente após o término da
+intervenção.
+
+Dados do Paciente:
+
+Iniciais do nome: Idade:
+
+Informações sobre diagnóstico e tratamento:
+
+A quanto tempo você usa a fluoxetina? ( )Não uso mais ( )menos de 1 mês, ( Jmais
+de 3 meses, ( )mais de 6 meses,
+
+( Ja mais de 1 ano.
+
+Informações comportamentais:
+
+O Srr. (a). Fuma, bebe, ou usa drogas regularmente? ( )Sim, ( )Não.
+
+Suporte social familiar:
+
+Em relação ao seu quadro depressivo, você se sente apoiada pela sua família?
+
+( )Não/Pouco/Regular ( )Sim/Bom/Muito/Ótimo.
+
+Suporte social profissional em atendimento individual após o estudo:
+
+Como você a avalia o apoio emocional, fomecido durante as consultas médicas que
+recebeu durante o estudo?
+
+()Ruim/Pouco/ Regular ( )JBom/Muito/Ótimo.
+
+Suporte social profissional em atendimento em terapia:
+
+Como você a avalia o apoio emocional, fomecido durante a terapia complementar?
+()Ruim/Pouco/ Regular ( )JBom/Muito/Ótimo.
+
+Você considera que a terapia contribuiu com a melhora do seu quadro depressivo?
+(O)Ruim/Pouco/ Regular ( )JBom/Muito/Ótimo.
+
+Você recomendaria a terapia para outros pacientes?
+
+(Sim, ( )Não.
+
+Como você prefere a frequência das sessões de terapia?
+
+( )JSemanal, ( )JQuinzenal, ( )Mensal
+
+Faltas e Abandono nas sessões de Terapia Comunitária
+
+Caso você tenha faltado a algumas sessões de terapia ou a abandonado, o que
+levou a isso?
+
+()Não gosto de expor meus sentimentos em grupo,
+
+( JFalta de tempo ou esquecimento,
+
+( JHorário das sessões incompatível,
+
+( Jnão vejo necessidade, estou bem.
+
+Comentários e ou sugestões para novos grupos de terapia:
+
+A seguir aplicaremos a Escala de Avaliação da Depressão — Escala de Hamilton
+(HAM-D 21 itens), contidano Anexo A.
+APÊNDICE C - CARTA DE ANUÊNCIA
+
+ 
+54
+
+APÊNDICE D - FLUXOGRAMA ENSAIO CLÍNICO
+
+Avaliados para elegibilidade (n=44)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Excluídos
+” Não atendem aos critérios de inclusão (n=0)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Randomizados (n=30)
+
+ 
+
+ 
+
+Reservas (n=14)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Y
+vw Alocação Y
+Grupo Controle Grupo da Intervenção (TCI)
+Alocação para a intervenção (TCI) (n=15) Alocação para a intervenção (TCI) (n=15)
+Tentaram troca de grupo (informal) (n=1) Tentaram troca de grupo (informal) (n=1)
+Abandono da randomização
+Alocação por disponibilidade
+Seguimento
+Y Y
+Perda de seguimento: Perda de seguimento:
+Não compareceram a consulta Não compareceram a consulta
+médica (n=7) médica (n=3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+       
+
+ 
+
+Convite ao Grupo Reservas (n=14)
+Convite ao Grupo Controle (n=8)
+
+t
+
+Abandono do estudo (n=5)
+Alocação por disponibilidade (n=3)
+
+ 
+
+ 
+
+ 
+
+2º Semanal (n=8)
+
+ 
+
+ 
+
+ 
+
+ 
+ANEXO A — HAM-D 21
+
+ESCALA DE AVALIAÇÃO DA DEPRESSÃO DE HAMILTON
+
+55
+
+ 
+
+HUMOR DEPRIMIDO
+
+O. Ausente
+
+1. Sentimentos relatados apenas ao ser perguntado
+
+2. Sentimentos relatados espontaneamente, com palavras
+
+3. Comunica os sentimentos com expressão facial, postura, voz e tendência
+ao choro
+
+4. Sentimentos deduzidos da comunicação verbal e não verbal do paciente
+
+ESCORE
+
+ 
+
+SENTIMENTOS DE CULPA
+
+O. Ausentes
+
+1. Auto recriminação; sente que decepcionou os outros
+
+2. Ideias de culpa ou ruminação sobre erros passados ou más Ações
+3. A doença atual é um castigo. Delírio de culpa
+
+4. Ouve vozes de acusação ou denúncia e/ou tem alucinações visuais
+ameaçadoras
+
+ 
+
+SUICÍDIO
+
+O. Ausente
+
+1. Sente que a vida não vale a pena
+
+2. Desejaria estar morto; pensa na possibilidade de sua morte
+3. Ideias ou gestos suicidas
+
+4. Tentativa de suicídio (qualquer tentativa séria)
+
+ 
+
+INSÔNIA INICIAL
+
+O. Sem dificuldade
+
+1. Tem alguma dificuldade ocasional, isto é, mais de meia hora
+2. Queixa de dificuldade para conciliar todas as noites
+
+ 
+
+INSÔNIA INTERMEDIÁRIA
+
+O. Sem dificuldade
+
+1. Queixa-se de inquietude e perturbação durante a noite
+
+2. Acorda à noite; qualquer saída da cama (exceto para urinar)
+
+ 
+
+INSÔNIA TARDIA
+
+O. Sem dificuldade
+
+1. Acorda de madrugada, mas volta a dormir
+
+2. Incapaz de voltar a conciliar o sono ao deixar a cama
+
+ 
+
+ 
+
+ 
+
+TRABALHOS E ATIVIDADES
+
+O. Sem dificuldade
+
+1. Pensamento/sentimento de incapacidade, fadiga, fraqueza relacionada
+às atividades; trabalho ou passatempos
+
+2. Perda de interesse por atividades (passatempos, trabalho) — quer diretamente
+relatada pelo paciente, ou indiretamente, por desatenção, indecisão e vacilação
+(sente que precisa se esforçar para o trabalho ou atividades).
+
+3. Diminuição do tempo gasto em atividades ou queda da produtividade.
+No hospital, marcar 3 se o paciente passa menos de 3h em atividades
+externas (passatempos ou trabalho hospitalar)
+
+4. Parou de trabalhar devido à doença atual. No hospital, marcar 4 se o
+paciente não se ocupar de outras atividades além de pequenas tarefas do
+leito, ou for incapaz de realizá-las sem auxílio
+
+ 
+
+ 
+
+ 
+56
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 | RETARDO
+0. Pensamento e fala normais
+1. Leve retardo durante a entrevista
+2. Retardo óbvio à entrevista
+3. Estupor completo
+9 | AGITAÇÃO
+0. Nenhuma
+1. Brinca com as mãos ou com os cabelos, etc
+2. Troce as mãos, rói as unhas, puxa os cabelos, morde os lábios
+10 | ANSIEDADE PSÍQUICA
+O. Sem ansiedade
+1. Tensão e irritabilidade subjetivas
+2. Preocupação com trivialidades
+3. Atitude apreensiva aparente no rosto ou fala
+4. Medos expressos sem serem inquiridos
+11 | ANSIEDADE SOMÁTICA (sintomas fisiológicos de ansiedade: boca
+seca, flatulência, indigestão, diarréia, cólicas, eructações; palpitações,
+cefaléia, hiperventilação, suspiros, sudorese, frequência urinária)
+O. Ausente
+1. Leve
+2. Moderada
+3. Grave
+4. Incapacitante
+12 | ANSIEDADE SOMÁTICA (sintomas fisiológicos de ansiedade: boca
+seca, flatulência, indigestão, diarréia, cólicas, eructações; palpitações,
+cefaléia, hiperventilação, suspiros, sudorese, frequência urinária)
+O. Ausente
+1. Leve
+2. Moderada
+3. Grave
+4. Incapacitante
+13 | SINTOMAS SOMÁTICOS EM GERAL
+0. Nenhum
+1. Peso nos membros, costas ou cabeça. Dores nas costas, cefaléia,
+mialgia. Perda de energia e cansaço
+2. Qualquer sintoma bem caracterizado e nítido, marcar 2
+14 | SINTOMAS GENITAIS (perda da libido, sintomas menstruais)
+O. Ausentes
+1. Leves distúrbios menstruais
+2. Intensos
+15 | HIPOCONDRIA (MEDO DE ESTAR DOENTE)
+
+ 
+
+O. Ausente
+
+1. Auto-observação aumentada (com relação ao corpo)
+2. Preocupação com a saúde
+
+3. Queixas frequentes, pedidos de ajuda, etc
+
+4. Idéias delirantes hipocondríacas
+
+ 
+
+ 
+
+ 
+57
+
+ 
+
+16
+
+PERDA DE PESO (Marcar A ou B; A- pela história; B — pela avaliação semanal do
+psiquiatra responsável)
+
+A,
+
+0. Sem perda de peso
+
+1. Provável perda de peso da doença atual
+
+2. Perda de peso definida
+
+B.
+
+0. Menos de 0,5kg de perda por semana
+
+1. Mais de 0,5kg de perda por semana
+
+ 
+
+17
+
+CONSCIÊNCIA DA DOENÇA
+
+0. Reconhece que está deprimido e doente
+
+1. Reconhece a doença mas atribui-lhe a causa à má alimentação, ao clima, ao
+excesso de trabalho, a vírus, necessidade de repouso
+
+2. Nega estar doente
+
+ 
+
+18
+
+VARIAÇÃO DIURNA (se há variação dos sintomas pela manhã ou à noite; caso não
+haja variação, marcar 0)
+
+O. Ausentes
+
+1. Leve
+
+2. Grave
+
+ 
+
+19
+
+DESPERSONALIZAÇÃO E DESREALIZAÇÃO (Idéias nilistas, sensações de
+irrealidade)
+
+O. Ausentes
+
+1. Leves
+
+2. Moderadas
+
+3. Graves
+
+4. Incapacitantes
+
+ 
+
+20
+
+SINTOMAS PARANOIDES
+
+0. Nenhum
+
+1. Desconfiança
+
+2. Idéias de referência
+
+3. Delírio de referência e perseguição
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21 | SINTOMAS OBSESSIVOS E COMPULSIVOS
+0. Nenhum
+1. Leves
+2. Graves
+ESCORE TOTAL = PONTOS
+
+* Adapted from Hamilton, M. Joumal of Neurology, Neurosurgery, and Psychiatry. 23:56-62, 1960
+
+ 
+
